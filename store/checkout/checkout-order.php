@@ -7,19 +7,19 @@
     <title>Verany • Checkout | Order</title>
 
     <!-- CSS -->
-    <link href="assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="/assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="/assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
 
-    <link href="assets/css/main.css" rel="stylesheet">
-    <link href="assets/css/styles.css" rel="stylesheet">
+    <link href="/assets/css/main.css" rel="stylesheet">
+    <link href="/assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+    <link rel="icon" href="/assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -37,7 +37,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="/assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -183,7 +183,7 @@
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
                               <a href="store-product.html">
-                                <img class="checkout-order-img img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                                <img class="checkout-order-img img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                               </a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
@@ -233,7 +233,7 @@
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
                               <a href="store-product.html">
-                                <img class="checkout-order-img img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                                <img class="checkout-order-img img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                               </a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
@@ -586,7 +586,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -613,7 +613,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -640,7 +640,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -667,7 +667,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -699,15 +699,15 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="assets/js/jquery.min.js"></script>
+    <script src="/assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
 
     <!-- User JS -->
-    <script src="assets/js/scripts.js"></script>
+    <script src="/assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

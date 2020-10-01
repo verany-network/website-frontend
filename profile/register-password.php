@@ -181,37 +181,36 @@
                                     <!-- item -->
                                     <div class="col-md-12 mb-4">
                                         <div>
-                                            <h4 class="mb-5">Your username</h4>
+                                            <h4 class="mb-5">Password</h4>
                                             <form class="input-transparent">
                                                 <div class="form-group input-group mb-0">
-                                                    <input type="text" class="form-control" placeholder="Enter Your Username">
+                                                    <input type="password" class="form-control" placeholder="Enter Your Password">
                                                 </div>
                                             </form>
                                         </div>
-                                    <!-- /.item -->
+                                        <!-- /.item -->
+                                    </div>
+                                    <hr class="border-secondary my-4">
                                 </div>
-                                <hr class="border-secondary my-4">
-                            </div>
-                            <div>
-                                <h4 class="mb-5">Verify Token</h4>
-                                <p>/verify on the minecraft network</p>
-                                <form class="input-transparent">
-                                    <div class="form-group input-group mb-0">
-                                        <input type="text" class="form-control" placeholder="Enter Your Token">
-                                    </div>
-                                    <br>
-                                    <div class="input-group-append mb-0">
-                                        <button class="btn btn-warning" type="button">Apply</button>
-                                    </div>
-                                </form>
+                                <div>
+                                    <h4 class="mb-5">Repeat Password</h4>
+                                    <form class="input-transparent">
+                                        <div class="form-group input-group mb-0">
+                                            <input type="password" class="form-control" placeholder="Repeat Password">
+                                        </div>
+                                        <br>
+                                        <div class="input-group-append mb-0">
+                                            <button class="btn btn-warning" type="button">Apply</button>
+                                        </div>
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- /.content area -->
+        <!-- /.content area -->
 
 </main>
 

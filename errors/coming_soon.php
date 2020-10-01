@@ -30,7 +30,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body class="page-body br-n bp-c bs-c" data-overlay="9" style="background-image: url(../assets/img/maintenance/bg.png);">
+  <body class="page-body br-n bp-c bs-c" data-overlay="5" style="background-image: url(../assets/img/maintenance/bg.png);">
 
     <main class="main-content h-fullscreen d-flex align-items-center text-center text-light">
 

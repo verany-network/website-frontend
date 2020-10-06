@@ -7,20 +7,20 @@
     <title>Verany • Error | Coming soon</title>
 
     <!-- CSS -->
-    <link href="../assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="../assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="../../assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="../../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="../../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="../../assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="../assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
-    <link href="../assets/plugins/slick/slick.css" rel="stylesheet">
+    <link href="../../assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="../../assets/plugins/slick/slick.css" rel="stylesheet">
 
-    <link href="../assets/css/main.css" rel="stylesheet">
-    <link href="../assets/css/styles.css" rel="stylesheet">
+    <link href="../../assets/css/main.css" rel="stylesheet">
+    <link href="../../assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="../assets/img/apple-touch-icon.png">
-    <link rel="icon" href="../assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="../../assets/img/apple-touch-icon.png">
+    <link rel="icon" href="../../assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -30,7 +30,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body class="page-body br-n bp-c bs-c" data-overlay="5" style="background-image: url(../assets/img/maintenance/bg.png);">
+  <body class="page-body br-n bp-c bs-c" data-overlay="5" style="background-image: url(../../assets/img/maintenance/bg.png);">
 
     <main class="main-content h-fullscreen d-flex align-items-center text-center text-light">
 
@@ -70,18 +70,18 @@
     </main>
 
     <!-- jQuery -->
-    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../../assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/bootstrap.min.js"></script>
 
     <!-- Parallax -->
-    <script src="../assets/plugins/parallax/parallax.js"></script>
+    <script src="../../assets/plugins/parallax/parallax.js"></script>
 
     <!-- User JS -->
-    <script src="../assets/js/scripts.js"></script>
+    <script src="../../assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="../assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="../../assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

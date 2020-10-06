@@ -7,17 +7,17 @@
     <title>Verany • Private Messages</title>
 
     <!-- CSS -->
-    <link href="assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="/assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="/assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="assets/css/main.css" rel="stylesheet">
-    <link href="assets/css/styles.css" rel="stylesheet">
+    <link href="/assets/css/main.css" rel="stylesheet">
+    <link href="/assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+    <link rel="icon" href="/assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -35,7 +35,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="/assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -49,7 +49,7 @@
           <div class="col-8 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
             <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">Sakuras </a>
+                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="/assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">Sakuras </a>
                 <div class="dropdown-menu position-absolute" aria-labelledby="dropdownUser">
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-user"></i></span>My Profile</a>
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-wallet"></i></span>Wallet</a>
@@ -138,7 +138,7 @@
     <main class="main-content gradient-lg position-relative">
 
       <!-- overlay -->
-      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(assets/img/bg/bg_shape.png);"></div>
+      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(/assets/img/bg/bg_shape.png);"></div>
       <!-- /.overlay -->
 
       <!-- content area -->
@@ -192,7 +192,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -224,7 +224,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -256,7 +256,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -288,7 +288,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -320,7 +320,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -352,7 +352,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -384,7 +384,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -416,7 +416,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -448,7 +448,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -480,7 +480,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -512,7 +512,7 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
@@ -550,7 +550,7 @@
                               <!-- welcome -->
                               <li class="text-left fw-500 mb-6">
                                 <div class="chat-dialogue-sm-avatar position-relative mb-2">
-                                  <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(assets/img/avatar/2.jpg)">
+                                  <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(/assets/img/avatar/2.jpg)">
                                     <div class="chat-user-status-border"></div>
                                   </div>
                                   <div class="chat-user-status active"></div>
@@ -572,7 +572,7 @@
                                   Hello there. Thanks for the follow. Did you notice, that I am an egg? A talking egg? Damn!
                                 </div>
                                 <div class="align-self-start">
-                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(assets/img/avatar/2.jpg)"></div>
+                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(/assets/img/avatar/2.jpg)"></div>
                                 </div>
                               </li>
                               <!-- /.message -->
@@ -580,7 +580,7 @@
                               <li class="chat-msg-item mb-6">
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="align-self-start">
-                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(assets/img/avatar/1.jpg)"></div>
+                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(/assets/img/avatar/1.jpg)"></div>
                                   </div>
                                   <div class="chat-dialogue-me">
                                     Hello there. Thanks for the follow. Did you notice, that I am an egg? A talking egg? Damn!
@@ -606,7 +606,7 @@
                                   I never meant to come between you and him.
                                 </div>
                                 <div class="align-self-start">
-                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(assets/img/avatar/2.jpg)"></div>
+                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(/assets/img/avatar/2.jpg)"></div>
                                 </div>
                               </li>
                               <!-- /.message -->
@@ -614,7 +614,7 @@
                               <li class="chat-msg-item mb-6">
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="align-self-start">
-                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(assets/img/avatar/1.jpg)"></div>
+                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(/assets/img/avatar/1.jpg)"></div>
                                   </div>
                                   <div class="chat-dialogue-me">
                                     If you do this, you will be dead to me.
@@ -640,7 +640,7 @@
                                   Hello there. Thanks for the follow. Did you notice, that I am an egg? A talking egg? Damn!
                                 </div>
                                 <div class="align-self-start">
-                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(assets/img/avatar/2.jpg)"></div>
+                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(/assets/img/avatar/2.jpg)"></div>
                                 </div>
                               </li>
                               <!-- /.message -->
@@ -648,7 +648,7 @@
                               <li class="chat-msg-item mb-6">
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="align-self-start">
-                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(assets/img/avatar/1.jpg)"></div>
+                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(/assets/img/avatar/1.jpg)"></div>
                                   </div>
                                   <div class="chat-dialogue-me">
                                     Hello there. Thanks for the follow. Did you notice, that I am an egg? A talking egg? Damn!
@@ -667,7 +667,7 @@
                                   I never meant to come between you and him.
                                 </div>
                                 <div class="align-self-start">
-                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(assets/img/avatar/2.jpg)"></div>
+                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(/assets/img/avatar/2.jpg)"></div>
                                 </div>
                               </li>
                               <!-- /.message -->
@@ -682,7 +682,7 @@
                               <li class="chat-msg-item mb-6">
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="align-self-start">
-                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(assets/img/avatar/1.jpg)"></div>
+                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(/assets/img/avatar/1.jpg)"></div>
                                   </div>
                                   <div class="chat-dialogue-me">
                                     If you do this, you will be dead to me.
@@ -752,7 +752,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="/assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
                 <p>Wicodus is a online store where you can find digital goods at the best prices.</p>
                 <div class="social-buttons">
                   <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
@@ -876,7 +876,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -901,7 +901,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -932,19 +932,19 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="assets/js/jquery.min.js"></script>
+    <script src="/assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
 
     <!-- nicescroll -->
-    <script src="assets/plugins/scrollbar/jquery.nicescroll.min.js"></script>
-    <script src="assets/plugins/scrollbar/jquery.nicescroll.conf.js"></script>
+    <script src="/assets/plugins/scrollbar/jquery.nicescroll.min.js"></script>
+    <script src="/assets/plugins/scrollbar/jquery.nicescroll.conf.js"></script>
 
     <!-- User JS -->
-    <script src="assets/js/scripts.js"></script>
+    <script src="/assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

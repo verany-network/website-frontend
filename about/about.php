@@ -7,20 +7,20 @@
     <title>Verany • About</title>
 
     <!-- CSS -->
-    <link href="assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="../assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="../assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
-    <link href="assets/plugins/slick/slick.css" rel="stylesheet">
+    <link href="../assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="../assets/plugins/slick/slick.css" rel="stylesheet">
 
-    <link href="assets/css/main.css" rel="stylesheet">
-    <link href="assets/css/styles.css" rel="stylesheet">
+    <link href="../assets/css/main.css" rel="stylesheet">
+    <link href="../assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="../assets/img/apple-touch-icon.png">
+    <link rel="icon" href="../assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -38,7 +38,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -172,7 +172,7 @@
         <div class="container">
           <div class="row gutters-y align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0 ml-auto">
-              <div class="ar-4_3 bs-c bp-c br-n rounded" style="background-image: url(assets/img/bg/bg-3.jpg)"></div>
+              <div class="ar-4_3 bs-c bp-c br-n rounded" style="background-image: url(../assets/img/bg/bg-3.jpg)"></div>
             </div>
             <div class="col-lg-6 ml-lg--8 rounded bg-dark text-light shadow-lg-3 py-7 px-lg-7 py-lg-6">
               <h3 class="mb-4">Our Mission.</h3>
@@ -187,7 +187,7 @@
       <!-- /.content area -->
 
       <!-- content area -->
-      <div class="about-features content-section bp-c br-n bs-c" style="background-image: url(assets/img/bg/bg_a.jpg)" data-overlay="8">
+      <div class="about-features content-section bp-c br-n bs-c" style="background-image: url(../assets/img/bg/bg_a.jpg)" data-overlay="8">
         <div class="container-fluid text-center">
           <div class="row gutters-y">
             <div class="col-md-6 col-lg-3 mb-6 mb-lg-0">
@@ -233,7 +233,7 @@
           <div class="row">
             <div class="col-md-4 mb-9 mb-md-0">
               <article class="card article-post">
-                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(assets/img/avatar/1.jpg)"></div>
+                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(../assets/img/avatar/1.jpg)"></div>
                 <figure>
                   <figcaption>
                     <h5 class="text-light mt-1 mb-0"><a href="#" class="text-light">Sollicitudin</a></h5>
@@ -246,7 +246,7 @@
             </div>
             <div class="col-md-4 mb-9 mb-md-0">
               <article class="card article-post">
-                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(assets/img/avatar/1.jpg)"></div>
+                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(../assets/img/avatar/1.jpg)"></div>
                 <figure>
                   <figcaption>
                     <h5 class="text-light mt-1 mb-0"><a href="#" class="text-light">Sollicitudin</a></h5>
@@ -261,7 +261,7 @@
             </div>
             <div class="col-md-4">
               <article class="card article-post">
-                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(assets/img/avatar/1.jpg)"></div>
+                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(../assets/img/avatar/1.jpg)"></div>
                 <figure>
                   <figcaption>
                     <h5 class="text-light mt-1 mb-0"><a href="#" class="text-light">Sollicitudin</a></h5>
@@ -286,28 +286,28 @@
             <div class="col-md-6 col-lg d-flex pl-lg-0 pr-lg-1 mb-4 mb-lg-0">
               <div class="tile d-flex px-0">
                 <div class="tile">
-                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(assets/img/thumb/3.jpg);"></figure>
+                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(../assets/img/thumb/3.jpg);"></figure>
                 </div>
               </div>
             </div>
             <div class="col-md-6 col-lg d-flex px-lg-1 mb-4 mb-lg-0">
               <div class="tile d-flex px-0">
                 <div class="tile">
-                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(assets/img/thumb/11.jpg);"></figure>
+                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(../assets/img/thumb/11.jpg);"></figure>
                 </div>
               </div>
             </div>
             <div class="col-md-6 col-lg d-flex px-lg-1 mb-4 mb-md-0">
               <div class="tile d-flex px-0">
                 <div class="tile">
-                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(assets/img/thumb/6.jpg);"></figure>
+                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(../assets/img/thumb/6.jpg);"></figure>
                 </div>
               </div>
             </div>
             <div class="col-md-6 col-lg d-flex pr-lg-0 pl-lg-1">
               <div class="tile d-flex px-0">
                 <div class="tile">
-                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(assets/img/thumb/5.jpg);"></figure>
+                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(../assets/img/thumb/5.jpg);"></figure>
                 </div>
               </div>
             </div>
@@ -316,21 +316,21 @@
             <div class="col-md mb-4 mb-md-0 d-flex pr-lg-1 pl-lg-0">
               <div class="tile d-flex px-0">
                 <div class="tile">
-                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(assets/img/thumb/4.jpg);"></figure>
+                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(../assets/img/thumb/4.jpg);"></figure>
                 </div>
               </div>
             </div>
             <div class="col-md mb-4 mb-md-0 d-flex px-lg-1">
               <div class="tile d-flex px-0">
                 <div class="tile">
-                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(assets/img/thumb/7.jpg);"></figure>
+                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(../assets/img/thumb/7.jpg);"></figure>
                 </div>
               </div>
             </div>
             <div class="col-md d-flex pl-lg-1 pr-lg-0">
               <div class="tile d-flex px-0">
                 <div class="tile">
-                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(assets/img/thumb/12.jpg);"></figure>
+                  <figure class="h-100 ar-8_5 bs-c br-n bp-c" style="background-image: url(../assets/img/thumb/12.jpg);"></figure>
                 </div>
               </div>
             </div>
@@ -340,7 +340,7 @@
       <!-- /.screenshots area -->
 
       <!-- content area -->
-      <section class="content-section latest-articles text-center text-light bs-c bp-c br-n position-relative" data-overlay="7" style="background-image: url(assets/img/bg/bg-3.jpg)">
+      <section class="content-section latest-articles text-center text-light bs-c bp-c br-n position-relative" data-overlay="7" style="background-image: url(../assets/img/bg/bg-3.jpg)">
         <div class="container position-relative">
           <header class="section-header">
             <h2>Our Values</h2>
@@ -381,7 +381,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="../assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
                 <p>Wicodus is a online store where you can find digital goods at the best prices.</p>
                 <div class="social-buttons">
                   <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
@@ -505,7 +505,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -530,7 +530,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -561,18 +561,18 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="assets/js/jquery.min.js"></script>
+    <script src="../assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
 
     <!-- Parallax -->
-    <script src="assets/plugins/parallax/parallax.js"></script>
+    <script src="../assets/plugins/parallax/parallax.js"></script>
 
     <!-- User JS -->
-    <script src="assets/js/scripts.js"></script>
+    <script src="../assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="assets/js/main.js" id="_mainJS"></script>
+    <script src="../assets/js/main.js" id="_mainJS"></script>
   </body>
 </html>

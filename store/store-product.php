@@ -7,20 +7,20 @@
     <title>Verany • Store | Product</title>
 
     <!-- CSS -->
-    <link href="assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="/assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="/assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
-    <link href="assets/plugins/slick/slick.css" rel="stylesheet">
+    <link href="/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="/assets/plugins/slick/slick.css" rel="stylesheet">
 
-    <link href="assets/css/main.css" rel="stylesheet">
-    <link href="assets/css/styles.css" rel="stylesheet">
+    <link href="/assets/css/main.css" rel="stylesheet">
+    <link href="/assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+    <link rel="icon" href="/assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -38,7 +38,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="/assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -134,7 +134,7 @@
     <main class="main-content">
 
       <!-- overlay -->
-      <div class="overlay overflow-hidden pe-n"><img src="assets/img/bg/bg_shape.png" alt="background shape"></div>
+      <div class="overlay overflow-hidden pe-n"><img src="/assets/img/bg/bg_shape.png" alt="background shape"></div>
       <!-- /.overlay -->
 
       <!-- content area -->
@@ -179,16 +179,16 @@
                     <!-- carousel wrapper-->
                     <div class="carousel-product">
                       <div class="slider text-secondary" data-slick="product-body">
-                        <img src="assets/img/content/product/01.jpg" alt="Game">
-                        <img src="assets/img/content/product/02.jpg" alt="Game">
-                        <img src="assets/img/content/product/01.jpg" alt="Game">
-                        <img src="assets/img/content/product/01.jpg" alt="Game">
+                        <img src="/assets/img/content/product/01.jpg" alt="Game">
+                        <img src="/assets/img/content/product/02.jpg" alt="Game">
+                        <img src="/assets/img/content/product/01.jpg" alt="Game">
+                        <img src="/assets/img/content/product/01.jpg" alt="Game">
                       </div>
                       <div class="slider product-slider-nav text-secondary">
-                        <div class="slide-item px-1"><img src="assets/img/content/product/01.jpg" class="screenshot" alt="Game"></div>
-                        <div class="slide-item px-1"><img src="assets/img/content/product/02.jpg" class="screenshot" alt="Game"></div>
-                        <div class="slide-item px-1"><img src="assets/img/content/product/01.jpg" class="screenshot" alt="Game"></div>
-                        <div class="slide-item px-1"><img src="assets/img/content/product/01.jpg" class="screenshot" alt="Game"></div>
+                        <div class="slide-item px-1"><img src="/assets/img/content/product/01.jpg" class="screenshot" alt="Game"></div>
+                        <div class="slide-item px-1"><img src="/assets/img/content/product/02.jpg" class="screenshot" alt="Game"></div>
+                        <div class="slide-item px-1"><img src="/assets/img/content/product/01.jpg" class="screenshot" alt="Game"></div>
+                        <div class="slide-item px-1"><img src="/assets/img/content/product/01.jpg" class="screenshot" alt="Game"></div>
                       </div>
                     </div>
                     <!-- /.carousel wrapper -->
@@ -400,7 +400,7 @@
                         <div class="owl-carousel carousel_sm" data-carousel-items="1, 2, 3, 3" data-carousel-margin="10" data-carousel-nav="false" data-carousel-dots="true">
                           <div class="item">
                             <a href="#">
-                              <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(assets/img/content/cont/cg-c_02.jpg);">
+                              <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(/assets/img/content/cont/cg-c_02.jpg);">
                                 <div class="position-absolute w-100 l-0 b-0 bg-dark_A-80 text-light">
                                   <div class="px-4 py-3 lh-1">
                                     <h6 class="mb-1 small-1 text-light text-uppercase">Phasellus</h6>
@@ -414,7 +414,7 @@
                           </div>
                           <div class="item">
                             <a href="#">
-                              <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(assets/img/content/cont/cg-c_02.jpg);">
+                              <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(/assets/img/content/cont/cg-c_02.jpg);">
                                 <div class="position-absolute w-100 l-0 b-0 bg-dark_A-80 text-light">
                                   <div class="px-4 py-3 lh-1">
                                     <h6 class="mb-1 small-1 text-light text-uppercase">Phasellus</h6>
@@ -428,7 +428,7 @@
                           </div>
                           <div class="item">
                             <a href="#">
-                              <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(assets/img/content/cont/cg-c_02.jpg);">
+                              <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(/assets/img/content/cont/cg-c_02.jpg);">
                                 <div class="position-absolute w-100 l-0 b-0 bg-dark_A-80 text-light">
                                   <div class="px-4 py-3 lh-1">
                                     <h6 class="mb-1 small-1 text-light text-uppercase">Phasellus</h6>
@@ -442,7 +442,7 @@
                           </div>
                           <div class="item">
                             <a href="#">
-                              <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(assets/img/content/cont/cg-c_02.jpg);">
+                              <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(/assets/img/content/cont/cg-c_02.jpg);">
                                 <div class="position-absolute w-100 l-0 b-0 bg-dark_A-80 text-light">
                                   <div class="px-4 py-3 lh-1">
                                     <h6 class="mb-1 small-1 text-light text-uppercase">Phasellus</h6>
@@ -470,7 +470,7 @@
             </div>
             <div class="col-lg-4">
               <div class="bg-dark_A-20 p-4 mb-4">
-                <img src="assets/img/content/cont/product_preview.jpg" alt="Product" class="mb-3">
+                <img src="/assets/img/content/cont/product_preview.jpg" alt="Product" class="mb-3">
                 <p>Sed neque nibh, vehicula vel molestie eget, venenatis in odio. Nulla nec metus sagittis, scelerisque leo eu, vestibulum justo. Mauris rhoncus arcu eu sagittis consequat.</p>
                 <div class="price-wrapper">
                   <div class="mb-3">
@@ -585,7 +585,7 @@
           <div class="owl-carousel" data-carousel-items="1, 3, 6">
             <!-- item -->
             <div class="item mx-3">
-              <img src="assets/img/content/img_01.jpg" alt="Game" class="mb-3">
+              <img src="/assets/img/content/img_01.jpg" alt="Game" class="mb-3">
               <a href="#" class="text-uppercase fw-500 small-2 mb-0">Nunc consectetur</a>
               <span class="time d-block small-4">05/08/2020</span>
               <span class="d-block small text-warning"><i class="far fa-eye"></i> 23</span>
@@ -608,7 +608,7 @@
                   <!-- Item -->
                   <div class="col-12 mb-7">
                     <div class="d-flex flex-wrap flex-sm-nowrap">
-                      <div><img src="assets/img/avatar/1.jpg" class="d-none d-sm-block avatar rounded" alt="Avatar"></div>
+                      <div><img src="/assets/img/avatar/1.jpg" class="d-none d-sm-block avatar rounded" alt="Avatar"></div>
                       <div class="review-item ml-sm-4">
                         <div class="small d-flex align-items-start">
                           <!-- user -->
@@ -657,7 +657,7 @@
                   <!-- Item -->
                   <div class="col-12 mb-7">
                     <div class="d-flex flex-wrap flex-sm-nowrap">
-                      <div><img src="assets/img/avatar/1.jpg" class="d-none d-sm-block avatar rounded" alt="Avatar"></div>
+                      <div><img src="/assets/img/avatar/1.jpg" class="d-none d-sm-block avatar rounded" alt="Avatar"></div>
                       <div class="review-item ml-sm-4">
                         <div class="small d-flex align-items-start">
                           <!-- user -->
@@ -706,7 +706,7 @@
                   <!-- Item -->
                   <div class="col-12 mb-7">
                     <div class="d-flex flex-wrap flex-sm-nowrap">
-                      <div><img src="assets/img/avatar/1.jpg" class="d-none d-sm-block avatar rounded" alt="Avatar"></div>
+                      <div><img src="/assets/img/avatar/1.jpg" class="d-none d-sm-block avatar rounded" alt="Avatar"></div>
                       <div class="review-item ml-sm-4">
                         <div class="small d-flex align-items-start">
                           <!-- user -->
@@ -832,7 +832,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="/assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
                 <p>Wicodus is a online store where you can find digital goods at the best prices.</p>
                 <div class="social-buttons">
                   <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
@@ -956,7 +956,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -981,7 +981,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -1012,15 +1012,15 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="assets/js/jquery.min.js"></script>
+    <script src="/assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
 
     <!-- User JS -->
-    <script src="assets/js/scripts.js"></script>
+    <script src="/assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

@@ -7,19 +7,19 @@
     <title>Verany • %TEMPLATE_TITLE%</title>
 
     <!-- CSS -->
-    <link href="assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="http://localhost/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
 
-    <link href="assets/css/main.css" rel="stylesheet">
-    <link href="assets/css/styles.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="http://localhost/assets/img/apple-touch-icon.png">
+    <link rel="icon" href="http://localhost/assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -35,7 +35,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top border-nav">
       <div class="container">
         <a class="navbar-brand align-items-center logo" href="#">
-          <img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+          <img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">☰</button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -53,14 +53,14 @@
 
     <!-- header -->
     <header id="header" class="header h-fullscreen text-light">
-      <div class="media-container parallax-window" data-parallax="scroll" data-image-src="assets/img/content/game-bg.jpg"></div>
+      <div class="media-container parallax-window" data-parallax="scroll" data-image-src="http://localhost/assets/img/content/game-bg.jpg"></div>
       <div class="overlay pe-n bg-dark_A-40"></div>
       <div class="overlay d-flex align-items-center">
         <div class="container text-center">
           <div class="row align-items-center">
             <div class="col-lg-10 mx-auto">
               <div>
-                <img src="assets/img/content/game-logo.png" alt="Game Logo">
+                <img src="http://localhost/assets/img/content/game-logo.png" alt="Game Logo">
               </div>
             </div>
           </div>
@@ -78,7 +78,7 @@
     <main class="main-content">
 
       <!-- content area -->
-      <section id="about" class="content-section position-relative text-light text-center parallax-window" data-parallax="scroll" data-image-src="assets/img/content/bg-2.jpg" data-overlay="8">
+      <section id="about" class="content-section position-relative text-light text-center parallax-window" data-parallax="scroll" data-image-src="http://localhost/assets/img/content/bg-2.jpg" data-overlay="8">
         <div class="container position-relative">
           <div class="row">
             <div class="col-lg-8 mx-auto">
@@ -103,7 +103,7 @@
           <div class="row">
             <div class="col-sm-7 col-md-6 col-lg-3 mx-auto mb-7 md-lg-0">
               <article class="card article-post bg-transparent">
-                <img class="article-image rounded mb-4" src="assets/img/content/characters/1.jpg" alt="characters">
+                <img class="article-image rounded mb-4" src="http://localhost/assets/img/content/characters/1.jpg" alt="characters">
                 <figure class="border border-secondary p-4">
                   <figcaption>
                     <h5 class="mt-1 text-unset"><a href="#">Praesent</a></h5>
@@ -115,7 +115,7 @@
             </div>
             <div class="col-sm-7 col-md-6 col-lg-3 mx-auto mb-7 md-lg-0">
               <article class="card article-post bg-transparent">
-                <img class="article-image rounded mb-4" src="assets/img/content/characters/2.jpg" alt="characters">
+                <img class="article-image rounded mb-4" src="http://localhost/assets/img/content/characters/2.jpg" alt="characters">
                 <figure class="border border-secondary p-4">
                   <figcaption>
                     <h5 class="mt-1 text-unset"><a href="#">Nullam</a></h5>
@@ -127,7 +127,7 @@
             </div>
             <div class="col-sm-7 col-md-6 col-lg-3 mx-auto mb-7 mb-md-0">
               <article class="card article-post bg-transparent">
-                <img class="article-image rounded mb-4" src="assets/img/content/characters/3.jpg" alt="characters">
+                <img class="article-image rounded mb-4" src="http://localhost/assets/img/content/characters/3.jpg" alt="characters">
                 <figure class="border border-secondary p-4">
                   <figcaption>
                     <h5 class="mt-1 text-unset"><a href="#">Suspendisse</a></h5>
@@ -139,7 +139,7 @@
             </div>
             <div class="col-sm-7 col-md-6 col-lg-3 mx-auto mb-7 mb-md-0">
               <article class="card article-post bg-transparent">
-                <img class="article-image rounded mb-4" src="assets/img/content/characters/4.jpg" alt="characters">
+                <img class="article-image rounded mb-4" src="http://localhost/assets/img/content/characters/4.jpg" alt="characters">
                 <figure class="border border-secondary p-4">
                   <figcaption>
                     <h5 class="mt-1 text-unset"><a href="#">Curabitur</a></h5>
@@ -155,7 +155,7 @@
       <!-- /.content area -->
 
       <!-- content area -->
-      <section id="overview" class="content-section latest-articles position-relative text-center text-light parallax-window" data-parallax="scroll" data-image-src="assets/img/content/bg-1.jpg" data-overlay="5">
+      <section id="overview" class="content-section latest-articles position-relative text-center text-light parallax-window" data-parallax="scroll" data-image-src="http://localhost/assets/img/content/bg-1.jpg" data-overlay="5">
         <div class="container position-relative">
           <header class="section-header">
             <h2 class="text-light">Overview</h2>
@@ -164,7 +164,7 @@
           <div class="row">
             <div class="col-md-4 mb-9 mb-md-0">
               <article class="card article-post bg-dark_A-70 border border-secondary py-6 px-5">
-                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(assets/img/avatar/1.jpg)"></div>
+                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(http://localhost/assets/img/avatar/1.jpg)"></div>
                 <figure>
                   <figcaption>
                     <h5 class="text-light mt-1 mb-0"><a href="#" class="text-light">Sollicitudin</a></h5>
@@ -177,7 +177,7 @@
             </div>
             <div class="col-md-4 mb-9 mb-md-0">
               <article class="card article-post bg-dark_A-70 border border-secondary py-6 px-5">
-                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(assets/img/avatar/1.jpg)"></div>
+                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(http://localhost/assets/img/avatar/1.jpg)"></div>
                 <figure>
                   <figcaption>
                     <h5 class="text-light mt-1 mb-0"><a href="#" class="text-light">Sollicitudin</a></h5>
@@ -192,7 +192,7 @@
             </div>
             <div class="col-md-4">
               <article class="card article-post bg-dark_A-70 border border-secondary py-6 px-5">
-                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(assets/img/avatar/1.jpg)"></div>
+                <div class="position-relative overflow-hidden br-n bp-c bs-c article-image ar-1_1 w-50 mx-auto rounded-circle mb-4" style="background-image: url(http://localhost/assets/img/avatar/1.jpg)"></div>
                 <figure>
                   <figcaption>
                     <h5 class="text-light mt-1 mb-0"><a href="#" class="text-light">Sollicitudin</a></h5>
@@ -224,7 +224,7 @@
           <!-- carousel items -->
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <div class="ig-img br-n bp-c bs-c" style="background-image: url(assets/img/content/bg-3.jpg);"></div>
+              <div class="ig-img br-n bp-c bs-c" style="background-image: url(http://localhost/assets/img/content/bg-3.jpg);"></div>
               <div class="ig-sl-gr text-light text-uppercase my-5 my-lg-0">
                 <div class="text-center p-7">
                   <h3 class="mb-0 mb-md-2">Phasellus viverra</h3>
@@ -233,7 +233,7 @@
               </div>
             </div>
             <div class="carousel-item">
-              <div class="ig-img br-n bp-c bs-c" style="background-image: url(assets/img/content/bg-4.jpg);"></div>
+              <div class="ig-img br-n bp-c bs-c" style="background-image: url(http://localhost/assets/img/content/bg-4.jpg);"></div>
               <div class="ig-sl-gr text-light text-uppercase my-5 my-lg-0">
                 <div class="text-center p-7">
                   <h3 class="mb-0 mb-md-2">Phasellus viverra</h3>
@@ -242,7 +242,7 @@
               </div>
             </div>
             <div class="carousel-item">
-              <div class="ig-img br-n bp-c bs-c" style="background-image: url(assets/img/content/bg-5.jpg);"></div>
+              <div class="ig-img br-n bp-c bs-c" style="background-image: url(http://localhost/assets/img/content/bg-5.jpg);"></div>
               <div class="ig-sl-gr text-light text-uppercase my-5 my-lg-0">
                 <div class="text-center p-7">
                   <h3 class="mb-0 mb-md-2">Phasellus viverra</h3>
@@ -270,7 +270,7 @@
           </header>
           <div class="row gutters-y align-items-center">
             <div class="col-lg-4">
-                <form data-form="contact_form" action="assets/php/contact-form.php" class="input-transparent" method="POST"><div class="alert" role="alert" data-alert="result" style="display: none;"></div>
+                <form data-form="contact_form" action="http://localhost/assets/php/contact-form.php" class="input-transparent" method="POST"><div class="alert" role="alert" data-alert="result" style="display: none;"></div>
                   <div class="form-row">
                     <div class="form-group col-md-12">
                       <input class="form-control form-control-lg" type="text" name="name" placeholder="Your Name" required="">
@@ -336,15 +336,15 @@
     <!-- /.footer -->
 
     <!-- jQuery -->
-    <script src="assets/js/jquery.min.js"></script>
+    <script src="http://localhost/assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="http://localhost/assets/js/bootstrap.min.js"></script>
 
     <!-- User JS -->
-    <script src="assets/js/scripts.js"></script>
+    <script src="http://localhost/assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="http://localhost/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

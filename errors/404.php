@@ -7,20 +7,20 @@
     <title>Verany • Error | 404</title>
 
     <!-- CSS -->
-    <link href="/assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="/assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
-    <link href="/assets/plugins/slick/slick.css" rel="stylesheet">
+    <link href="http://localhost/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="http://localhost/assets/plugins/slick/slick.css" rel="stylesheet">
 
-    <link href="/assets/css/main.css" rel="stylesheet">
-    <link href="/assets/css/styles.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
-    <link rel="icon" href="/assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="http://localhost/assets/img/apple-touch-icon.png">
+    <link rel="icon" href="http://localhost/assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -36,7 +36,7 @@
 
       <!-- content area -->
       <div class="container">
-        <img src="/assets/img/404.png" class="d-none d-md-inline mb-6" alt="404">
+        <img src="http://localhost/assets/img/404.png" class="d-none d-md-inline mb-6" alt="404">
         <h2 class="display-md-4">404 - Nothing to see here</h2>
         <p class="lead">You may have mistyped the address or the page may have moved.</p>
         <br>
@@ -47,18 +47,18 @@
     </main>
 
     <!-- jQuery -->
-    <script src="/assets/js/jquery.min.js"></script>
+    <script src="http://localhost/assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="http://localhost/assets/js/bootstrap.min.js"></script>
 
     <!-- Parallax -->
-    <script src="/assets/plugins/parallax/parallax.js"></script>
+    <script src="http://localhost/assets/plugins/parallax/parallax.js"></script>
 
     <!-- User JS -->
-    <script src="/assets/js/scripts.js"></script>
+    <script src="http://localhost/assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="http://localhost/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

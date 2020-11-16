@@ -41,10 +41,7 @@
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
-            <form class="input-group border-0 bg-transparent">
-              <input class="form-control" type="search" placeholder="Search" aria-label="Search">
               <div class="input-group-append">
-                <button class="btn btn-sm btn-warning text-secondary my-0 mx-0" type="submit"><i class="fas fa-search"></i></button>
               </div>
             </form>
           </div>
@@ -79,49 +76,28 @@
         <div class="collapse navbar-collapse" id="collapsingNavbar">
           <ul class="navbar-nav">
             <li class="nav-item dropdown dropdown-hover">
-              <a class="nav-link dropdown-toggle pl-lg-0" href="#" id="dropdownGaming_games" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Games </a>
+              <a class="nav-link dropdown-toggle pl-lg-0" href="#" id="dropdownGaming_games" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Support </a>
               <div class="dropdown-menu dropdown-menu-dark-lg" aria-labelledby="dropdownGaming_games">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Adventure</a>
-                <a class="dropdown-item" href="#">Cooperative</a>
-                <a class="dropdown-item" href="#">MMO</a>
-                <a class="dropdown-item" href="#">RPG</a>
-                <a class="dropdown-item" href="#">Simulation</a>
-                <a class="dropdown-item" href="#">Economy</a>
-                <a class="dropdown-item" href="#">Horror</a>
-                <a class="dropdown-item" href="#">Arcade</a>
-                <a class="dropdown-item" href="#">Hack & Slash</a>
-                <a class="dropdown-item" href="#">Puzzle</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown dropdown-hover">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdownGaming_software" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Software </a>
-              <div class="dropdown-menu dropdown-menu-dark-lg" aria-labelledby="dropdownGaming_software">
-                <a class="dropdown-item" href="#">Animation & Modeling</a>
-                <a class="dropdown-item" href="#">Audio Production</a>
-                <a class="dropdown-item" href="#">Design & Illustration</a>
-                <a class="dropdown-item" href="#">Education</a>
-                <a class="dropdown-item" href="#">Game Development</a>
-                <a class="dropdown-item" href="#">Photo Editing</a>
-                <a class="dropdown-item" href="#">Utilities</a>
-                <a class="dropdown-item" href="#">Video Production</a>
-                <a class="dropdown-item" href="#">Web Publishing</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown dropdown-hover">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdownGaming_community" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Community </a>
-              <div class="dropdown-menu dropdown-menu-dark-lg" aria-labelledby="dropdownGaming_community">
-                <a class="dropdown-item" href="#">Discussions</a>
-                <a class="dropdown-item" href="#">Workshop</a>
-                <a class="dropdown-item" href="#">Market</a>
-                <a class="dropdown-item" href="#">Broadcasts</a>
+                <a class="dropdown-item" href="#"><strong>Application for exile</strong></a>
+                <a class="dropdown-item" href="#"><strong>Report a player</strong></a>
+                <a class="dropdown-item" href="#"><strong>Report a bug</strong></a>
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="#">Forums</a>
+              <div class="-" aria-labelledby="dropdownGaming_software">
+              </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Support</a>
+            <a class="nav-link" href="#">Store</a>
+              <div class="-" aria-labelledby="dropdownGaming_community">
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Apply</a>
             </li>
           </ul>
         </div>
@@ -157,12 +133,12 @@
                 <div class="container">
                   <div class="row align-items-center h-100">
                     <div class="col-12 mr-auto ml-lg-0 col-lg-5">
+                    
                       <div class="main_carousel__content ad-900ms fadeIn text-light px-8 px-md-6 mx-lg-4 mx-xl-0">
-                        <h2 class="carousel__heading text-light fadeInDown ad-500ms">Integer Ornare Erat</h2>
-                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms">Class aptent taciti sociosqu ad litora torquent per conubia, per inceptos himenaeos. Quisque gravida eu lacus et consequat. Interdum et malesuada fames ac ante, ipsum primis in faucibus mollis.</p>
+                      
+                        <h2 class="carousel__heading text-light fadeInDown ad-500ms"></h2>
+                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms"></p>
                         <div class="d-flex fadeInLeft ad-900ms">
-                        <a class="disabled btn btn-lg bg-dark_A-50 o-1 text-light br-round-0tr br-round-0br parallelogram un_text mb-0"><span class="d-block text-warning"><span class="carousel__discount td-lt text-light">349$</span> 299$</span></a>
-                        <a href="#" class="btn btn-lg btn-light parallelogram br-round-0tl br-round-0bl un_text mb-0"><span class="d-block">Buy</span></a>
                         </div>
                       </div>
                     </div>
@@ -175,7 +151,7 @@
 
           <!-- carousel-item -->
           <div class="carousel-item">
-            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/slide_02.jpg);">
+            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/slide02.jpg);">
               <div class="w-100 d-flex jc-c overlay">
                 <!-- sm-overlay -->
                 <div class="overlay bg-light_A-20 d-lg-none"></div>
@@ -189,11 +165,10 @@
                   <div class="row align-items-center h-100">
                     <div class="col-12 mr-auto ml-lg-0 col-lg-5">
                       <div class="main_carousel__content ad-900ms fadeIn text-light px-8 px-md-6 mx-lg-4 mx-xl-0">
-                        <h2 class="carousel__heading text-light fadeInDown ad-500ms">Donec Luctus</h2>
-                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms">Class aptent taciti sociosqu ad litora torquent per conubia, per inceptos himenaeos. Quisque gravida eu lacus et consequat. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                      
+                        <h2 class="carousel__heading text-light fadeInDown ad-500ms"></h2>
+                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms"></p>
                         <div class="d-flex fadeInLeft ad-900ms">
-                        <a class="disabled btn btn-lg bg-dark_A-50 o-1 text-light br-round-0tr br-round-0br parallelogram un_text mb-0"><span class="d-block text-warning"><span class="carousel__discount td-lt text-light">349$</span> 299$</span></a>
-                        <a href="#" class="btn btn-lg btn-light parallelogram br-round-0tl br-round-0bl un_text mb-0"><span class="d-block">Buy</span></a>
                         </div>
                       </div>
                     </div>
@@ -206,7 +181,7 @@
 
           <!-- carousel-item -->
           <div class="carousel-item">
-            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/slide_03.jpg);">
+            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/slide03.jpg);">
               <div class="w-100 d-flex jc-c overlay">
                 <!-- sm-overlay -->
                 <div class="overlay bg-light_A-20 d-lg-none"></div>
@@ -220,11 +195,10 @@
                   <div class="row align-items-center h-100">
                     <div class="col-12 mr-auto ml-lg-0 col-lg-5">
                       <div class="main_carousel__content ad-900ms fadeIn text-light px-8 px-md-6 mx-lg-4 mx-xl-0">
-                        <h2 class="carousel__heading text-light fadeInDown ad-500ms">Nunc Lacinia Tincidunt</h2>
-                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms">Class aptent taciti sociosqu ad litora torquent per conubia, per inceptos himenaeos. Quisque gravida eu lacus et consequat. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                      
+                        <h2 class="carousel__heading text-light fadeInDown ad-500ms"></h2>
+                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms"></p>
                         <div class="d-flex fadeInLeft ad-900ms">
-                        <a class="disabled btn btn-lg bg-dark_A-50 o-1 text-light br-round-0tr br-round-0br parallelogram un_text mb-0"><span class="d-block text-warning"><span class="carousel__discount td-lt text-light">349$</span> 299$</span></a>
-                        <a href="#" class="btn btn-lg btn-light parallelogram br-round-0tl br-round-0bl un_text mb-0"><span class="d-block">Buy</span></a>
                         </div>
                       </div>
                     </div>
@@ -246,7 +220,7 @@
     <main class="main-content">
 
       <!-- content area -->
-      <section class="content-section owl-carousel-spotlight carousel-spotlight ig-carousel text-light" style="background-image: url(assets/img/bg/bg_shape.png);">
+      <section class="content-section owl-carousel-spotlight carousel-spotlight ig-carousel text-light" style="background-image: url(assets/img/bg/bg_shape.png)">
         <div class="container">
           <header class="header">
             <h2>Most popular products</h2>
@@ -799,21 +773,15 @@
               <div class="row">
                 <div class="col-lg-4 mb-6 mb-lg-0">
                   <div class="card">
-                    <div class="img__news_wrapper"><img src="assets/img/content/img_01.jpg" alt="News"></div>
+                    <div class="img__news_wrapper"><img src="assets/img/content/news/discord.jpg" alt="News"></div>
                     <div class="badges badges-left badges-bottom text-white">
-                      <div class="rating_circle-wrapper"> 
-                        <span class="rating_circle-foreground">
-                            <span class="rating_circle-number">9.7</span>
-                        </span> 
-                        <span class="rating_circle" data-rating-total="9"></span>
-                      </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-8">
-                  <h4 class="text-uppercase mb-3">Nullam vestibulum</h4>
+                  <h4 class="text-uppercase mb-3">Discord release</h4>
                   <div class="mb-3 small text-info">
-                    <span><i class="fas fa-tags"></i> Cras quis lacus dolor, Quisque dictum sollicitudin</span> <span class="mx-1">-</span> <span>4th October 2020</span>
+                    <span><i class="fas fa-tags"></i> Ankündigungen</span> <span class="mx-1">-</span> <span>6th October 2020</span>
                   </div>
                   <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                   <a href="news-article.html" class="btn btn-outline-light">Read More</a>
@@ -827,24 +795,18 @@
               <div class="row">
                 <div class="col-lg-4 mb-6 mb-lg-0">
                   <div class="card">
-                    <div class="img__news_wrapper"><img src="assets/img/content/img_02.jpg" alt="News"></div>
+                    <div class="img__news_wrapper"><img src="assets/img/content/news/ts.jpg" alt="News"></div>
                     <div class="badges badges-left badges-bottom text-white">
-                      <div class="rating_circle-wrapper"> 
-                        <span class="rating_circle-foreground">
-                            <span class="rating_circle-number">9.7</span>
-                        </span> 
-                        <span class="rating_circle" data-rating-total="9"></span>
-                      </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-8">
-                  <h4 class="text-uppercase mb-3">Nullam vestibulum</h4>
+                  <h4 class="text-uppercase mb-3">TeamSpeak release</h4>
                   <div class="mb-3 small text-info">
-                    <span><i class="fas fa-tags"></i> Cras quis lacus dolor, Quisque dictum sollicitudin</span> <span class="mx-1">-</span> <span>4th October 2020</span>
+                    <span><i class="fas fa-tags"></i> Ankündigungen</span> <span class="mx-1">-</span> <span>5th October 2020</span>
                   </div>
                   <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                  <a href="news-article.html" class="btn btn-outline-light">Read More</a>
+                  <a href="news-article.html" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>
             </div>
@@ -855,24 +817,18 @@
               <div class="row">
                 <div class="col-lg-4 mb-6 mb-lg-0">
                   <div class="card">
-                    <div class="img__news_wrapper"><img src="assets/img/content/img_03.jpg" alt="News"></div>
+                    <div class="img__news_wrapper"><img src="assets/img/content/news/wereback.jpg" alt="News"></div>
                     <div class="badges badges-left badges-bottom text-white">
-                      <div class="rating_circle-wrapper"> 
-                        <span class="rating_circle-foreground">
-                            <span class="rating_circle-number">9.7</span>
-                        </span>
-                        <span class="rating_circle" data-rating-total="9"></span>
-                      </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-8">
-                  <h4 class="text-uppercase mb-3">Nullam vestibulum</h4>
+                  <h4 class="text-uppercase mb-3">Wir sind zurück!</h4>
                   <div class="mb-3 small text-info">
-                    <span><i class="fas fa-tags"></i> Cras quis lacus dolor, Quisque dictum sollicitudin</span> <span class="mx-1">-</span> <span>4th October 2020</span>
+                    <span><i class="fas fa-tags"></i> Akündigungen</span> <span class="mx-1">-</span> <span>4th October 2020</span>
                   </div>
-                  <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                  <a href="news-article.html" class="btn btn-outline-light">Read More</a>
+                  <p>Einen wunderschönen guten Tag liebe Community. Wir dürfen euch mit voller freude verkünden, dass wir aus unserem Urlaub zurück sind. In diesem Artikel werden wir euch alles erzählen, worauf ihr euch freuen könnt, welche Ziele wir uns gesetzt haben und was demnächst auf das Netzwerk zukommen wird. Zu allererst wollen wir sagen, dass wir nicht einfach inaktiv waren...</p>
+                  <a href="news-article.html" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>
             </div>
@@ -882,7 +838,8 @@
       </section>
       <!-- /.content area -->
 
-      <!-- banner -->
+      
+      <!-- banner
       <div class="content-section pt-0">
         <div class="container">
           <a href="#" class="d-block">
@@ -892,7 +849,8 @@
           </a>
         </div>
       </div>
-      <!-- /.banner -->
+     /.banner -->
+      
 
     </main>
 
@@ -902,7 +860,7 @@
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
                 <a href="#" class="logo d-block mb-4"><img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
-                <p>Wicodus is a online store where you can find digital goods at the best prices.</p>
+                <p>Verany ist ein Innovaties Netzwerk, welches auf der neusten Version basiert und für Spieler ein Interaktives Umfeld bietet.</p>
                 <div class="social-buttons">
                   <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
                   <a class="social-dribbble" href="#"><i class="fab fa-dribbble"></i></a>
@@ -913,8 +871,7 @@
               <div class="col-6 col-lg-2">
                 <h6 class="text-uppercase fw-600 mb-4">About</h6>
                 <div class="nav flex-column">
-                  <a class="nav-link" href="about.html">Our team</a>
-                  <a class="nav-link" href="about.html">Careers</a>
+                  <a class="nav-link" href="about.html">Our Network</a>
                   <a class="nav-link" href="about.html">Cookie Policy</a>
                   <a class="nav-link" href="about.html">Privacy Policy</a>
                   
@@ -925,7 +882,6 @@
                 <h6 class="text-uppercase fw-600 mb-4">Community</h6>
                 <div class="nav flex-column">
                   <a class="nav-link" href="news.html">Forum</a>
-                  <a class="nav-link" href="news.html">Blog</a>
                   <a class="nav-link" href="news.html">News</a>
                   <a class="nav-link" href="news.html">Team</a>
                 </div>
@@ -937,7 +893,6 @@
                   <a class="nav-link" href="contact.html">Contact Us</a>
                   <a class="nav-link" href="contact.html">Support</a>
                   <a class="nav-link" href="contact.html">Terms & conditions</a>
-                  <a class="nav-link" href="contact.html">Refund policy</a>
                 </div>
               </div>
               
@@ -952,15 +907,6 @@
                     <a href="store.html" class="mr-2"><i class="fab fa-cc-jcb"></i></a>
                   </div>
                 </div>
-                <div>
-                  <h6 class="mb-2">Reviews</h6>
-                  <div class="text-warning lead-1">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star text-secondary"></i>
-                  </div>
                 </div>
               </div>
           </div>
@@ -973,7 +919,7 @@
       <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
         <div class="modal-content bg-dark text-light">
           <div class="modal-header border-secondary">
-            <h5 class="modal-title" id="userLoginTitle">Log in</h5>
+            <h5 class="modal-title" id="userLoginTitle">Login</h5>
             <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>

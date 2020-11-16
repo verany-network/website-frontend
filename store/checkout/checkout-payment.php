@@ -7,19 +7,28 @@
     <title>Verany • Checkout | Payment</title>
 
     <!-- CSS -->
+    <!--
     <link href="http://localhost/assets/css/fonts/etline-font.min.css" rel="stylesheet">
     <link href="http://localhost/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
     <link href="http://localhost/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/fonts/themify-icons.css" rel="stylesheet"> -->
 
-    <link href="http://localhost/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./../../assets/css/fonts/etline-font.min.css">
+    <link rel="stylesheet" href="./../../assets/css/fonts/fontawesome/all.min.css">
+    <link rel="stylesheet" href="./../../assets/css/fonts/pe-icon-7-stroke.css">
+    <link rel="stylesheet" href="./../../assets/css/fonts/themify-icons.css">
 
-    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/styles.css" rel="stylesheet">
+    <!--
+    <link href="http://localhost/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet"> -->
+
+    <link rel="stylesheet" href="./../../assets/plugins/owl.carousel/owl.carousel.min.css">
+
+    <link rel="stylesheet" type="text/css" href="./../../assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="./../../assets/css/styles.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="http://localhost/assets/img/apple-touch-icon.png">
-    <link rel="icon" href="http://localhost/assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="../../../assets/img/apple-touch-icon.png">
+    <link rel="icon" href="./../../assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -37,7 +46,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="./../../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -51,7 +60,7 @@
           <div class="col-8 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
             <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="http://localhost/assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">Sakuras </a>
+                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="./../../assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">Sakuras </a>
                 <div class="dropdown-menu position-absolute" aria-labelledby="dropdownUser">
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-user"></i></span>My Profile</a>
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-wallet"></i></span>Wallet</a>
@@ -135,7 +144,7 @@
     <main class="checkout-order-body main-content gradient-lg position-relative">
 
       <!-- overlay -->
-      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(http://localhost/assets/img/bg/bg_shape.png);"></div>
+      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(./../../assets/img/bg/bg_shape.png);"></div>
       <!-- /.overlay -->
 
       <!-- content area -->
@@ -414,7 +423,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="./../../assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
                 <p>Wicodus is a online store where you can find digital goods at the best prices.</p>
                 <div class="social-buttons">
                   <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
@@ -545,15 +554,15 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="http://localhost/assets/js/jquery.min.js"></script>
+    <script src="./../../assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="http://localhost/assets/js/bootstrap.min.js"></script>
+    <script src="./../../assets/js/bootstrap.min.js"></script>
 
     <!-- User JS -->
-    <script src="http://localhost/assets/js/scripts.js"></script>
+    <script src="./../../assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="http://localhost/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="./../../assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

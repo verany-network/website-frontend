@@ -5820,7 +5820,7 @@ button.bg-dark:focus {
 
 .pt-8,
 .py-8 {
-  padding-top: 3rem !important; }
+  padding-top: 2rem !important; }
 
 .pr-8,
 .px-8 {
@@ -6942,7 +6942,7 @@ button.bg-dark:focus {
 
   .pt-md-9,
   .py-md-9 {
-    padding-top: 5rem !important; }
+    padding-top: 0rem !important; }
 
   .pr-md-9,
   .px-md-9 {
@@ -6950,7 +6950,7 @@ button.bg-dark:focus {
 
   .pb-md-9,
   .py-md-9 {
-    padding-bottom: 5rem !important; }
+    padding-bottom: 0rem !important; }
 
   .pl-md-9,
   .px-md-9 {
@@ -12498,9 +12498,10 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
 .bg-size-cover {
   background-size: cover !important; }
 
+
 .bs-cont,
 .bg-size-contain {
-  background-size: contain !important; }
+  background-size: cover !important; }
 
 .bc-dk:hover,
 .bc-dk:focus,

@@ -691,77 +691,6 @@
       <!-- /.content area -->
 
       <!-- content area -->
-      <section class="section gs_features">
-        <div class="row no-gutters">
-          <div class="col-xl-6 col-12 py-8 px-4 px-sm-8 py-md-9 px-md-9 br-n bs-c effect-wrapper effect-grayscale position-relative hover" style="background-image: url('assets/img/content/cont/cg-fl_01.jpg');">
-            <div class="overlay bg-dark_A-90 d-md-none"></div>
-            <div class="row h-100 align-items-center content">
-              <div class="col-12 col-md-8 ml-auto text-light text-md-right">
-                <small class="d-block text-uppercase fw-600 ls-3">New</small>
-                <h2 class="mb-4">An Incredible Journey</h2>
-                <span class="d-block text-uppercase ls-3 mb-6">Only On Wicodus</span>
-                <a href="#" class="btn btn-lg btn-outline-light btn-round">Explore</a>
-              </div>
-            </div>
-            <figure class="d-none d-md-block effect-layla effect-layla-light"></figure>
-          </div>
-          <div class="col-xl-6 col-12 py-8 px-4 px-sm-8 py-md-9 px-md-9 br-n bs-c" style="background-image: url('assets/img/content/cont/cg-fl_03.jpg');" data-overlay="7">
-            <div class="row align-items-center h-100">
-              <div class="col-sm-6 col-md-4 mb-5 mb-md-0">
-                <figure class="position-relative my-0">
-                  <div style="background-image: url('assets/img/content/cont/cg_07.jpg');" class="main-fb-product bs-c bp-c br-n">
-                    <div class="position-absolute t-0 r-0 px-4 py-1 bg-danger text-white text-uppercase fw-600">-50%</div>
-                    <div class="position-absolute b-0 w-100 text-center">
-                      <div data-countdown="2020/01/25 12:34:56" class="countdown-coupon bg-dark_A-50 py-3 text-light fw-700 timer"></div>
-                    </div>
-                  </div>
-                </figure>
-              </div>
-              <div class="col-md-8 text-light">
-                <h2 class="text-light mb-4">Vestibulum</h2>
-                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
-                <a href="#" class="btn btn-lg btn-danger btn-round"><i class="fa fa-shopping-cart mr-5" aria-hidden="true"></i>Buy</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row no-gutters">
-          <div class="col-xl-6 py-8 px-4 px-sm-8 py-md-9 px-md-9 bs-c" style="background-image: url('assets/img/content/cont/cg-fl_04.jpg');" data-overlay="7">
-            <div class="row align-items-center h-100">
-              <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
-                <figure class="position-relative my-0">
-                  <div style="background-image: url('assets/img/content/cont/cg_08.jpg');" class="main-fb-product bs-c bp-c br-n">
-                    <div class="position-absolute t-0 r-0 px-4 py-1 bg-danger text-white text-uppercase fw-600">-72%</div>
-                    <div class="position-absolute b-0 w-100 text-center">
-                      <div data-countdown="2020/02/11 12:34:56" class="countdown-coupon bg-dark_A-50 py-3 text-light fw-700 timer"></div>
-                    </div>
-                  </div>
-                </figure>
-              </div>
-              <div class="col-md-8 order-md-1 text-light text-md-right">
-                <h2 class="mb-4">Explore vestibulum</h2>
-                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
-                <a href="#" class="btn btn-lg btn-danger btn-round"><i class="fa fa-shopping-cart mr-5" aria-hidden="true"></i>Buy</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-6 col-sm-12 py-8 px-4 px-sm-8 py-md-9 px-md-9 bs-c effect-wrapper effect-grayscale position-relative hover" style="background-image: url('assets/img/content/cont/cg-fl_02.jpg');">
-            <div class="overlay bg-dark_A-90 d-md-none"></div>
-            <div class="row h-100 align-items-center content">
-              <div class="col-12 col-md-6 mr-auto text-light text-left">
-                <small class="d-block text-uppercase fw-600 ls-3">Action</small>
-                <h2 class="mb-4">Sed consequat</h2>
-                <span class="d-block lead-1 text-uppercase ls-3 mb-7">An amazing experience from beginning to end.</span>
-                <a href="#" class="btn btn-lg btn-outline-light btn-round">Explore the Sky</a>
-              </div>
-            </div>
-            <figure class="d-none d-md-block effect-layla effect-layla-light"></figure>
-          </div>
-        </div>
-      </section>
-      <!-- /.content area -->
-
-      <!-- content area -->
       <section class="content-section text-light" style="background: linear-gradient(to bottom, #111931 0%, #0f131e 100%);">
         <div class="container">
           <header class="header text-left">
@@ -784,7 +713,7 @@
                     <span><i class="fas fa-tags"></i> Ankündigungen</span> <span class="mx-1">-</span> <span>6th October 2020</span>
                   </div>
                   <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                  <a href="news-article.html" class="btn btn-outline-light">Read More</a>
+                  <a href="news-article.html" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>
             </div>
@@ -827,7 +756,7 @@
                   <div class="mb-3 small text-info">
                     <span><i class="fas fa-tags"></i> Akündigungen</span> <span class="mx-1">-</span> <span>4th October 2020</span>
                   </div>
-                  <p>Einen wunderschönen guten Tag liebe Community. Wir dürfen euch mit voller freude verkünden, dass wir aus unserem Urlaub zurück sind. In diesem Artikel werden wir euch alles erzählen, worauf ihr euch freuen könnt, welche Ziele wir uns gesetzt haben und was demnächst auf das Netzwerk zukommen wird. Zu allererst wollen wir sagen, dass wir nicht einfach inaktiv waren...</p>
+                  <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                   <a href="news-article.html" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>
@@ -838,6 +767,71 @@
       </section>
       <!-- /.content area -->
 
+    <!-- content area -->
+    <section class="section gs_features">
+    <div class="row no-gutters">
+          <div class="col-xl-6 py-8 px-4 px-sm-8 py-md-9 px-md-9 " data-overlay="7">
+            <div class="row align-items-center h-100">
+              <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
+                <figure class="position-relative my-0">
+                  <div style="background-image: url('assets/img/content/cont/partnerLaby.png'); width: 280px;" class="main-fb-product bp-c br-n">
+                  </div>
+                </figure>
+              </div>
+              <div class="col-md-8 order-md-1 text-light text-md-right">
+                <h2 class="mb-4">Explore vestibulum</h2>
+                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-6 py-8 px-4 px-sm-8 py-md-9 px-md-9 " data-overlay="7">
+            <div class="row align-items-center h-100">
+              <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
+                <figure class="position-relative my-0">
+                  <div style="background-image: url('assets/img/content/cont/partnerDiscord.jpg'); width: 280px;" class="main-fb-product bp-c br-n">
+                  </div>
+                </figure>
+              </div>
+              <div class="col-md-8 order-md-1 text-light text-md-right">
+                <h2 class="mb-4">Explore vestibulum</h2>
+                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
+              </div>
+            </div>
+          </div>
+        
+        <div class="row no-gutters">
+        <div class="col-xl-6 py-8 px-4 px-sm-8 py-md-9 px-md-9 " data-overlay="7">
+            <div class="row align-items-center h-100">
+              <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
+                <figure class="position-relative my-0">
+                  <div style="background-image: url('assets/img/content/cont/partnerTwitch.png'); width: 280px;" class="main-fb-product bp-c br-n">
+                  </div>
+                </figure>
+              </div>
+              <div class="col-md-8 order-md-1 text-light text-md-right">
+                <h2 class="mb-4">Explore vestibulum</h2>
+                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-6 py-8 px-4 px-sm-8 py-md-9 px-md-9 " data-overlay="7">
+            <div class="row align-items-center h-100">
+              <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
+                <figure class="position-relative my-0">
+                  <div style="background-image: url('assets/img/content/cont/partnerNitrado.jpg'); width: 280px;" class="main-fb-product bp-c br-n">
+                  </div>
+                </figure>
+              </div>
+              <div class="col-md-8 order-md-1 text-light text-md-right">
+                <h2 class="mb-4">Explore vestibulum</h2>
+                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
+              </div>
+            </div>
+          </div>
+      </section>
+      <!-- /.content area -->
       
       <!-- banner
       <div class="content-section pt-0">
@@ -915,7 +909,7 @@
     <!-- /.footer -->
 
     <!-- sign in -->
-    <div class="modal fade" id="userLogin" tabindex="-1" role="dialog" aria-labelledby="userLoginTitle" aria-hidden="true">
+    <div style="overflox-y: hidden" class="modal fade" id="userLogin" tabindex="-1" role="dialog" aria-labelledby="userLoginTitle" aria-hidden="true">
       <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
         <div class="modal-content bg-dark text-light">
           <div class="modal-header border-secondary">
@@ -951,7 +945,7 @@
                 <button class="btn btn-block btn-warning" type="submit">Login</button>
               </div>
             </form>
-            <span class="small">Don't have an account? <a href="#userSignUp">Create an account</a></span>
+            <span class="small">Don't have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#userSignUp" >Create an account</a></span>
           </div>
         </div>
       </div>
@@ -959,6 +953,7 @@
     <!-- /.sign in -->
 
     <!-- sign up -->
+    
     <div class="modal fade" id="userSignUp" tabindex="-1" role="dialog" aria-labelledby="userSignUpTitle" aria-hidden="true">
       <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
         <div class="modal-content bg-dark text-light">
@@ -988,10 +983,6 @@
                 <input type="text" class="form-control border-secondary" name="verification" placeholder="Verificaiton code">
               </div>
               <div class="form-group d-flex justify-content-between">
-                <div class="custom-control custom-checkbox">
-                  <input type="checkbox" class="custom-control-input" checked="" id="rememberMeCheck">
-                  <label class="custom-control-label" for="rememberMeCheck">Remember me</label> 
-                </div>
               </div>
               <div class="form-group mt-6">
                 <button class="btn btn-block btn-warning" type="submit">Sign up</button>

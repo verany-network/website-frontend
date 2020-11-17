@@ -37,7 +37,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="assets/img/logo-gaming.png" alt="Wicodu" class="logo-light mx-auto">
+              <img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -47,7 +47,7 @@
           </div>
           <div class="col-8 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
             <a class="btn btn-sm btn-warning text-secondary mr-2" href="#" data-toggle="modal" data-target="#userLogin">Sign in</a>
-            <a class="btn btn-sm text-light d-none d-sm-inline-block" href="#">Sign up</a>
+            <a class="btn btn-sm text-light d-none d-sm-inline-block" href="#" data-toggle="modal" data-target="#userSignUp">Sign up</a>
             <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle small" href="#" id="dropdownGaming" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="mr-2 fas fa-globe"></i>EN </a>
@@ -914,7 +914,7 @@
     </footer>
     <!-- /.footer -->
 
-    <!-- sign Up -->
+    <!-- sign in -->
     <div class="modal fade" id="userLogin" tabindex="-1" role="dialog" aria-labelledby="userLoginTitle" aria-hidden="true">
       <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
         <div class="modal-content bg-dark text-light">
@@ -951,12 +951,56 @@
                 <button class="btn btn-block btn-warning" type="submit">Login</button>
               </div>
             </form>
-            <span class="small">Don't have an account? <a href="#">Create an account</a></span>
+            <span class="small">Don't have an account? <a href="#userSignUp">Create an account</a></span>
           </div>
         </div>
       </div>
     </div>
-    <!-- /.sign Up -->
+    <!-- /.sign in -->
+
+    <!-- sign up -->
+    <div class="modal fade" id="userSignUp" tabindex="-1" role="dialog" aria-labelledby="userSignUpTitle" aria-hidden="true">
+      <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
+        <div class="modal-content bg-dark text-light">
+          <div class="modal-header border-secondary">
+            <h5 class="modal-title" id="userSignUp">Sign up</h5>
+            <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div>
+              <div class="text-center my-6"> 
+                <a class="btn btn-circle btn-sm btn-google mr-2" href=""><i class="fab fa-google"></i></a>
+                <a class="btn btn-circle btn-sm btn-facebook mr-2" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-circle btn-sm btn-twitter" href=""><i class="fab fa-twitter"></i></a>
+              </div>
+              <span class="hr-text small my-6">Or</span>
+            </div>
+            <form class="input-transparent">
+              <div class="form-group">
+                <input type="text" class="form-control border-secondary" name="username" placeholder="Minecraft Username">
+              </div>
+              <div class="form-group">
+                <input type="password" class="form-control border-secondary" name="password" placeholder="Password">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control border-secondary" name="verification" placeholder="Verificaiton code">
+              </div>
+              <div class="form-group d-flex justify-content-between">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" checked="" id="rememberMeCheck">
+                  <label class="custom-control-label" for="rememberMeCheck">Remember me</label> 
+                </div>
+              </div>
+              <div class="form-group mt-6">
+                <button class="btn btn-block btn-warning" type="submit">Sign up</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <!-- offcanvas-cart -->
     <div id="offcanvas-cart" class="offcanvas-cart offcanvas text-light h-100 r-0 l-auto d-flex flex-column" data-animation="slideRight">

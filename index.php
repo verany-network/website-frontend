@@ -84,7 +84,7 @@
               </div>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#">Forums</a>
+            <a class="nav-link" href="./forum/forum.php">Forums</a>
               <div class="-" aria-labelledby="dropdownGaming_software">
               </div>
             </li>
@@ -713,7 +713,7 @@
                     <span><i class="fas fa-tags"></i> Ankündigungen</span> <span class="mx-1">-</span> <span>6th October 2020</span>
                   </div>
                   <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                  <a href="news-article.html" class="btn btn-outline-light">Weiterlesen</a>
+                  <a href="news/news-article.php" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>
             </div>
@@ -735,7 +735,7 @@
                     <span><i class="fas fa-tags"></i> Ankündigungen</span> <span class="mx-1">-</span> <span>5th October 2020</span>
                   </div>
                   <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                  <a href="news-article.html" class="btn btn-outline-light">Weiterlesen</a>
+                  <a href="news/news-article.php" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>
             </div>
@@ -757,7 +757,7 @@
                     <span><i class="fas fa-tags"></i> Akündigungen</span> <span class="mx-1">-</span> <span>4th October 2020</span>
                   </div>
                   <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                  <a href="news-article.html" class="btn btn-outline-light">Weiterlesen</a>
+                  <a href="news/news-article.php" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>
             </div>
@@ -789,7 +789,7 @@
             <div class="row align-items-center h-100">
               <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
                 <figure class="position-relative my-0">
-                  <div style="background-image: url('assets/img/content/cont/partnerDiscord.jpg'); width: 280px;" class="main-fb-product bp-c br-n">
+                  <div style="background-image: url('assets/img/content/cont/partnerDiscord.png'); width: 280px;" class="main-fb-product bp-c br-n">
                   </div>
                 </figure>
               </div>
@@ -820,7 +820,7 @@
             <div class="row align-items-center h-100">
               <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
                 <figure class="position-relative my-0">
-                  <div style="background-image: url('assets/img/content/cont/partnerNitrado.jpg'); width: 280px;" class="main-fb-product bp-c br-n">
+                  <div style="background-image: url('assets/img/content/cont/partnerNitrado.png'); width: 280px;" class="main-fb-product bp-c br-n">
                   </div>
                 </figure>
               </div>
@@ -1056,7 +1056,7 @@
         </div>
       </div>
       <div>
-        <a href="checkout-order.html" class="btn btn-lg btn-block btn-outline-light">View cart</a>
+        <a href="./store/checkout/checkout-order.php" class="btn btn-lg btn-block btn-outline-light">View cart</a>
       </div>
     </div>
     <!-- /.offcanvas-cart -->

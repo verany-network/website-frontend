@@ -226,7 +226,7 @@
                               <a href="profile.html">Lukeg1209</a>
                             </div>
                             <div class="mb-0">
-                              <a href="forum-topic.html">
+                              <a href="forum-topic.php">
                                 <h6 class="lead-1 fw-600 mb-2">
                                   Autoclicker Tool Release
                                 </h6>

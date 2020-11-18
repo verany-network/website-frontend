@@ -286,7 +286,7 @@
                       </li>
                       <li><hr class="my-3 border-secondary"></li>
                       <li>
-                        <a href="checkout-payment.html" class="btn btn-lg btn-block btn-warning mt-4 px-3">Deliver To This Address</a>
+                        <a href="checkout-payment.php" class="btn btn-lg btn-block btn-warning mt-4 px-3">Deliver To This Address</a>
                       </li>
                     </ul>
                   </div>

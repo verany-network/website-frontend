@@ -7,19 +7,19 @@
     <title>Verany • News | Article</title>
 
     <!-- CSS -->
-    <link href="http://localhost/assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="http://localhost/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="./../assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
 
-    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/styles.css" rel="stylesheet">
+    <link href="./../assets/css/main.css" rel="stylesheet">
+    <link href="./../assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="http://localhost/assets/img/apple-touch-icon.png">
-    <link rel="icon" href="http://localhost/assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="./../assets/img/apple-touch-icon.png">
+    <link rel="icon" href="./../assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -37,7 +37,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="./../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -131,7 +131,7 @@
 
     <!-- header -->
     <header class="news-header p-relative">
-      <div class="overlay br-n bs-c bp-r pe-n" data-parallax="scroll" data-z-index="1" data-image-src="http://localhost/assets/img/content/img_01-lg.jpg"></div>
+      <div class="overlay br-n bs-c bp-r pe-n" data-parallax="scroll" data-z-index="1" data-image-src="./../assets/img/content/img_01-lg.jpg"></div>
       <div class="position-relative zi-1 d-flex align-items-end h-100">
         <div class="release-subheader">
           <div class="release-container">
@@ -186,7 +186,7 @@
     <main class="main-content position-relative">
 
       <!-- overlay -->
-      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(http://localhost/assets/img/bg/bg_shape.png);"></div>
+      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(./../assets/img/bg/bg_shape.png);"></div>
       <!-- /.overlay -->
 
       <!-- content area -->
@@ -272,7 +272,7 @@
                   <!-- comment-item -->
                   <div class="comment-item">
                     <div class="comment-img">
-                      <img src="http://localhost/assets/img/avatar/1.jpg" class="rounded" alt="User">
+                      <img src="./../assets/img/avatar/1.jpg" class="rounded" alt="User">
                     </div>
                     <div class="comment-main ml-3 ml-md-4"> 
                       <div class="d-md-flex comment-header px-4 py-3">
@@ -332,32 +332,32 @@
                   <hr class="w-10 border-top-2 mt-5 mb-7 ml-0 mr-auto border-warning">
                   <div class="row gutters-y">
                     <div class="col-sm-6 col-lg-4">
-                      <img src="http://localhost/assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
+                      <img src="./../assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
                       <a href="#" class="d-block text-uppercase fw-500 lh-5 mb-2">Magnis developers speak out on 'death march'</a>
                       <span class="time d-block small-4"><i class="text-warning fas fa-calendar-alt"></i> 12 Apr, 2020</span>
                     </div>
                     <div class="col-sm-6 col-lg-4">
-                      <img src="http://localhost/assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
+                      <img src="./../assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
                       <a href="#" class="d-block text-uppercase fw-500 lh-5 mb-2">Magnis developers speak out on 'death march'</a>
                       <span class="time d-block small-4"><i class="text-warning fas fa-calendar-alt"></i> 14 Apr, 2020</span>
                     </div>
                     <div class="col-sm-6 col-lg-4">
-                      <img src="http://localhost/assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
+                      <img src="./../assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
                       <a href="#" class="d-block text-uppercase fw-500 lh-5 mb-2">Magnis developers speak out on 'death march'</a>
                       <span class="time d-block small-4"><i class="text-warning fas fa-calendar-alt"></i> 17 Apr, 2020</span>
                     </div>
                     <div class="col-sm-6 col-lg-4">
-                      <img src="http://localhost/assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
+                      <img src="./../assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
                       <a href="#" class="d-block text-uppercase fw-500 lh-5 mb-2">Magnis developers speak out on 'death march'</a>
                       <span class="time d-block small-4"><i class="text-warning fas fa-calendar-alt"></i> 18 Apr, 2020</span>
                     </div>
                     <div class="col-sm-6 col-lg-4">
-                      <img src="http://localhost/assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
+                      <img src="./../assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
                       <a href="#" class="d-block text-uppercase fw-500 lh-5 mb-2">Magnis developers speak out on 'death march'</a>
                       <span class="time d-block small-4"><i class="text-warning fas fa-calendar-alt"></i> 22 Apr, 2020</span>
                     </div>
                     <div class="col-sm-6 col-lg-4">
-                      <img src="http://localhost/assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
+                      <img src="./../assets/img/content/img_01.jpg" alt="Game" class="d-block mb-3">
                       <a href="#" class="d-block text-uppercase fw-500 lh-5 mb-2">Magnis developers speak out on 'death march'</a>
                       <span class="time d-block small-4"><i class="text-warning fas fa-calendar-alt"></i> 25 Apr, 2020</span>
                     </div>
@@ -386,7 +386,7 @@
                             <div class="col-lg-5 mb-5 mb-lg-0">
                               <div class="rounded overflow-h">
                                 <div>
-                                  <img src="http://localhost/assets/img/content/img_01.jpg" alt="News">
+                                  <img src="./../assets/img/content/img_01.jpg" alt="News">
                                 </div>
                               </div>
                             </div>
@@ -407,7 +407,7 @@
                             <div class="col-lg-5 mb-5 mb-lg-0">
                               <div class="rounded overflow-h">
                                 <div>
-                                  <img src="http://localhost/assets/img/content/img_01.jpg" alt="News">
+                                  <img src="./../assets/img/content/img_01.jpg" alt="News">
                                 </div>
                               </div>
                             </div>
@@ -428,7 +428,7 @@
                             <div class="col-lg-5 mb-5 mb-lg-0">
                               <div class="rounded overflow-h">
                                 <div>
-                                  <img src="http://localhost/assets/img/content/img_01.jpg" alt="News">
+                                  <img src="./../assets/img/content/img_01.jpg" alt="News">
                                 </div>
                               </div>
                             </div>
@@ -449,7 +449,7 @@
                             <div class="col-lg-5 mb-5 mb-lg-0">
                               <div class="rounded overflow-h">
                                 <div>
-                                  <img src="http://localhost/assets/img/content/img_01.jpg" alt="News">
+                                  <img src="./../assets/img/content/img_01.jpg" alt="News">
                                 </div>
                               </div>
                             </div>
@@ -555,7 +555,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="./../assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
                 <p>Wicodus is a online store where you can find digital goods at the best prices.</p>
                 <div class="social-buttons">
                   <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
@@ -679,7 +679,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -704,7 +704,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -735,15 +735,15 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="http://localhost/assets/js/jquery.min.js"></script>
+    <script src="./../assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="http://localhost/assets/js/bootstrap.min.js"></script>
+    <script src="./../assets/js/bootstrap.min.js"></script>
 
     <!-- User JS -->
-    <script src="http://localhost/assets/js/scripts.js"></script>
+    <script src="./../assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="http://localhost/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="./../assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

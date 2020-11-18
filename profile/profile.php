@@ -7,19 +7,19 @@
     <title>Verany • Profile</title>
 
     <!-- CSS -->
-    <link href="http://localhost/assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="http://localhost/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="./../assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
 
-    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/styles.css" rel="stylesheet">
+    <link href="./../assets/css/main.css" rel="stylesheet">
+    <link href="./../assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="http://localhost/assets/img/apple-touch-icon.png">
-    <link rel="icon" href="http://localhost/assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="./../assets/img/apple-touch-icon.png">
+    <link rel="icon" href="./../assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -37,7 +37,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="./../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -51,7 +51,7 @@
           <div class="col-8 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
             <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="http://localhost/assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">Sakuras </a>
+                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="./../assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">Sakuras </a>
                 <div class="dropdown-menu position-absolute" aria-labelledby="dropdownUser">
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-user"></i></span>My Profile</a>
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-wallet"></i></span>Wallet</a>
@@ -138,12 +138,12 @@
 
     <!-- header -->
     <header class="pt-10 p-relative">
-      <div class="overlay br-n bs-c bp-r pe-n" data-parallax="scroll" data-z-index="1" data-image-src="http://localhost/assets/img/bg/bg_a.jpg"></div>
+      <div class="overlay br-n bs-c bp-r pe-n" data-parallax="scroll" data-z-index="1" data-image-src="./../assets/img/bg/bg_a.jpg"></div>
       <div class="position-relative zi-1 d-flex align-items-end flex-wrap h-100">
         <div class="release-subheader">
           <div class="release-container">
             <div class="pb-9 w-100 text-light text-center">
-              <div class="img-xl position-relative br-n bp-c bs-c article-image ar-1_1 mx-auto rounded-circle border border-secondary mb-6" style="background-image: url(http://localhost/assets/img/avatar/2.jpg)">
+              <div class="img-xl position-relative br-n bp-c bs-c article-image ar-1_1 mx-auto rounded-circle border border-secondary mb-6" style="background-image: url(./../assets/img/avatar/2.jpg)">
                 <span class="position-absolute b-0 r-0 text-secondary lead-3 d-block bg-warning p-2 rounded-circle lh-1"><input type="file" class="custom-file-input position-absolute l-0 t-0 b-0 h-auto" id="customFile"><i class="far fa-image"></i></span>
               </div>
               <h3>Sakuras</h3>
@@ -210,7 +210,7 @@
 
       <!-- overlay -->
       <div class="bg-theme overlay pe-n zi-1">
-        <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(http://localhost/assets/img/bg/bg_shape.png);"></div>
+        <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(./../assets/img/bg/bg_shape.png);"></div>
       </div>
       <!-- /.overlay -->
 
@@ -256,7 +256,7 @@
                                 <figure class="owl_item_review">
                                   <div>
                                     <div class="position-relative overflow-hidden">
-                                      <img class="mb-2" src="http://localhost/assets/img/avatar/1.jpg" alt="Avatar">
+                                      <img class="mb-2" src="./../assets/img/avatar/1.jpg" alt="Avatar">
                                       <div class="review_h text-light">
                                         <a href="#" class="d-block">
                                           Dewei Tsou
@@ -275,7 +275,7 @@
                                 <figure class="owl_item_review">
                                   <div>
                                     <div class="position-relative overflow-hidden">
-                                      <img class="mb-2" src="http://localhost/assets/img/avatar/1.jpg" alt="Avatar">
+                                      <img class="mb-2" src="./../assets/img/avatar/1.jpg" alt="Avatar">
                                       <div class="review_h text-light">
                                         <a href="#" class="d-block">
                                           Dewei Tsou
@@ -294,7 +294,7 @@
                                 <figure class="owl_item_review">
                                   <div>
                                     <div class="position-relative overflow-hidden">
-                                      <img class="mb-2" src="http://localhost/assets/img/avatar/1.jpg" alt="Avatar">
+                                      <img class="mb-2" src="./../assets/img/avatar/1.jpg" alt="Avatar">
                                       <div class="review_h text-light">
                                         <a href="#" class="d-block">
                                           Dewei Tsou
@@ -313,7 +313,7 @@
                                 <figure class="owl_item_review">
                                   <div>
                                     <div class="position-relative overflow-hidden">
-                                      <img class="mb-2" src="http://localhost/assets/img/avatar/2.jpg" alt="Avatar">
+                                      <img class="mb-2" src="./../assets/img/avatar/2.jpg" alt="Avatar">
                                       <div class="review_h text-light">
                                         <a href="#" class="d-block">
                                           George Collins
@@ -332,7 +332,7 @@
                                 <figure class="owl_item_review">
                                   <div>
                                     <div class="position-relative overflow-hidden">
-                                      <img class="mb-2" src="http://localhost/assets/img/avatar/3.jpg" alt="Avatar">
+                                      <img class="mb-2" src="./../assets/img/avatar/3.jpg" alt="Avatar">
                                       <div class="review_h text-light">
                                         <a href="#" class="d-block">
                                           Sying Wei
@@ -362,7 +362,7 @@
                           <div class="owl-carousel carousel_sm" data-carousel-items="1, 2, 3, 3" data-carousel-margin="10" data-carousel-nav="false" data-carousel-dots="true">
                             <div class="item">
                               <a href="#">
-                                <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(http://localhost/assets/img/content/img_01.jpg);">
+                                <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(./../assets/img/content/img_01.jpg);">
                                   <div class="position-absolute w-100 l-0 b-0 bg-dark_A-80 text-light">
                                     <div class="px-4 py-3 lh-1">
                                       <h6 class="text-lt mb-1 small-1 text-light text-uppercase">Phasellus</h6>
@@ -376,7 +376,7 @@
                             </div>
                             <div class="item">
                               <a href="#">
-                                <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(http://localhost/assets/img/content/img_01.jpg);">
+                                <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(./../assets/img/content/img_01.jpg);">
                                   <div class="position-absolute w-100 l-0 b-0 bg-dark_A-80 text-light">
                                     <div class="px-4 py-3 lh-1">
                                       <h6 class="text-lt mb-1 small-1 text-light text-uppercase">Phasellus</h6>
@@ -390,7 +390,7 @@
                             </div>
                             <div class="item">
                               <a href="#">
-                                <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(http://localhost/assets/img/content/img_01.jpg);">
+                                <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(./../assets/img/content/img_01.jpg);">
                                   <div class="position-absolute w-100 l-0 b-0 bg-dark_A-80 text-light">
                                     <div class="px-4 py-3 lh-1">
                                       <h6 class="text-lt mb-1 small-1 text-light text-uppercase">Phasellus</h6>
@@ -404,7 +404,7 @@
                             </div>
                             <div class="item">
                               <a href="#">
-                                <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(http://localhost/assets/img/content/img_01.jpg);">
+                                <div class="d-flex h-100 bs-c br-n bp-c ar-8_5 position-relative" style="background-image: url(./../assets/img/content/img_01.jpg);">
                                   <div class="position-absolute w-100 l-0 b-0 bg-dark_A-80 text-light">
                                     <div class="px-4 py-3 lh-1">
                                       <h6 class="text-lt mb-1 small-1 text-light text-uppercase">Phasellus</h6>
@@ -433,7 +433,7 @@
                           <form action="#" class="input-transparent pb-8 border-bottom border-secondary">
                             <div class="form-row">
                               <div class="form-group col-3 col-sm-2">
-                                <img class="rounded" src="http://localhost/assets/img/avatar/2.jpg" alt="Avatar">
+                                <img class="rounded" src="./../assets/img/avatar/2.jpg" alt="Avatar">
                               </div>
                               <div class="form-group col-9 col-sm-10">
                                 <textarea class="form-control form-control" rows="4" placeholder="Your Message" name="message" required=""></textarea>
@@ -465,7 +465,7 @@
                               <div class="form-row">
                                 <div class="col-3 col-sm-2">
                                   <div class="comment-img">
-                                    <img src="http://localhost/assets/img/avatar/1.jpg" class="rounded" alt="User">
+                                    <img src="./../assets/img/avatar/1.jpg" class="rounded" alt="User">
                                   </div>
                                 </div>
                                 <div class="col-9 col-sm-10">
@@ -491,7 +491,7 @@
                               <div class="form-row">
                                 <div class="col-3 col-sm-2">
                                   <div class="comment-img">
-                                    <img src="http://localhost/assets/img/avatar/3.jpg" class="rounded" alt="User">
+                                    <img src="./../assets/img/avatar/3.jpg" class="rounded" alt="User">
                                   </div>
                                 </div>
                                 <div class="col-9 col-sm-10">
@@ -525,7 +525,7 @@
                         <div class="mb-6">
                           <div class="row no-gutters">
                             <div class="col-2 item_img d-none d-sm-flex align-items-center">
-                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="col-6 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
                               <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
@@ -544,7 +544,7 @@
                         <div class="mb-6">
                           <div class="row no-gutters">
                             <div class="col-2 item_img d-none d-sm-flex align-items-center">
-                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="col-6 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
                               <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
@@ -563,7 +563,7 @@
                         <div class="mb-0">
                           <div class="row no-gutters">
                             <div class="col-2 item_img d-none d-sm-flex align-items-center">
-                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="col-6 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
                               <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
@@ -587,7 +587,7 @@
                         <div class="mb-6">
                           <div class="row no-gutters">
                             <div class="col-2 item_img d-none d-sm-flex align-items-center">
-                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="col-12 col-sm-10 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
                               <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
@@ -598,7 +598,7 @@
                         <div class="mb-0">
                           <div class="row no-gutters">
                             <div class="col-2 item_img d-none d-sm-flex align-items-center">
-                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="col-12 col-sm-10 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
                               <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
@@ -629,7 +629,7 @@
                         <figure class="owl_item_review">
                           <div>
                             <div class="position-relative overflow-hidden">
-                              <img class="m-0-auto" src="http://localhost/assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                              <img class="m-0-auto" src="./../assets/img/content/cont/cg_01.jpg" alt="Games Store">
                             </div>
                             <div>
                               <h5 class="owl_item_title text-lt"><a href="">Donec dignissim</a></h5>
@@ -667,7 +667,7 @@
                         <figure class="owl_item_review">
                           <div>
                             <div class="position-relative overflow-hidden">
-                              <img class="m-0-auto" src="http://localhost/assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                              <img class="m-0-auto" src="./../assets/img/content/cont/cg_01.jpg" alt="Games Store">
                             </div>
                             <div>
                               <h5 class="owl_item_title text-lt"><a href="">Donec dignissim</a></h5>
@@ -705,7 +705,7 @@
                         <figure class="owl_item_review">
                           <div>
                             <div class="position-relative overflow-hidden">
-                              <img class="m-0-auto" src="http://localhost/assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                              <img class="m-0-auto" src="./../assets/img/content/cont/cg_01.jpg" alt="Games Store">
                             </div>
                             <div>
                               <h5 class="owl_item_title text-lt"><a href="">Donec dignissim</a></h5>
@@ -743,7 +743,7 @@
                         <figure class="owl_item_review">
                           <div>
                             <div class="position-relative overflow-hidden">
-                              <img class="m-0-auto" src="http://localhost/assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                              <img class="m-0-auto" src="./../assets/img/content/cont/cg_01.jpg" alt="Games Store">
                             </div>
                             <div>
                               <h5 class="owl_item_title text-lt"><a href="">Donec dignissim</a></h5>
@@ -781,7 +781,7 @@
                         <figure class="owl_item_review">
                           <div>
                             <div class="position-relative overflow-hidden">
-                              <img class="m-0-auto" src="http://localhost/assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                              <img class="m-0-auto" src="./../assets/img/content/cont/cg_01.jpg" alt="Games Store">
                             </div>
                             <div>
                               <h5 class="owl_item_title text-lt"><a href="">Donec dignissim</a></h5>
@@ -835,7 +835,7 @@
                       <div class="border border-secondary">
                         <div class="row align-items-center no-gutters">
                           <div class="item_img d-none d-md-block">
-                            <img class="profile-glib img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                            <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
@@ -869,7 +869,7 @@
                       <div class="border border-secondary">
                         <div class="row align-items-center no-gutters">
                           <div class="item_img d-none d-md-block">
-                            <img class="profile-glib img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                            <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
@@ -903,7 +903,7 @@
                       <div class="border border-secondary">
                         <div class="row align-items-center no-gutters">
                           <div class="item_img d-none d-md-block">
-                            <img class="profile-glib img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                            <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
@@ -937,7 +937,7 @@
                       <div class="border border-secondary">
                         <div class="row align-items-center no-gutters">
                           <div class="item_img d-none d-md-block">
-                            <img class="profile-glib img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                            <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
@@ -971,7 +971,7 @@
                       <div class="border border-secondary">
                         <div class="row align-items-center no-gutters">
                           <div class="item_img d-none d-md-block">
-                            <img class="profile-glib img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                            <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
@@ -1005,7 +1005,7 @@
                       <div class="border border-secondary">
                         <div class="row align-items-center no-gutters">
                           <div class="item_img d-none d-md-block">
-                            <img class="profile-glib img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                            <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
@@ -1504,7 +1504,7 @@
                         <div class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
@@ -1539,7 +1539,7 @@
                         <div class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
@@ -1574,7 +1574,7 @@
                         <div class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
@@ -1609,7 +1609,7 @@
                         <div class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
@@ -1644,7 +1644,7 @@
                         <div class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
@@ -1679,7 +1679,7 @@
                         <div class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
@@ -1714,7 +1714,7 @@
                         <div class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
@@ -1749,7 +1749,7 @@
                         <div class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
+                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
@@ -2227,7 +2227,7 @@
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
                               <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(http://localhost/assets/img/content/img_01.jpg);"></div>
+                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
                               </a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
@@ -2256,7 +2256,7 @@
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
                               <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(http://localhost/assets/img/content/img_01.jpg);"></div>
+                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
                               </a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
@@ -2285,7 +2285,7 @@
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
                               <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(http://localhost/assets/img/content/img_01.jpg);"></div>
+                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
                               </a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
@@ -2314,7 +2314,7 @@
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
                               <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(http://localhost/assets/img/content/img_01.jpg);"></div>
+                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
                               </a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
@@ -2343,7 +2343,7 @@
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
                               <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(http://localhost/assets/img/content/img_01.jpg);"></div>
+                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
                               </a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
@@ -2446,7 +2446,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="./../assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
                 <p>Wicodus is a online store where you can find digital goods at the best prices.</p>
                 <div class="social-buttons">
                   <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
@@ -2526,7 +2526,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -2551,7 +2551,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -2582,15 +2582,15 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="http://localhost/assets/js/jquery.min.js"></script>
+    <script src="./../assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="http://localhost/assets/js/bootstrap.min.js"></script>
+    <script src="./../assets/js/bootstrap.min.js"></script>
 
     <!-- User JS -->
-    <script src="http://localhost/assets/js/scripts.js"></script>
+    <script src="./../assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="http://localhost/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="./../assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

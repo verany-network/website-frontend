@@ -7,19 +7,19 @@
     <title>Verany • Forum | Topic</title>
 
     <!-- CSS -->
-    <link href="http://localhost/assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="http://localhost/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="./../assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
 
-    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/styles.css" rel="stylesheet">
+    <link href="./../assets/css/main.css" rel="stylesheet">
+    <link href="./../assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="http://localhost/assets/img/apple-touch-icon.png">
-    <link rel="icon" href="http://localhost/assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="./../assets/img/apple-touch-icon.png">
+    <link rel="icon" href="./../assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -37,7 +37,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="./../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -133,7 +133,7 @@
     <main class="main-content gradient-lg position-relative">
 
       <!-- overlay -->
-      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(http://localhost/assets/img/bg/bg_shape.png);"></div>
+      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(./../assets/img/bg/bg_shape.png);"></div>
       <!-- /.overlay -->
 
       <!-- content area -->
@@ -173,7 +173,7 @@
                           </div>
                         </div>
                         <div class="mb-2">
-                          <img class="forum-topic-img img" src="http://localhost/assets/img/avatar/3.jpg" alt="User">
+                          <img class="forum-topic-img img" src="./../assets/img/avatar/3.jpg" alt="User">
                         </div>
                         <div class="small">
                           <span class="d-block mb-1"><i class="fas fa-clock text-warning mr-1"></i><span class="fw-600">Join Date</span>: 9/22/2019</span>
@@ -194,7 +194,7 @@
                           <p>
                             Duis non velit blandit, fermentum arcu vitae, consequat nunc.
                           </p>
-                          <img src="http://localhost/assets/img/content/product/01.jpg" alt="Game" class="mb-4">
+                          <img src="./../assets/img/content/product/01.jpg" alt="Game" class="mb-4">
                           <p>
                             Aenean quam sem, consequat et felis in, consectetur auctor lectus. Praesent diam lectus, efficitur vitae porta eu, malesuada vitae enim. 
                             Aliquam id commodo nunc, in lobortis leo. Donec rutrum orci eu odio tincidunt tempor vitae nec leo.
@@ -228,7 +228,7 @@
                           </div>
                         </div>
                         <div class="mb-2">
-                          <img class="forum-topic-img img" src="http://localhost/assets/img/avatar/2.jpg" alt="User">
+                          <img class="forum-topic-img img" src="./../assets/img/avatar/2.jpg" alt="User">
                         </div>
                         <div class="small">
                           <span class="d-block mb-1"><i class="fas fa-clock text-warning mr-1"></i><span class="fw-600">Join Date</span>: 7/23/2013</span>
@@ -272,7 +272,7 @@
               <form action="#" class="input-transparent">
                 <div class="form-row">
                   <div class="form-group col-2 col-md-1">
-                    <img class="rounded" src="http://localhost/assets/img/avatar/2.jpg" alt="Avatar">
+                    <img class="rounded" src="./../assets/img/avatar/2.jpg" alt="Avatar">
                   </div>
                   <div class="form-group col-10 col-md-11">
                     <textarea class="form-control form-control" rows="4" placeholder="Your Message" name="message" required=""></textarea>
@@ -317,7 +317,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="./../assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
                 <p>Wicodus is a online store where you can find digital goods at the best prices.</p>
                 <div class="social-buttons">
                   <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
@@ -441,7 +441,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -466,7 +466,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -497,15 +497,15 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="http://localhost/assets/js/jquery.min.js"></script>
+    <script src="./../assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="http://localhost/assets/js/bootstrap.min.js"></script>
+    <script src="./../assets/js/bootstrap.min.js"></script>
 
     <!-- User JS -->
-    <script src="http://localhost/assets/js/scripts.js"></script>
+    <script src="./../assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="http://localhost/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="./../assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

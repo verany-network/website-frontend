@@ -8,10 +8,10 @@
 
     <!-- CSS -->
     <!--
-    <link href="http://localhost/assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/themify-icons.css" rel="stylesheet"> -->
+    <link href="./../../assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="./../../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="./../../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="./../../assets/css/fonts/themify-icons.css" rel="stylesheet"> -->
 
     <link rel="stylesheet" href="./../../assets/css/fonts/etline-font.min.css">
     <link rel="stylesheet" href="./../../assets/css/fonts/fontawesome/all.min.css">
@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="./../../assets/css/fonts/themify-icons.css">
 
     <!--
-    <link href="http://localhost/assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet"> -->
+    <link href="./../../assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet"> -->
 
     <link rel="stylesheet" href="./../../assets/plugins/owl.carousel/owl.carousel.min.css">
 

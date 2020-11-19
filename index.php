@@ -28,24 +28,70 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <style>
+      .nav-items {
+        position: absolute; 
+        left: 0; 
+        right: 0; 
+        display: flex; 
+        justify-content: center; 
+        width: 100%;
+      }
+
+      @media screen and (max-width: 991px) { 
+        .nav-items {
+          position: relative;
+          display: block;
+        } 
+      }
+    </style>
   </head>
   <body class="page-body">
 
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark border-nav zi-3">
-      <div class="container">
+      <div class="container-fluid">
         <div class="row">
-          <div class="col-4 col-sm-3 col-md-2 mr-auto">
+          <div class="col-4 col-sm-3 col-md-1 mr-auto">
             <a class="navbar-brand logo" href="#">
               <img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
-          <div class="col-4 d-none d-lg-block mx-auto">
-              <div class="input-group-append">
+          <div class="nav-items mr-auto col">
+            <div class="input-group-append">
+            <button class="navbar-toggler navbar-toggler-fixed" style="transform: translateY(-20px);" type="button" data-toggle="collapse" data-target="#collapsingNavbar" aria-controls="collapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">☰</button>
+              <div class="collapse navbar-collapse" id="collapsingNavbar">
+                <ul class="navbar-nav">
+                  <li class="nav-item dropdown dropdown-hover">
+                    <a class="nav-link dropdown-toggle pl-lg-0" href="#" id="dropdownGaming_games" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Support </a>
+                    <div class="dropdown-menu dropdown-menu-dark-lg" aria-labelledby="dropdownGaming_games">
+                      <a class="dropdown-item" href="#"><strong>Application for exile</strong></a>
+                      <a class="dropdown-item" href="#"><strong>Report a player</strong></a>
+                      <a class="dropdown-item" href="#"><strong>Report a bug</strong></a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="./forum/forum.php">Forums</a>
+                    <div class="-" aria-labelledby="dropdownGaming_software">
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="#">Store</a>
+                    <div class="-" aria-labelledby="dropdownGaming_community">
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Services</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Apply</a>
+                  </li>
+                </ul>
               </div>
-            </form>
+            </div>
           </div>
-          <div class="col-8 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
+          <div class="col-4 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
             <a class="btn btn-sm btn-warning text-secondary mr-2" href="#" data-toggle="modal" data-target="#userLogin">Sign in</a>
             <a class="btn btn-sm text-light d-none d-sm-inline-block" href="#" data-toggle="modal" data-target="#userSignUp">Sign up</a>
             <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
@@ -67,39 +113,6 @@
               </li>
             </ul>
           </div>
-        </div>
-      </div>
-    </nav>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <div class="container">
-        <button class="navbar-toggler navbar-toggler-fixed" type="button" data-toggle="collapse" data-target="#collapsingNavbar" aria-controls="collapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">☰</button>
-        <div class="collapse navbar-collapse" id="collapsingNavbar">
-          <ul class="navbar-nav">
-            <li class="nav-item dropdown dropdown-hover">
-              <a class="nav-link dropdown-toggle pl-lg-0" href="#" id="dropdownGaming_games" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Support </a>
-              <div class="dropdown-menu dropdown-menu-dark-lg" aria-labelledby="dropdownGaming_games">
-                <a class="dropdown-item" href="#"><strong>Application for exile</strong></a>
-                <a class="dropdown-item" href="#"><strong>Report a player</strong></a>
-                <a class="dropdown-item" href="#"><strong>Report a bug</strong></a>
-              </div>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="./forum/forum.php">Forums</a>
-              <div class="-" aria-labelledby="dropdownGaming_software">
-              </div>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="#">Store</a>
-              <div class="-" aria-labelledby="dropdownGaming_community">
-              </div>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Services</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Apply</a>
-            </li>
-          </ul>
         </div>
       </div>
     </nav>
@@ -712,7 +725,7 @@
                   <div class="mb-3 small text-info">
                     <span><i class="fas fa-tags"></i> Ankündigungen</span> <span class="mx-1">-</span> <span>6th October 2020</span>
                   </div>
-                  <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nisi ad enim sequi voluptate alias molestiae sit fugit at, quisquam, error iure porro id facilis, ab odit qui? Voluptate, tempore.</p>
                   <a href="news/news-article.php" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>
@@ -770,7 +783,7 @@
     <!-- content area -->
     <section class="section gs_features">
     <div class="row no-gutters">
-          <div class="col-xl-6 py-8 px-4 px-sm-8 py-md-9 px-md-9 " data-overlay="7">
+          <div class="col-xl-6 py-6 px-4 px-sm-8 6 px-md-9 " data-overlay="7">
             <div class="row align-items-center h-100">
               <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
                 <figure class="position-relative my-0">
@@ -785,7 +798,7 @@
             </div>
           </div>
 
-          <div class="col-xl-6 py-8 px-4 px-sm-8 py-md-9 px-md-9 " data-overlay="7">
+          <div class="col-xl-6 py-6 px-4 px-sm-8 py-md-6 px-md-9 " data-overlay="7">
             <div class="row align-items-center h-100">
               <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
                 <figure class="position-relative my-0">
@@ -801,7 +814,7 @@
           </div>
         
         <div class="row no-gutters">
-        <div class="col-xl-6 py-8 px-4 px-sm-8 py-md-9 px-md-9 " data-overlay="7">
+        <div class="col-xl-6 py-6 px-4 px-sm-8 6 px-md-9 " data-overlay="7">
             <div class="row align-items-center h-100">
               <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
                 <figure class="position-relative my-0">
@@ -816,7 +829,7 @@
             </div>
           </div>
 
-          <div class="col-xl-6 py-8 px-4 px-sm-8 py-md-9 px-md-9 " data-overlay="7">
+          <div class="col-xl-6 py-6 px-4 px-sm-8 6 px-md-9 " data-overlay="7">
             <div class="row align-items-center h-100">
               <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
                 <figure class="position-relative my-0">

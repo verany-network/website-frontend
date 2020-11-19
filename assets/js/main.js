@@ -1172,5 +1172,17 @@ function initMap() {
 })( jQuery );
 
 
+// add modal-open class if body has opened modal
+(function() {
+  const body = document.querySelector('body');
 
+  const checkBodyHasModal = () => {
+    const hasActiveModal = document.querySelector('.modal.fade.show');
 
+    if (hasActiveModal) {
+      body.classList.add('modal-open');
+    }
+  }
+
+  setInterval(checkBodyHasModal, 5)
+})();

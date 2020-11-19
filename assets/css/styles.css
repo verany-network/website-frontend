@@ -1240,7 +1240,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a {
   display: block;
   content: " ";
   width: 100%;
-  padding-top: 149.0196078431%; }
+  padding-top: 100%; }
 
 /* Store */
 .top_sellers .product-item .img {

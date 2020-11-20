@@ -9,7 +9,7 @@ We have a heap of documentation available for the code on the web. If you're loo
 
 * [Verany Spigot](https://docs.verany.net/spigot)
 * [Verany Webpages](https://docs.verany.net/web)
-* [Verany Addon](https://docs.verany.net/client-addon)
+* [Verany Client](https://docs.verany.net/client-addon)
 
 If you need more, just ask! A lot of Verany developers hang out on the [forums](https://forums.verany.net/) or on our [TeamSpeak](https://ts3server://ts.verany.net/), 
 and we're proud to be part of a well-meaning, friendly and welcoming team of developers and concept writers. 

@@ -1134,7 +1134,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a {
   animation-fill-mode: none; }
 
 .owl-carousel-spotlight .owl_item_review:hover .review_h {
-  background: #55FFFF; }
+  background: #111931; }
 
 /* Extra small devices */
 @media (max-width: 320.98px) {

@@ -7,7 +7,7 @@ From this repository you can build the Website for editing, bug fixing and learn
 
 We have a heap of documentation available for the code on the web. If you're looking for the answer to something, you may want to start here: 
 
-* [Verany Spigot](https://docs.verany.net/spigot)
+* [Core](https://dotspace.team/docs)
 * [Verany Webpages](https://docs.verany.net/web)
 * [Verany Client](https://docs.verany.net/client-addon)
 

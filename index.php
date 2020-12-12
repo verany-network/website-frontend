@@ -235,9 +235,6 @@
       <!-- content area -->
       <section class="content-section owl-carousel-spotlight carousel-spotlight ig-carousel text-light">
         <div class="container">
-          <header class="header">
-            <h2>Most popular products</h2>
-          </header>
           <div class="position-relative">
             <!-- nav tabs -->
             <ul class="spotlight-tabs spotlight-tabs-dark nav nav-tabs border-0 mb-5 position-relative flex-nowrap" id="most_popular_products-carousel" role="tablist">
@@ -245,10 +242,7 @@
                 <a class="nav-link active" id="mp-01-tab" data-toggle="tab" href="#mp-01-c" role="tab" aria-controls="mp-01-c" aria-selected="true">Our Games</a>
               </li>
               <li class="nav-item text-fnwp relative">
-                <a class="nav-link" id="mp-02-tab" data-toggle="tab" href="#mp-02-c" role="tab" aria-controls="mp-02-c" aria-selected="false">Popular Items</a>
-              </li>
-              <li class="nav-item text-fnwp relative">
-                <a class="nav-link" id="mp-03-tab" data-toggle="tab" href="#mp-03-c" role="tab" aria-controls="mp-03-c" aria-selected="false">Coming Events</a>
+                <a class="nav-link" id="mp-02-tab" data-toggle="tab" href="#mp-02-c" role="tab" aria-controls="mp-02-c" aria-selected="false">Popular Store Items</a>
               </li>
             </ul>
             <!-- /.nav tabs -->
@@ -268,16 +262,16 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
                           <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
+                            <h5 class="owl_item_title text-lt"><a href="">FLAGWARS</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">97k ALLTIME PLAYERS</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -296,16 +290,16 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
                           <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
+                            <h5 class="owl_item_title text-lt"><a href="">SNOWWARS</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">87k ALLTIME PLAYERS</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -324,16 +318,16 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
                           <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
+                            <h5 class="owl_item_title text-lt"><a href="">DUELS</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">81k ALLTIME PLAYERS</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -352,16 +346,16 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
                           <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
+                            <h5 class="owl_item_title text-lt"><a href="">SURVIVAL</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">72k ALLTIME PLAYERS</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -380,16 +374,16 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
                           <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
+                            <h5 class="owl_item_title text-lt"><a href="">RPG</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">27k ALLTIME PLAYERS</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -411,11 +405,39 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">BUY</span>
+                              </a>
+                            </div>
+                          </div>
+                          <div>
+                            <h5 class="owl_item_title text-lt"><a href="">VIP 3 MONTHS</a></h5>
+                            <div class="relative small-1">
+                              <span class="owl_item_price">50.000 CREDITS</span>
+                              <span class="owl_item_genre">
+                                3 Months
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </figure>
+                    </div>
+                  </div>
+                  <!-- /.item -->
+                  <!-- item -->
+                  <div class="item">
+                    <div class="item-cont">
+                      <figure class="owl_item_review">
+                        <div>
+                          <div class="position-relative overflow-hidden">
+                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
+                            <div class="review_h text-light">
+                              <a href="#">
+                                <i class="item_icon_cart fas fa-shopping-cart"></i>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
@@ -424,7 +446,7 @@
                             <div class="relative small-1">
                               <span class="owl_item_price">€44.99</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -443,7 +465,7 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
@@ -452,7 +474,7 @@
                             <div class="relative small-1">
                               <span class="owl_item_price">€44.99</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -471,7 +493,7 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
@@ -480,7 +502,7 @@
                             <div class="relative small-1">
                               <span class="owl_item_price">€44.99</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -499,7 +521,7 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
@@ -508,35 +530,7 @@
                             <div class="relative small-1">
                               <span class="owl_item_price">€44.99</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </figure>
-                    </div>
-                  </div>
-                  <!-- /.item -->
-                  <!-- item -->
-                  <div class="item">
-                    <div class="item-cont">
-                      <figure class="owl_item_review">
-                        <div>
-                          <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
-                            <div class="review_h text-light">
-                              <a href="#">
-                                <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
-                              </a>
-                            </div>
-                          </div>
-                          <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
-                            <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
-                              <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -562,7 +556,7 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
@@ -571,7 +565,7 @@
                             <div class="relative small-1">
                               <span class="owl_item_price">€44.99</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -590,7 +584,7 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
@@ -599,7 +593,7 @@
                             <div class="relative small-1">
                               <span class="owl_item_price">€44.99</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -618,7 +612,7 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
@@ -627,7 +621,7 @@
                             <div class="relative small-1">
                               <span class="owl_item_price">€44.99</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -646,7 +640,7 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
@@ -655,7 +649,7 @@
                             <div class="relative small-1">
                               <span class="owl_item_price">€44.99</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>
@@ -674,7 +668,7 @@
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">Erfahre mehr!</span>
+                                <span class="item_atc_text">MORE</span>
                               </a>
                             </div>
                           </div>
@@ -683,7 +677,7 @@
                             <div class="relative small-1">
                               <span class="owl_item_price">€44.99</span>
                               <span class="owl_item_genre">
-                                Action, Adventure
+                                PVP
                               </span>
                             </div>
                           </div>

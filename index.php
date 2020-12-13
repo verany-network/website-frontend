@@ -149,9 +149,11 @@
                     
                       <div class="main_carousel__content ad-900ms fadeIn text-light px-8 px-md-6 mx-lg-4 mx-xl-0">
                       
-                        <h2 class="carousel__heading text-light fadeInDown ad-500ms"></h2>
-                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms"></p>
+                        <h2 class="carousel__heading text-light fadeInDown ad-500ms">TeamSpeak Release!</h2>
+                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms">Come to our Discord to talk with your friends or to meet new friends!</p>
                         <div class="d-flex fadeInLeft ad-900ms">
+                        <a class="disabled btn btn-lg bg-dark_A-50 o-1 text-light br-round-0tr br-round-0br parallelogram un_text mb-0"><span class="carousel__discount td-lt text-light"><i class="fab fa-teamspeak"></i></span></a>
+                        <a href="ts3server://verany.net" class="btn btn-lg btn-light parallelogram br-round-0tl br-round-0bl un_text mb-0"><span class="d-block">Join</span></a>
                         </div>
                       </div>
                     </div>
@@ -179,9 +181,11 @@
                     <div class="col-12 mr-auto ml-lg-0 col-lg-5">
                       <div class="main_carousel__content ad-900ms fadeIn text-light px-8 px-md-6 mx-lg-4 mx-xl-0">
                       
-                        <h2 class="carousel__heading text-light fadeInDown ad-500ms"></h2>
-                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms"></p>
+                        <h2 class="carousel__heading text-light fadeInDown ad-500ms">Discord release!</h2>
+                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms">Enter our Discord to participate in giveaways or to get in touch with our team.</p>
                         <div class="d-flex fadeInLeft ad-900ms">
+                        <a class="disabled btn btn-lg bg-dark_A-50 o-1 text-light br-round-0tr br-round-0br parallelogram un_text mb-0"><span class="carousel__discount td-lt text-light"><i class="fab fa-discord"></i></span></a>
+                        <a href="https://discord.gg/SJ5tfxC" class="btn btn-lg btn-light parallelogram br-round-0tl br-round-0bl un_text mb-0"><span class="d-block">Join</span></a>
                         </div>
                       </div>
                     </div>
@@ -209,9 +213,11 @@
                     <div class="col-12 mr-auto ml-lg-0 col-lg-5">
                       <div class="main_carousel__content ad-900ms fadeIn text-light px-8 px-md-6 mx-lg-4 mx-xl-0">
                       
-                        <h2 class="carousel__heading text-light fadeInDown ad-500ms"></h2>
+                        <h2 class="carousel__heading text-light fadeInDown ad-500ms">Follow us on Twitter</h2>
                         <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms"></p>
                         <div class="d-flex fadeInLeft ad-900ms">
+                        <a class="disabled btn btn-lg bg-dark_A-50 o-1 text-light br-round-0tr br-round-0br parallelogram un_text mb-0"><span class="carousel__discount td-lt text-light"><i class="fab fa-twitter"></i></span></a>
+                        <a href="http://twitter.com/intent/user?screen_name=VeranyNET" class="btn btn-lg btn-light parallelogram br-round-0tl br-round-0bl un_text mb-0"><span class="d-block">Follow</span></a>
                         </div>
                       </div>
                     </div>
@@ -220,7 +226,7 @@
               </div>
             </div>
           </div>
-          <!-- /.carousel-item -->
+          <!-- /.carousel-item      <i class="fas fa-shopping-cart"></i>     -->
         </div>
         <!-- Carousel nav -->
         <div class="carousel-control-prev a-out-t"><a class="text-light" href="#carousel_main" data-slide="prev"><span class="icon-cl-prev text-shadow pe-7s-angle-left"></span></a></div>

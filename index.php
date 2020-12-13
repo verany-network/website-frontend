@@ -124,9 +124,9 @@
         <!-- Indicators -->
         <div class="po_carousel__wrapper">
             <ol class="list-unstyled carousel-indicators def po_carousel-indicators">
-              <li data-target="#carousel_main" data-slide-to="0" class=""></li>
+              <li data-target="#carousel_main" data-slide-to="0" class="active"></li>
               <li data-target="#carousel_main" data-slide-to="1" class=""></li>
-              <li data-target="#carousel_main" data-slide-to="2" class="active"></li>
+              <li data-target="#carousel_main" data-slide-to="2" class=""></li>
             </ol>
         </div>
         <!-- Carousel items -->
@@ -226,7 +226,8 @@
               </div>
             </div>
           </div>
-          <!-- /.carousel-item      <i class="fas fa-shopping-cart"></i>     -->
+          <!-- /.carousel-item -->
+
         </div>
         <!-- Carousel nav -->
         <div class="carousel-control-prev a-out-t"><a class="text-light" href="#carousel_main" data-slide="prev"><span class="icon-cl-prev text-shadow pe-7s-angle-left"></span></a></div>
@@ -723,10 +724,10 @@
                 <div class="col-lg-8">
                   <h4 class="text-uppercase mb-3">Discord release</h4>
                   <div class="mb-3 small text-info">
-                    <span><i class="fas fa-tags"></i> Ankündigungen</span> <span class="mx-1">-</span> <span>6th October 2020</span>
+                    <span><i class="fas fa-tags"></i> Announcements</span> <span class="mx-1">-</span> <span>6th Decemer 2020</span>
                   </div>
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nisi ad enim sequi voluptate alias molestiae sit fugit at, quisquam, error iure porro id facilis, ab odit qui? Voluptate, tempore.</p>
-                  <a href="news/news-article.php" class="btn btn-outline-light">Weiterlesen</a>
+                  <p>Join our Discord Community to meet new people every day, to hear the music of our partners or to get in closer contact with our team.</p>
+                  <a href="news/news-article.php" class="btn btn-outline-light">Read</a>
                 </div>
               </div>
             </div>
@@ -745,10 +746,10 @@
                 <div class="col-lg-8">
                   <h4 class="text-uppercase mb-3">TeamSpeak release</h4>
                   <div class="mb-3 small text-info">
-                    <span><i class="fas fa-tags"></i> Ankündigungen</span> <span class="mx-1">-</span> <span>5th October 2020</span>
+                    <span><i class="fas fa-tags"></i> Announcements</span> <span class="mx-1">-</span> <span>5th Decemer 2020</span>
                   </div>
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nisi ad enim sequi voluptate alias molestiae sit fugit at, quisquam, error iure porro id facilis, ab odit qui? Voluptate, tempore.</p>
-                  <a href="news/news-article.php" class="btn btn-outline-light">Weiterlesen</a>
+                  <p>Join our TeamSpeak Community to meet new people every day, to hear the music of our partners or to get in closer contact with our team.</p>
+                  <a href="news/news-article.php" class="btn btn-outline-light">Read</a>
                 </div>
               </div>
             </div>
@@ -765,12 +766,12 @@
                   </div>
                 </div>
                 <div class="col-lg-8">
-                  <h4 class="text-uppercase mb-3">Wir sind zurück!</h4>
+                  <h4 class="text-uppercase mb-3">We are back!</h4>
                   <div class="mb-3 small text-info">
-                    <span><i class="fas fa-tags"></i> Akündigungen</span> <span class="mx-1">-</span> <span>4th October 2020</span>
+                    <span><i class="fas fa-tags"></i> Announcements</span> <span class="mx-1">-</span> <span>4th Decemer 2020</span>
                   </div>
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nisi ad enim sequi voluptate alias molestiae sit fugit at, quisquam, error iure porro id facilis, ab odit qui? Voluptate, tempore.</p>
-                  <a href="news/news-article.php" class="btn btn-outline-light">Weiterlesen</a>
+                  <p>Now it's official! We are now back and try to merge with Veranity to present you the best version of our networks.</p>
+                  <a href="news/news-article.php" class="btn btn-outline-light">Read</a>
                 </div>
               </div>
             </div>
@@ -1022,7 +1023,7 @@
                 <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
+                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">VIP (LIFETIME)</span></a>
                 <div class="position-relative lh-1">
                   <div class="number-input">
                     <button onclick="this.parentNode.querySelector('input[type=number]').stepDown()" ><i class="ti-minus"></i></button>
@@ -1035,7 +1036,7 @@
                 <div class="row align-items-center h-100 no-gutters">
                   <div class="ml-auto text-center">
                     <a href="#"><i class="far fa-trash-alt"></i></a><br>
-                    <span class="fw-500 text-warning">€44.99</span>
+                    <span class="fw-500 text-warning">50k C.</span>
                   </div>
                 </div>
               </div>
@@ -1047,7 +1048,7 @@
                 <a href="store-product.html"><img class="img bl-3 text-primary" src="assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
+                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">3 JoinMe Tokens</span></a>
                 <div class="position-relative lh-1">
                   <div class="number-input">
                     <button onclick="this.parentNode.querySelector('input[type=number]').stepDown()" ><i class="ti-minus"></i></button>
@@ -1060,7 +1061,7 @@
                 <div class="row align-items-center h-100 no-gutters">
                   <div class="ml-auto text-center">
                     <a href="#"><i class="far fa-trash-alt"></i></a><br>
-                    <span class="fw-500 text-warning">€27.59</span>
+                    <span class="fw-500 text-warning">50k C.</span>
                   </div>
                 </div>
               </div>

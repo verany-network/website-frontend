@@ -747,7 +747,7 @@
                   <div class="mb-3 small text-info">
                     <span><i class="fas fa-tags"></i> Ankündigungen</span> <span class="mx-1">-</span> <span>5th October 2020</span>
                   </div>
-                  <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nisi ad enim sequi voluptate alias molestiae sit fugit at, quisquam, error iure porro id facilis, ab odit qui? Voluptate, tempore.</p>
                   <a href="news/news-article.php" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>
@@ -769,7 +769,7 @@
                   <div class="mb-3 small text-info">
                     <span><i class="fas fa-tags"></i> Akündigungen</span> <span class="mx-1">-</span> <span>4th October 2020</span>
                   </div>
-                  <p>Donec vestibulum, odio a sagittis vestibulum, eros nunc consectetur ex, eu tincidunt neque lacus ac lorem. Mauris interdum urna id eros dignissim convallis. Aliquam convallis, nisi in facilisis tincidunt, augue nunc efficitur lectus, ut auctor orci purus sed neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nisi ad enim sequi voluptate alias molestiae sit fugit at, quisquam, error iure porro id facilis, ab odit qui? Voluptate, tempore.</p>
                   <a href="news/news-article.php" class="btn btn-outline-light">Weiterlesen</a>
                 </div>
               </div>

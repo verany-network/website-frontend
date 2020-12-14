@@ -150,7 +150,7 @@
                       <div class="main_carousel__content ad-900ms fadeIn text-light px-8 px-md-6 mx-lg-4 mx-xl-0">
                       
                         <h2 class="carousel__heading text-light fadeInDown ad-500ms">TeamSpeak Release!</h2>
-                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms">Come to our Discord to talk with your friends or to meet new friends!</p>
+                        <p class="carousel__text lead-1 mb-6 fadeInDown ad-600ms">Come to our TeamSpeak to talk with your friends or to meet new friends!</p>
                         <div class="d-flex fadeInLeft ad-900ms">
                         <a class="disabled btn btn-lg bg-dark_A-50 o-1 text-light br-round-0tr br-round-0br parallelogram un_text mb-0"><span class="carousel__discount td-lt text-light"><i class="fab fa-teamspeak"></i></span></a>
                         <a href="ts3server://verany.net" class="btn btn-lg btn-light parallelogram br-round-0tl br-round-0bl un_text mb-0"><span class="d-block">Join</span></a>
@@ -980,13 +980,16 @@
           <div class="modal-body">
             <form class="input-transparent">
               <div class="form-group">
-                <input type="text" class="form-control border-secondary" name="username" placeholder="Minecraft Username">
+                <input type="text" class="form-control border-secondary" name="username" autocomplete="off" placeholder="Minecraft Username">
               </div>
               <div class="form-group">
-                <input type="password" class="form-control border-secondary" name="password" placeholder="Password">
+                <input type="password" class="form-control border-secondary" name="password" autocomplete="off" placeholder="Password">
               </div>
-              <div class="form-group">
-                <input type="text" class="form-control border-secondary" name="verification" placeholder="Verificaiton code">
+              <div class="form-group input-group mb-0">
+                <input type="text" class="form-control" placeholder="Enter Your Code">
+                  <div class="input-group-append ml-3">
+                  <button class="btn btn-warning" type="button">Apply</button>
+                </div>
               </div>
               <div class="form-group d-flex justify-content-between">
               </div>

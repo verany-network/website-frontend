@@ -793,7 +793,7 @@
               </div>
               <div class="col-md-8 order-md-1 text-light text-md-right">
                 <h2 class="mb-4">LabyMod</h2>
-                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
+                <p class="mb-7">Thanks to our closer collaboration with ReyFM, we are able to offer a customized gaming experience for everyone.</p>
               </div>
             </div>
           </div>
@@ -807,8 +807,8 @@
                 </figure>
               </div>
               <div class="col-md-8 order-md-1 text-light text-md-right">
-                <h2 class="mb-4">StartyourServer</h2>
-                <p class="mb-7">Thanks to our closer collaboration with StartyourServer, we are able to offer you a high-performance gaming experience around the clock.</p>
+                <h2 class="mb-4">ReyFM</h2>
+                <p class="mb-7">Thanks to our closer collaboration with ReyFM, we are able to offer you a high-performance music experience around the clock.</p>
               </div>
             </div>
           </div>
@@ -851,18 +851,18 @@
               <div class="col-6 col-lg-2">
                 <h6 class="text-uppercase fw-600 mb-4">Useful links</h6>
                 <div class="nav flex-column">
-                  <a class="nav-link" href="contact.html">Rules & Policies</a>
-                  <a class="nav-link" href="contact.html">Terms of Service</a>
-                  <a class="nav-link" href="contact.html">Privacy Policy</a>
+                  <a class="nav-link" href="rules.php">Rules & Policies</a>
+                  <a class="nav-link" href="tos.php">Terms of Service</a>
+                  <a class="nav-link" href="privacy-policy.php">Privacy Policy</a>
                 </div>
               </div>
 
               <div class="col-6 col-lg-2">
                 <h6 class="text-uppercase fw-600 mb-4">Services</h6>
                 <div class="nav flex-column">
-                  <a class="nav-link" href="contact.html">Home</a>
-                  <a class="nav-link" href="contact.html">Support</a>
-                  <a class="nav-link" href="contact.html">Jobs</a>
+                  <a class="nav-link" href="./">Home</a>
+                  <a class="nav-link" href="./support/help-center.php">Support</a>
+                  <a class="nav-link" href="./apply/apply.php">Jobs</a>
                 </div>
               </div>
               

@@ -32,20 +32,75 @@
   <body class="page-body">
 
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top border-nav">
-      <div class="container">
-        <a class="navbar-brand align-items-center logo" href="#">
-          <img src="./../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">☰</button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-          <ul class="nav navbar-nav ml-lg-auto">
-            <li class="nav-item"><a class="nav-link mr-2" href="" data-scroll="#about">Game</a></li>
-            <li class="nav-item"><a class="nav-link mr-2" href="" data-scroll="#characters">Characters</a></li>
-            <li class="nav-item"><a class="nav-link mr-2" href="" data-scroll="#overview">Overview</a></li>
-            <li class="nav-item"><a class="nav-link mr-2" href="" data-scroll="#gallery">Gallery</a></li>
-            <li class="nav-item"><a class="nav-link mr-2" href="" data-scroll="#contact">Contact Us</a></li>
-          </ul>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark border-nav zi-3">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-4 col-sm-3 col-md-1 mr-auto">
+            <a class="navbar-brand logo" href="#">
+              <img src="../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+            </a>
+          </div>
+          <div class="nav-items mr-auto col">
+            <div class="input-group-append">
+            <button class="navbar-toggler navbar-toggler-fixed" style="transform: translateY(-20px);" type="button" data-toggle="collapse" data-target="#collapsingNavbar" aria-controls="collapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">☰</button>
+              <div class="collapse navbar-collapse" id="collapsingNavbar">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="../">Home</a>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="../forum/forum.php">Forums</a>
+                    <div class="-" aria-labelledby="dropdownGaming_software">
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="../store/store.php">Store</a>
+                    <div class="-" aria-labelledby="dropdownGaming_community">
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="../apply/apply.php">Apply</a>
+                    <div class="-" aria-labelledby="dropdownGaming_community">
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="../support/support.php">Support</a>
+                    <div class="-" aria-labelledby="dropdownGaming_community">
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-4 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
+            <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="../assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">NicoVRNY </a>
+                <div class="dropdown-menu position-absolute" aria-labelledby="dropdownUser">
+                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-user"></i></span>Profile</a>
+                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-cog"></i></span>Settings</a>
+                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-wallet"></i></span>Wallet</a>
+                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-sign-out-alt"></i></span>Logout</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle small" href="#" id="dropdownGaming" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="mr-2 fas fa-globe"></i>EN </a>
+                <div class="dropdown-menu position-absolute" aria-labelledby="dropdownGaming">
+                  <a class="dropdown-item" href="#">English</a>
+                  <a class="dropdown-item" href="#">Deutsch</a>
+                  <a class="dropdown-item" href="#">Español</a>
+                </div>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link small" href="" data-toggle="offcanvas" data-target="#offcanvas-cart">
+                  <span class="p-relative d-inline-flex">
+                    <span class="badge-cart badge badge-counter badge-warning position-absolute l-1">2</span>
+                    <i class="fas fa-shopping-cart"></i>
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </nav>

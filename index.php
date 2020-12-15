@@ -792,7 +792,7 @@
                 </figure>
               </div>
               <div class="col-md-8 order-md-1 text-light text-md-right">
-                <h2 class="mb-4">Explore vestibulum</h2>
+                <h2 class="mb-4">LabyMod</h2>
                 <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
               </div>
             </div>
@@ -802,47 +802,18 @@
             <div class="row align-items-center h-100">
               <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
                 <figure class="position-relative my-0">
-                  <div style="background-image: url('assets/img/content/cont/partnerDiscord.png'); width: 280px;" class="main-fb-product bp-c br-n">
+                  <div style="background-image: url('assets/img/content/cont/partnerReyFM.png'); width: 280px;" class="main-fb-product bp-c br-n">
                   </div>
                 </figure>
               </div>
               <div class="col-md-8 order-md-1 text-light text-md-right">
-                <h2 class="mb-4">Explore vestibulum</h2>
-                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
+                <h2 class="mb-4">StartyourServer</h2>
+                <p class="mb-7">Thanks to our closer collaboration with StartyourServer, we are able to offer you a high-performance gaming experience around the clock.</p>
               </div>
             </div>
           </div>
         
         <div class="row no-gutters">
-        <div class="col-xl-6 py-6 px-4 px-sm-8 6 px-md-9 " data-overlay="7">
-            <div class="row align-items-center h-100">
-              <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
-                <figure class="position-relative my-0">
-                  <div style="background-image: url('assets/img/content/cont/partnerTwitch.png'); width: 280px;" class="main-fb-product bp-c br-n">
-                  </div>
-                </figure>
-              </div>
-              <div class="col-md-8 order-md-1 text-light text-md-right">
-                <h2 class="mb-4">Explore vestibulum</h2>
-                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-xl-6 py-6 px-4 px-sm-8 6 px-md-9 " data-overlay="7">
-            <div class="row align-items-center h-100">
-              <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
-                <figure class="position-relative my-0">
-                  <div style="background-image: url('assets/img/content/cont/partnerNitrado.png'); width: 280px;" class="main-fb-product bp-c br-n">
-                  </div>
-                </figure>
-              </div>
-              <div class="col-md-8 order-md-1 text-light text-md-right">
-                <h2 class="mb-4">Explore vestibulum</h2>
-                <p class="mb-7">Mauris euismod aliquam erat, a vestibulum tortor bibendum sit amet. Duis vitae augue non dolor fermentum faucibus non quis justo. Sed consequat accumsan turpis et semper. Nulla blandit blandit est, nec tincidunt neque sollicitudin vitae.</p>
-              </div>
-            </div>
-          </div>
       </section>
       <!-- /.content area -->
       

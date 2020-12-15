@@ -7,19 +7,19 @@
     <title>Verany • Help Center</title>
 
     <!-- CSS -->
-    <link href="./../../assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="./../../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="./../../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="./../../assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="./../assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="./../../assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="./../assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
 
-    <link href="./../../assets/css/main.css" rel="stylesheet">
-    <link href="./../../assets/css/styles.css" rel="stylesheet">
+    <link href="./../assets/css/main.css" rel="stylesheet">
+    <link href="./../assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="./../../assets/img/apple-touch-icon.png">
-    <link rel="icon" href="./../../assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="./../assets/img/apple-touch-icon.png">
+    <link rel="icon" href="./../assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -33,29 +33,53 @@
 
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark border-nav zi-3">
-      <div class="container">
+      <div class="container-fluid">
         <div class="row">
-          <div class="col-4 col-sm-3 col-md-2 mr-auto">
+          <div class="col-4 col-sm-3 col-md-1 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="./../../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
-          <div class="col-4 d-none d-lg-block mx-auto">
-            <form class="input-group border-0 bg-transparent">
-              <input class="form-control" type="search" placeholder="Search" aria-label="Search">
-              <div class="input-group-append">
-                <button class="btn btn-sm btn-warning text-secondary my-0 mx-0" type="submit"><i class="fas fa-search"></i></button>
+          <div class="nav-items mr-auto col">
+            <div class="input-group-append">
+            <button class="navbar-toggler navbar-toggler-fixed" style="transform: translateY(-20px);" type="button" data-toggle="collapse" data-target="#collapsingNavbar" aria-controls="collapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">☰</button>
+              <div class="collapse navbar-collapse" id="collapsingNavbar">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="../">Home</a>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="../forum/forum.php">Forums</a>
+                    <div class="-" aria-labelledby="dropdownGaming_software">
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="../store/store.php">Store</a>
+                    <div class="-" aria-labelledby="dropdownGaming_community">
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="../apply/apply.php">Apply</a>
+                    <div class="-" aria-labelledby="dropdownGaming_community">
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="../support/support.php">Support</a>
+                    <div class="-" aria-labelledby="dropdownGaming_community">
+                    </div>
+                  </li>
+                </ul>
               </div>
-            </form>
+            </div>
           </div>
-          <div class="col-8 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
+          <div class="col-4 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
             <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="./../../assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">Sakuras </a>
+                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="../assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">NicoVRNY </a>
                 <div class="dropdown-menu position-absolute" aria-labelledby="dropdownUser">
-                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-user"></i></span>My Profile</a>
-                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-wallet"></i></span>Wallet</a>
+                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-user"></i></span>Profile</a>
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-cog"></i></span>Settings</a>
+                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-wallet"></i></span>Wallet</a>
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-sign-out-alt"></i></span>Logout</a>
                 </div>
               </li>
@@ -80,67 +104,13 @@
         </div>
       </div>
     </nav>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <div class="container">
-        <button class="navbar-toggler navbar-toggler-fixed" type="button" data-toggle="collapse" data-target="#collapsingNavbar" aria-controls="collapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">☰</button>
-        <div class="collapse navbar-collapse" id="collapsingNavbar">
-          <ul class="navbar-nav">
-            <li class="nav-item dropdown dropdown-hover">
-              <a class="nav-link dropdown-toggle pl-lg-0" href="#" id="dropdownGaming_games" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Games </a>
-              <div class="dropdown-menu dropdown-menu-dark-lg" aria-labelledby="dropdownGaming_games">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Adventure</a>
-                <a class="dropdown-item" href="#">Cooperative</a>
-                <a class="dropdown-item" href="#">MMO</a>
-                <a class="dropdown-item" href="#">RPG</a>
-                <a class="dropdown-item" href="#">Simulation</a>
-                <a class="dropdown-item" href="#">Economy</a>
-                <a class="dropdown-item" href="#">Horror</a>
-                <a class="dropdown-item" href="#">Arcade</a>
-                <a class="dropdown-item" href="#">Hack & Slash</a>
-                <a class="dropdown-item" href="#">Puzzle</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown dropdown-hover">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdownGaming_software" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Software </a>
-              <div class="dropdown-menu dropdown-menu-dark-lg" aria-labelledby="dropdownGaming_software">
-                <a class="dropdown-item" href="#">Animation & Modeling</a>
-                <a class="dropdown-item" href="#">Audio Production</a>
-                <a class="dropdown-item" href="#">Design & Illustration</a>
-                <a class="dropdown-item" href="#">Education</a>
-                <a class="dropdown-item" href="#">Game Development</a>
-                <a class="dropdown-item" href="#">Photo Editing</a>
-                <a class="dropdown-item" href="#">Utilities</a>
-                <a class="dropdown-item" href="#">Video Production</a>
-                <a class="dropdown-item" href="#">Web Publishing</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown dropdown-hover">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdownGaming_community" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Community </a>
-              <div class="dropdown-menu dropdown-menu-dark-lg" aria-labelledby="dropdownGaming_community">
-                <a class="dropdown-item" href="#">Discussions</a>
-                <a class="dropdown-item" href="#">Workshop</a>
-                <a class="dropdown-item" href="#">Market</a>
-                <a class="dropdown-item" href="#">Broadcasts</a>
-              </div>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Support</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
     <!-- /.navbar -->
 
     <!-- main content -->
     <main class="main-content gradient-lg position-relative">
 
       <!-- overlay -->
-      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(./../../assets/img/bg/bg_shape.png);"></div>
+      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(./../assets/img/bg/bg_shape.png);"></div>
       <!-- /.overlay -->
 
       <!-- content area -->
@@ -158,7 +128,7 @@
             <div class="row mb-8 mb-lg-10">
               <div class="col-12">
                 <header class="text-center mb-6 mb-md-8">
-                  <h2 class="mb-0">Welcome to the Customer Support!</h2>
+                  <h2 class="mb-0">Welcome to our Support!</h2>
                   <hr class="w-10 border-top-2 mt-5 mb-6 mx-auto border-warning">
                 </header>
                 <div class="mb-8">
@@ -376,7 +346,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="./../../assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="./../assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
                 <p>Wicodus is a online store where you can find digital goods at the best prices.</p>
                 <div class="social-buttons">
                   <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
@@ -500,7 +470,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -525,7 +495,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -556,15 +526,15 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="./../../assets/js/jquery.min.js"></script>
+    <script src="./../assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="./../../assets/js/bootstrap.min.js"></script>
+    <script src="./../assets/js/bootstrap.min.js"></script>
 
     <!-- User JS -->
-    <script src="./../../assets/js/scripts.js"></script>
+    <script src="./../assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="./../../assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="./../assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

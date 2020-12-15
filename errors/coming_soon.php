@@ -30,7 +30,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body class="page-body br-n bp-c bs-c" data-overlay="9" style="background-image: url(../assets/img/content/bg-2.jpg);">
+  <body class="page-body br-n bp-c bs-c" data-overlay="9" style="background-image: url(../assets/img/content/carousel/slide_01.jpg);">
 
     <main class="main-content h-fullscreen d-flex align-items-center text-center text-light">
 
@@ -40,18 +40,13 @@
             <div class="col-lg-8 mx-auto">
                 <h2 class="display-md-4">Coming Soon</h2>
                 <hr class="w-10 border-top-2 my-6 my-xl-7 border-warning">
-                <p class="lead">Etiam bibendum justo in mi cursus, eget aliquet nulla varius.</p>
-                <br>
-                <!-- countdown -->
-                <div class="countdown text-center mb-10">
-                    <div class="countdown-outline fw-400" data-countdown="2020/12/25 12:34:56"></div>
-                </div>
-                <!-- /.countdown -->
                 <div class="row d-none d-md-flex">
                     <div class="col-lg-8 mx-auto">
-                        <h3>Subscribe To Our Newsletter</h3>
+                        <p>Currently our website is under construction.</p>
+                        <br>
+                        <h3>Subscribe to our Newsletter</h3>
                         <hr class="w-10 border-top-2 my-6 my-xl-7 border-warning">
-                        <p>Be the first to find out about special offers!</p>
+                        <p>Be among the first to know when our website goes online!</p>
                         <form class="input-transparent">
                             <div class="input-group">
                                 <input type="text" class="form-control" placeholder="Email">

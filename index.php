@@ -63,13 +63,8 @@
             <button class="navbar-toggler navbar-toggler-fixed" style="transform: translateY(-20px);" type="button" data-toggle="collapse" data-target="#collapsingNavbar" aria-controls="collapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">☰</button>
               <div class="collapse navbar-collapse" id="collapsingNavbar">
                 <ul class="navbar-nav">
-                  <li class="nav-item dropdown dropdown-hover">
-                    <a class="nav-link dropdown-toggle pl-lg-0" href="#" id="dropdownGaming_games" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Support </a>
-                    <div class="dropdown-menu dropdown-menu-dark-lg" aria-labelledby="dropdownGaming_games">
-                      <a class="dropdown-item" href="#"><strong>Application for exile</strong></a>
-                      <a class="dropdown-item" href="#"><strong>Report a player</strong></a>
-                      <a class="dropdown-item" href="#"><strong>Report a bug</strong></a>
-                    </div>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
                   </li>
                   <li class="nav-item">
                   <a class="nav-link" href="./forum/forum.php">Forums</a>
@@ -82,10 +77,14 @@
                     </div>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Services</a>
+                  <a class="nav-link" href="./apply/apply.php">Apply</a>
+                    <div class="-" aria-labelledby="dropdownGaming_community">
+                    </div>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Apply</a>
+                  <a class="nav-link" href="./support/support.php">Support</a>
+                    <div class="-" aria-labelledby="dropdownGaming_community">
+                    </div>
                   </li>
                 </ul>
               </div>

@@ -354,38 +354,52 @@
     </main>
 
     <!-- footer -->
-    <footer class="footer footer-dark py-0">
-      <div class="bg-dark py-9">
-        <div class="container">
-          <div class="row gutters-y align-items-center">
-            <div class="col-lg-9">
-              <div class="nav nav-bold-style text-uppercase">
-                <a class="nav-link py-1 pb-sm-0" href="about.html">About</a>
-                <a class="nav-link py-1 pb-sm-0" href="news.html">News</a>
-                <a class="nav-link py-1 pb-sm-0" href="store.html">Store</a>
-                <a class="nav-link py-1 pb-sm-0" href="contact.html">Contact</a>
+    <footer class="footer footer-dark bg-dark py-9">
+      <div class="container">
+          <div class="row gutters-y">
+              <div class="col-6 col-lg-3">
+                <a href="#" class="logo d-block mb-4"><img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <p>The Verany.net network is a network that specializes in innovative pastimes.</p>
+                <div class="social-buttons">
+                  <a class="social-mail" href="mailto:contact@verany.net"><i class="far fa-envelope"></i></a>
+                  <a class="social-teamspeak" href="ts3server://verany.net"><i class="fab fa-teamspeak"></i></a>
+                  <a class="social-discord" href="https://discord.gg/SJ5tfxC"><i class="fab fa-discord"></i></a>
+                  <a class="social-twitter" href="https://twitter.com/VeranyNET"><i class="fab fa-twitter"></i></a>
+                  <a class="social-youtube" href="https://www.youtube.com/channel/UCduDElXYi8zPjZMTIxCT45A"><i class="fab fa-youtube"></i></a>
+                </div>
               </div>
-            </div>
-            
-            <div class="col-lg-3">
-              <div class="social-buttons lead-1">
-                <a class="social-facebook" href="#"><i class="fab fa-facebook-f"></i></a>
-                <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
-                <a class="social-dribbble" href="#"><i class="fab fa-dribbble"></i></a>
-                <a class="social-instagram" href="#"><i class="fab fa-instagram"></i></a>
+
+              <div class="col-6 col-lg-2">
+                <h6 class="text-uppercase fw-600 mb-4">Useful links</h6>
+                <div class="nav flex-column">
+                  <a class="nav-link" href="rules.php">Rules & Policies</a>
+                  <a class="nav-link" href="tos.php">Terms of Service</a>
+                  <a class="nav-link" href="privacy-policy.php">Privacy Policy</a>
+                </div>
               </div>
-            </div>
+
+              <div class="col-6 col-lg-2">
+                <h6 class="text-uppercase fw-600 mb-4">Services</h6>
+                <div class="nav flex-column">
+                  <a class="nav-link" href="./">Home</a>
+                  <a class="nav-link" href="./support/help-center.php">Support</a>
+                  <a class="nav-link" href="./apply/apply.php">Jobs</a>
+                </div>
+              </div>
+              
+              <div class="col col-lg-3 order-lg-last">
+                <div class="mb-6">
+                  <h6 class="text-uppercase fw-600 mb-4">Ways to pay</h6>
+                  <div class="text-light lead-5 lh-1">
+                    <a href="store.html" class="mr-2"><i class="fab fa-cc-paypal"></i></a>
+                    <a href="store.html" class="mr-2"><i class="fab fa-cc-apple-pay"></i></a>
+                    <a href="store.html" class="mr-2"><i class="fab fa-cc-amazon-pay"></i></a>
+                    <a href="store.html" class="mr-2"><i class="fab fa-cc-visa"></i></a>
+                  </div>
+                </div>
+                </div>
+              </div>
           </div>
-        </div>
-      </div>
-      <div class="bg-dark-end py-6 text-center">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <span class="ls-1 fw-500">Copyright © 2020 Wicodus. All Rights Reserved.</span>
-            </div>
-          </div>
-        </div>
       </div>
     </footer>
     <!-- /.footer -->

@@ -375,10 +375,10 @@
                 <div class="mb-6">
                   <h6 class="text-uppercase fw-600 mb-4">Ways to pay</h6>
                   <div class="text-light lead-5 lh-1">
-                    <a href="store.html" class="mr-2"><i class="fab fa-cc-paypal"></i></a>
-                    <a href="store.html" class="mr-2"><i class="fab fa-cc-apple-pay"></i></a>
-                    <a href="store.html" class="mr-2"><i class="fab fa-cc-amazon-pay"></i></a>
-                    <a href="store.html" class="mr-2"><i class="fab fa-cc-visa"></i></a>
+                    <a href="https://www.paypal.com/" class="mr-2"><i class="fab fa-cc-paypal"></i></a>
+                    <a href="https://www.apple.com/de/apple-pay/" class="mr-2"><i class="fab fa-cc-apple-pay"></i></a>
+                    <a href="https://pay.amazon.de/" class="mr-2"><i class="fab fa-cc-amazon-pay"></i></a>
+                    <a href="https://www.visa.de/" class="mr-2"><i class="fab fa-cc-visa"></i></a>
                   </div>
                 </div>
                 </div>

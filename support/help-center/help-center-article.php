@@ -261,49 +261,56 @@
     </footer>
     <!-- /.footer -->
 
-    <!-- sign Up -->
-    <div class="modal fade" id="userLogin" tabindex="-1" role="dialog" aria-labelledby="userLoginTitle" aria-hidden="true">
-      <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
-        <div class="modal-content bg-dark text-light">
-          <div class="modal-header border-secondary">
-            <h5 class="modal-title" id="userLoginTitle">Log in</h5>
-            <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <div class="modal-body">
-            <div>
-              <div class="text-center my-6"> 
-                <a class="btn btn-circle btn-sm btn-google mr-2" href=""><i class="fab fa-google"></i></a>
-                <a class="btn btn-circle btn-sm btn-facebook mr-2" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-circle btn-sm btn-twitter" href=""><i class="fab fa-twitter"></i></a>
-              </div>
-              <span class="hr-text small my-6">Or</span>
-            </div>
-            <form class="input-transparent">
-              <div class="form-group">
-                <input type="text" class="form-control border-secondary" name="username" placeholder="Username">
-              </div>
-              <div class="form-group">
-                <input type="password" class="form-control border-secondary" name="password" placeholder="Password">
-              </div>
-              <div class="form-group d-flex justify-content-between">
-                <div class="custom-control custom-checkbox">
-                  <input type="checkbox" class="custom-control-input" checked="" id="rememberMeCheck">
-                  <label class="custom-control-label" for="rememberMeCheck">Remember me</label> 
+    <!-- footer -->
+    <footer class="footer footer-dark bg-dark py-9">
+      <div class="container">
+          <div class="row gutters-y">
+              <div class="col-6 col-lg-3">
+                <a href="#" class="logo d-block mb-4"><img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <p>The Verany.net network is a network that specializes in innovative pastimes.</p>
+                <div class="social-buttons">
+                  <a class="social-mail" href="mailto:contact@verany.net"><i class="far fa-envelope"></i></a>
+                  <a class="social-teamspeak" href="ts3server://verany.net"><i class="fab fa-teamspeak"></i></a>
+                  <a class="social-discord" href="https://discord.gg/SJ5tfxC"><i class="fab fa-discord"></i></a>
+                  <a class="social-twitter" href="https://twitter.com/VeranyNET"><i class="fab fa-twitter"></i></a>
+                  <a class="social-youtube" href="https://www.youtube.com/channel/UCduDElXYi8zPjZMTIxCT45A"><i class="fab fa-youtube"></i></a>
                 </div>
-                <a class="small-3" href="#">Forgot password?</a>
               </div>
-              <div class="form-group mt-6">
-                <button class="btn btn-block btn-warning" type="submit">Login</button>
+
+              <div class="col-6 col-lg-2">
+                <h6 class="text-uppercase fw-600 mb-4">Useful links</h6>
+                <div class="nav flex-column">
+                  <a class="nav-link" href="rules.php">Rules & Policies</a>
+                  <a class="nav-link" href="tos.php">Terms of Service</a>
+                  <a class="nav-link" href="privacy-policy.php">Privacy Policy</a>
+                </div>
               </div>
-            </form>
-            <span class="small">Don't have an account? <a href="#">Create an account</a></span>
+
+              <div class="col-6 col-lg-2">
+                <h6 class="text-uppercase fw-600 mb-4">Services</h6>
+                <div class="nav flex-column">
+                  <a class="nav-link" href="./">Home</a>
+                  <a class="nav-link" href="./support/help-center.php">Support</a>
+                  <a class="nav-link" href="./apply/apply.php">Jobs</a>
+                </div>
+              </div>
+              
+              <div class="col col-lg-3 order-lg-last">
+                <div class="mb-6">
+                  <h6 class="text-uppercase fw-600 mb-4">Ways to pay</h6>
+                  <div class="text-light lead-5 lh-1">
+                    <a href="https://www.paypal.com/" class="mr-2"><i class="fab fa-cc-paypal"></i></a>
+                    <a href="https://www.apple.com/de/apple-pay/" class="mr-2"><i class="fab fa-cc-apple-pay"></i></a>
+                    <a href="https://pay.amazon.de/" class="mr-2"><i class="fab fa-cc-amazon-pay"></i></a>
+                    <a href="https://www.visa.de/" class="mr-2"><i class="fab fa-cc-visa"></i></a>
+                  </div>
+                </div>
+                </div>
+              </div>
           </div>
-        </div>
       </div>
-    </div>
-    <!-- /.sign Up -->
+    </footer>
+    <!-- /.footer -->
 
     <!-- offcanvas-cart -->
     <div id="offcanvas-cart" class="offcanvas-cart offcanvas text-light h-100 r-0 l-auto d-flex flex-column" data-animation="slideRight">

@@ -851,16 +851,16 @@
               <div class="col-6 col-lg-2">
                 <h6 class="text-uppercase fw-600 mb-4">Useful links</h6>
                 <div class="nav flex-column">
-                  <a class="nav-link" href="rules.php">Rules & Policies</a>
-                  <a class="nav-link" href="tos.php">Terms of Service</a>
-                  <a class="nav-link" href="privacy-policy.php">Privacy Policy</a>
+                  <a class="nav-link" href="./rules/rules.php">Rules & Policies</a>
+                  <a class="nav-link" href="./rules/terms.php">Terms of Service</a>
+                  <a class="nav-link" href="./rules/privacy.php">Privacy Policy</a>
                 </div>
               </div>
 
               <div class="col-6 col-lg-2">
                 <h6 class="text-uppercase fw-600 mb-4">Services</h6>
                 <div class="nav flex-column">
-                  <a class="nav-link" href="./">Home</a>
+                  <a class="nav-link" href="#">Home</a>
                   <a class="nav-link" href="./support/help-center.php">Support</a>
                   <a class="nav-link" href="./apply/apply.php">Jobs</a>
                 </div>

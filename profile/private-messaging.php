@@ -7,17 +7,17 @@
     <title>Verany • Private Messages</title>
 
     <!-- CSS -->
-    <link href="http://localhost/assets/css/fonts/etline-font.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/fonts/themify-icons.css" rel="stylesheet">
+    <link href="../assets/css/fonts/etline-font.min.css" rel="stylesheet">
+    <link href="../assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+    <link href="../assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="../assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
-    <link href="http://localhost/assets/css/styles.css" rel="stylesheet">
+    <link href="../assets/css/main.css" rel="stylesheet">
+    <link href="../assets/css/styles.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="http://localhost/assets/img/apple-touch-icon.png">
-    <link rel="icon" href="http://localhost/assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="../assets/img/apple-touch-icon.png">
+    <link rel="icon" href="../assets/img/favicon.png">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -35,7 +35,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-2 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="http://localhost/assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="../assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
             </a>
           </div>
           <div class="col-4 d-none d-lg-block mx-auto">
@@ -49,7 +49,7 @@
           <div class="col-8 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
             <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="http://localhost/assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">Sakuras </a>
+                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="../assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">NicoVRNY </a>
                 <div class="dropdown-menu position-absolute" aria-labelledby="dropdownUser">
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-user"></i></span>My Profile</a>
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-wallet"></i></span>Wallet</a>
@@ -138,7 +138,7 @@
     <main class="main-content gradient-lg position-relative">
 
       <!-- overlay -->
-      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(http://localhost/assets/img/bg/bg_shape.png);"></div>
+      <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(../assets/img/bg/bg_shape.png);"></div>
       <!-- /.overlay -->
 
       <!-- content area -->
@@ -147,7 +147,8 @@
           <header class="header mb-2">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb-product breadcrumb breadcrumb-nowrap breadcrumb-angle bg-transparent pl-0 pr-0 mb-0">
-                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
+                <li class="breadcrumb-item"><a href="profile.php">Profile</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Private Messaging</li>
               </ol>
             </nav>
@@ -178,9 +179,9 @@
                       <div class="d-flex align-items-center justify-content-center w-100">
                         <div class="lead-1 fw-500 lh-1 text-center py-1">
                           <span class="d-flex align-items-center justify-content-center mb-2">
-                            <a href="#" class="d-block">Qiretha</a>
+                            <a href="#" class="d-block">Dani_R</a>
                           </span>
-                          <span class="small-3 fw-100 o-80">Last message 8 months ago</span>
+                          <span class="small-3 fw-100 o-80">Last online 2 minutes ago</span>
                         </div>
                       </div>
                     </header>
@@ -192,17 +193,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">Dani_R</span>
                               </div>
                               <div class="small-3 lh-3 o-60">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Egal ich komm einfach Stetten</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -224,17 +225,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">tylix</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Ich liebe dich</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -256,17 +257,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">Likqez</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Bin ein riesen Fan (wirklich)</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -288,17 +289,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">SubwayKeks</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Dani ist voll doof</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -320,17 +321,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">SlashKick</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Digga ich will nicht mehr zahlen</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -352,17 +353,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">MinePanet</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Hat Money Boy gerade vor das Gebäude gepisst?</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -384,17 +385,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">CrashedLife</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Ich bring mich um</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -416,17 +417,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">6801</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Moooin</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -448,17 +449,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">Sthyq</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Ich will kein Senior Content mehr sein</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -480,17 +481,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">RedHead</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Nein ich helf dir nicht bei der Webseite</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -512,17 +513,17 @@
                         <a href="#">
                           <div class="px-5 py-4 d-flex align-items-center">
                             <div class="d-xl-none d-lp-inline chat-dialogue-avatar">
-                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                              <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                 <div class="chat-user-status-border"></div>
                               </div>
                               <div class="chat-user-status active"></div>
                             </div>
                             <div class="flex-1 pl-4 pl-xl-0 pl-lp-4 lh-6">
                               <div class="mb-1">
-                                <span class="lead-1 fw-500">Rambozld</span>
+                                <span class="lead-1 fw-500">Freyr</span>
                               </div>
                               <div class="small-3 lh-3 o-80">
-                                <span>Hehe, I thought you would like..</span>
+                                <span>Morgen komm ich wirklich TS</span>
                               </div>
                             </div>
                             <div class="pl-4 pl-xl-0 pl-lp-4">
@@ -550,29 +551,29 @@
                               <!-- welcome -->
                               <li class="text-left fw-500 mb-6">
                                 <div class="chat-dialogue-sm-avatar position-relative mb-2">
-                                  <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(http://localhost/assets/img/avatar/2.jpg)">
+                                  <div class="w-100 h-100 p-absolute l-0 t-0 rounded-circle bp-c bs-c br-n overflow-hidden" style="background: url(../assets/img/avatar/2.jpg)">
                                     <div class="chat-user-status-border"></div>
                                   </div>
                                   <div class="chat-user-status active"></div>
                                 </div>
-                                <span class="d-block lead-1 fw-600">Qiretha</span>
-                                <span class="text-light fw-300 o-80">Welcome to the beginning of the <a href="profile.html" class="fw-600">@Qiretha</a> group.</span>
+                                <span class="d-block lead-1 fw-600">Dani_R</span>
+                                <span class="text-light fw-300 o-80">Welcome to the beginning of the chat with <a href="profile.php" class="fw-600">@Dani_R</a></span>
                               </li>
                               <!-- /.welcome -->
                               <!-- time -->
                               <li class="d-block small-3 o-70 fw-500 mt-6 mt-xl-7 mb-6 mb-xl-8">
                                 <div class="hr-text">
-                                  March 21, 2020
+                                  Decemeber 16, 2020
                                 </div>
                               </li>
                               <!-- /.time -->
                               <!-- message -->
                               <li class="chat-dialogue-item d-flex align-items-center justify-content-end mb-6">
                                 <div class="chat-dialogue-me">
-                                  Hello there. Thanks for the follow. Did you notice, that I am an egg? A talking egg? Damn!
+                                  Was läuft was läuft was läuft ich bins Xatar
                                 </div>
                                 <div class="align-self-start">
-                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(http://localhost/assets/img/avatar/2.jpg)"></div>
+                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(../assets/img/avatar/2.jpg)"></div>
                                 </div>
                               </li>
                               <!-- /.message -->
@@ -580,15 +581,15 @@
                               <li class="chat-msg-item mb-6">
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="align-self-start">
-                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(http://localhost/assets/img/avatar/1.jpg)"></div>
+                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(../assets/img/avatar/1.jpg)"></div>
                                   </div>
                                   <div class="chat-dialogue-me">
-                                    Hello there. Thanks for the follow. Did you notice, that I am an egg? A talking egg? Damn!
+                                    Cringe
                                   </div>
                                 </div>
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="chat-dialogue-me">
-                                    Why didn't he come and talk to me himself?
+                                    Warte ab ich komm nach Stetten
                                   </div>
                                 </div>
                               </li>
@@ -596,17 +597,17 @@
                               <!-- time -->
                               <li class="d-block my-6 my-xl-8 small-3 o-70 fw-500 mb-6">
                                 <div class="hr-text">
-                                  10 minutes ago
+                                  December 17, 2020
                                 </div>
                               </li>
                               <!-- /.time -->
                               <!-- message -->
                               <li class="chat-dialogue-item d-flex align-items-center justify-content-end mb-6">
                                 <div class="chat-dialogue-me">
-                                  I never meant to come between you and him.
+                                  Nein bitte nicht
                                 </div>
                                 <div class="align-self-start">
-                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(http://localhost/assets/img/avatar/2.jpg)"></div>
+                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(../assets/img/avatar/2.jpg)"></div>
                                 </div>
                               </li>
                               <!-- /.message -->
@@ -614,15 +615,15 @@
                               <li class="chat-msg-item mb-6">
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="align-self-start">
-                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(http://localhost/assets/img/avatar/1.jpg)"></div>
+                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(../assets/img/avatar/1.jpg)"></div>
                                   </div>
                                   <div class="chat-dialogue-me">
-                                    If you do this, you will be dead to me.
+                                    Wenn du mich nochmal dumm anmachst komm ich
                                   </div>
                                 </div>
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="chat-dialogue-me">
-                                    I knew you wouldn't be able to see it through.
+                                    ich schwöre ich hab zu tun
                                   </div>
                                 </div>
                               </li>
@@ -630,17 +631,17 @@
                               <!-- time -->
                               <li class="d-block my-6 my-xl-8 small-3 o-70 fw-500 mb-6">
                                 <div class="hr-text">
-                                  30 minutes ago
+                                  December 18, 2020
                                 </div>
                               </li>
                               <!-- /.time -->
                               <!-- message -->
                               <li class="chat-dialogue-item d-flex align-items-center justify-content-end mb-6">
                                 <div class="chat-dialogue-me">
-                                  Hello there. Thanks for the follow. Did you notice, that I am an egg? A talking egg? Damn!
+                                  Mit Reflections?
                                 </div>
                                 <div class="align-self-start">
-                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(http://localhost/assets/img/avatar/2.jpg)"></div>
+                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(../assets/img/avatar/2.jpg)"></div>
                                 </div>
                               </li>
                               <!-- /.message -->
@@ -648,15 +649,15 @@
                               <li class="chat-msg-item mb-6">
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="align-self-start">
-                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(http://localhost/assets/img/avatar/1.jpg)"></div>
+                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(../assets/img/avatar/1.jpg)"></div>
                                   </div>
                                   <div class="chat-dialogue-me">
-                                    Hello there. Thanks for the follow. Did you notice, that I am an egg? A talking egg? Damn!
+                                    du wichser
                                   </div>
                                 </div>
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="chat-dialogue-me">
-                                    Why didn't he come and talk to me himself?
+                                    bin unterwegs nach stetten
                                   </div>
                                 </div>
                               </li>
@@ -664,10 +665,10 @@
                               <!-- message -->
                               <li class="chat-dialogue-item d-flex align-items-center justify-content-end mb-6">
                                 <div class="chat-dialogue-me">
-                                  I never meant to come between you and him.
+                                  ich meinte damit lukas
                                 </div>
                                 <div class="align-self-start">
-                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(http://localhost/assets/img/avatar/2.jpg)"></div>
+                                  <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(../assets/img/avatar/2.jpg)"></div>
                                 </div>
                               </li>
                               <!-- /.message -->
@@ -682,15 +683,15 @@
                               <li class="chat-msg-item mb-6">
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="align-self-start">
-                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(http://localhost/assets/img/avatar/1.jpg)"></div>
+                                    <div class="chat-dialogue-avatar rounded-circle bp-c bs-c br-n" style="background: url(../assets/img/avatar/1.jpg)"></div>
                                   </div>
                                   <div class="chat-dialogue-me">
-                                    If you do this, you will be dead to me.
+                                    achso sorry
                                   </div>
                                 </div>
                                 <div class="chat-dialogue-item d-flex align-items-center">
                                   <div class="chat-dialogue-me">
-                                    I knew you wouldn't be able to see it through.
+                                    Das mit deinen LEDs war ich übrigens nicht
                                   </div>
                                 </div>
                               </li>
@@ -752,7 +753,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="../assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
                 <p>The Verany.net network is a network that specializes in innovative pastimes.</p>
                 <div class="social-buttons">
                   <a class="social-mail" href="mailto:contact@verany.net"><i class="far fa-envelope"></i></a>
@@ -855,7 +856,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -880,7 +881,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="http://localhost/assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
@@ -911,19 +912,19 @@
     <!-- /.offcanvas-cart -->
 
     <!-- jQuery -->
-    <script src="http://localhost/assets/js/jquery.min.js"></script>
+    <script src="../assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="http://localhost/assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
 
     <!-- nicescroll -->
-    <script src="http://localhost/assets/plugins/scrollbar/jquery.nicescroll.min.js"></script>
-    <script src="http://localhost/assets/plugins/scrollbar/jquery.nicescroll.conf.js"></script>
+    <script src="../assets/plugins/scrollbar/jquery.nicescroll.min.js"></script>
+    <script src="../assets/plugins/scrollbar/jquery.nicescroll.conf.js"></script>
 
     <!-- User JS -->
-    <script src="http://localhost/assets/js/scripts.js"></script>
+    <script src="../assets/js/scripts.js"></script>
 
     <!-- Main JS -->
-    <script src="http://localhost/assets/js/main.js" id="_mainJS" data-plugins="load"></script>
+    <script src="../assets/js/main.js" id="_mainJS" data-plugins="load"></script>
   </body>
 </html>

@@ -29,23 +29,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <style>
-      .nav-items {
-        position: absolute; 
-        left: 0; 
-        right: 0; 
-        display: flex; 
-        justify-content: center; 
-        width: 100%;
-      }
 
-      @media screen and (max-width: 991px) { 
-        .nav-items {
-          position: relative;
-          display: block;
-        } 
-      }
-    </style>
   </head>
   <body class="page-body">
 

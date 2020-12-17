@@ -77,24 +77,6 @@
           <div class="col-4 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
             <a class="btn btn-sm btn-warning text-secondary mr-2" href="#" data-toggle="modal" data-target="#userLogin">Sign in</a>
             <a class="btn btn-sm text-light d-none d-sm-inline-block" href="#" data-toggle="modal" data-target="#userSignUp">Sign up</a>
-            <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle small" href="#" id="dropdownGaming" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="mr-2 fas fa-globe"></i>EN </a>
-                <div class="dropdown-menu position-absolute" aria-labelledby="dropdownGaming">
-                  <a class="dropdown-item" href="#">English</a>
-                  <a class="dropdown-item" href="#">Deutsch</a>
-                  <a class="dropdown-item" href="#">Español</a>
-                </div>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link small" href="" data-toggle="offcanvas" data-target="#offcanvas-cart">
-                  <span class="p-relative d-inline-flex">
-                    <span class="badge-cart badge badge-counter badge-warning position-absolute l-1">2</span>
-                    <i class="fas fa-shopping-cart"></i>
-                  </span>
-                </a>
-              </li>
-            </ul>
           </div>
         </div>
       </div>
@@ -928,19 +910,11 @@
                   <button class="btn btn-warning" type="button">CHECK</button>
                 </div>
               </div>
-              <div class="form-group d-flex justify-content-between">
-                <div class="form-group d-flex justify-content-between">
-                  <div class="custom-control custom-checkbox">
-                    <input type="checkbox" class="custom-control-input" checked="" id="rememberMeCheck">
-                    <label class="custom-control-label" for="rememberMeCheck">Remember me</label> 
-                  </div>
-                </div>
-              </div>
               <div class="form-group mt-6">
                 <button class="btn btn-block btn-warning" type="submit">Sign up</button>
               </div>
             </form>
-            <span class="small">Already have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#userSignUp" >Create an account</a></span>
+            <span class="small">Already have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#userSignIn" >Log in</a></span>
           </div>
         </div>
       </div>

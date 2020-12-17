@@ -116,7 +116,7 @@
             <div class="col-lg-7 text-light">
               <div class="mb-6">
                 <h3>Contact Us</h3>
-                <p class="lead-1">Morbi aliquet felis nec nisl congue interdum. Quisque vitae sapien ullamcorper.</p>
+                <p class="lead-1">If you have any questions to the team that cannot be answered in the forum, please contact us using this contact form.</p>
               </div>
               <form data-form="contact_form" action="./../assets/php/contact-form.php" class="input-transparent" method="POST">
                   <div class="form-row">
@@ -142,30 +142,37 @@
             <div class="col-lg-5">
               <div class="p-4 border border-secondary" data-overlay="9">
                 <div class="p-relative">
-                  <div class="mb-7">
-                    <h5 class="lead-2 fw-500 text-warning">Company</h5>
-                    <ul class="list-unstyled">
-                      <li class="d-flex align-items-center"><i class="fas fa-map-marker-alt mr-3" style="width: 10px"></i>M100 W Laurel Ln, Etowah, NC, 28729</li>
-                      <li class="d-flex align-items-center"><i class="fas fa-phone mr-3" style="width: 10px"></i>(812) 445-3742</li>
-                      <li class="my-3">Maecenas in odio lacus. Nulla neque diam, molestie quis fringilla in, tempus eget leo.</li>
-                    </ul>
-                  </div>
-                  <div class="mb-7">
-                    <h5 class="lead-2 fw-500 text-warning">Office</h5>
-                    <ul class="list-unstyled">
-                      <li>2265 N 2453rd Rd, Marseilles, IL, 61341 (815) 795-9748</li>
-                      <li>Lee St, Orwigsburg, PA, 17961</li>
-                      <li>637 Lee St, Orwigsburg, PA, 17961</li>
-                      <li>200 Sunset Ct, Hahnville, LA, 70057</li>
-                    </ul>
-                  </div>
+                    <div class="mb-7">
+                        <h5 class="lead-2 fw-500 text-warning">Verany GmbH</h5>
+                        <ul class="list-unstyled">
+                        <li class="d-flex align-items-center"><i class="fas fa-map-marker-alt mr-3" style="width: 10px"></i>Am Park 8, Leinfelden-Echterdingen, 70771</li>
+                        <li class="d-flex align-items-center"><i class="fas fa-phone mr-3" style="width: 10px"></i>+49 176 53795344</li>
+                        <li class="d-flex align-items-center"><i class="fas fa-user mr-3" style="width: 10px"></i>Represented by: Nico Kempe</li>
+                        <li class="d-flex align-items-center"><i class="fas fa-gavel mr-3" style="width: 10px"></i>Information provided according to § 5 TMG</li>
+                        </ul>
+                    </div>
+                    <div class="mb-7">
+                        <h5 class="lead-2 fw-500 text-warning">Register entry</h5>
+                        <ul class="list-unstyled">
+                        <li>Entry in the Handelsregister.</li>
+                        <li>Register court: Stuttgart</li>
+                        <li>Register number: SRB 123456</li>
+                        </ul>
+                    </div>
+                    <div class="mb-7">
+                        <h5 class="lead-2 fw-500 text-warning">VAT</h5>
+                        <ul class="list-unstyled">
+                            <li>VAT identification number according to §27 a Umsatzsteuergesetz: DE123456789</li>
+                        </ul>
+                    </div>
                   <div>
                     <h5 class="lead-2 fw-500 text-warning">Follow Us</h5>
                     <div class="social-buttons">
-                      <a class="mr-3 unset social-twitter" href="#"><i class="fab fa-twitter"></i></a>
-                      <a class="mr-3 unset social-facebook" href="#"><i class="fab fa-facebook-f"></i></a>
-                      <a class="mr-3 unset social-dribbble" href="#"><i class="fab fa-dribbble"></i></a>
-                      <a class="mr-3 unset social-instagram" href="#"><i class="fab fa-instagram"></i></a>
+                        <a class="social-mail" href="mailto:contact@verany.net"><i class="far fa-envelope"></i></a>
+                        <a class="social-teamspeak" href="ts3server://verany.net"><i class="fab fa-teamspeak"></i></a>
+                        <a class="social-discord" href="https://discord.gg/SJ5tfxC"><i class="fab fa-discord"></i></a>
+                        <a class="social-twitter" href="https://twitter.com/VeranyNET"><i class="fab fa-twitter"></i></a>
+                        <a class="social-youtube" href="https://www.youtube.com/channel/UCduDElXYi8zPjZMTIxCT45A"><i class="fab fa-youtube"></i></a>
                     </div>
                   </div>
                 </div>

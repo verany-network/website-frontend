@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Verany • Forum</title>
+    <title>Verany • Forum News</title>
 
     <!-- CSS -->
     <link href="./../assets/css/fonts/etline-font.min.css" rel="stylesheet">
@@ -128,44 +128,17 @@
           </header>
           <div class="position-relative">
             <div class="mb-4">
-              <span class="lead-1">Become a part of the community and start a discussion</span>
+              <ul class="spotlight-tabs spotlight-tabs-dark nav nav-tabs border-0 mb-5 position-relative flex-nowrap" id="most_popular_products-carousel-01" role="tablist">
+                  <li class="nav-item text-fnwp position-relative">
+                    <a class="nav-link active show" id="mp-2-01-tab" data-toggle="tab" href="#mp-2-01-c" role="tab" aria-controls="mp-2-01-c" aria-selected="true">All News</a>
+                  </li>
+                  <li class="nav-item text-fnwp position-relative">
+                    <a class="nav-link" id="mp-2-02-tab" data-toggle="tab" href="#mp-2-02-c" role="tab" aria-controls="mp-2-02-c" aria-selected="false">Ingame News</a>
+                  </li>
+              </ul>
             </div>
             <div class="row">
               <div class="col-lg-8 mb-8 mb-lg-0">
-                <!-- form -->
-                <div class="mb-6">
-                  <form action="#" class="input-transparent pb-8 border-bottom border-secondary">
-                    <div class="form-row">
-                      <div class="form-group col-2 col-xl-1">
-                        <div class="img-md position-relative br-n bp-c bs-c article-image ar-1_1 mx-auto rounded-circle border border-secondary mb-6" style="background-image: url(./../assets/img/avatar/2.jpg)">
-                          <span class="position-absolute b-0 r-0 text-warning small d-block rounded-circle lh-1"><i class="fas fa-circle"></i></span>
-                        </div>
-                      </div>
-                      <div class="form-group col-10 col-xl-11 pl-2">
-                        <div class="mb-2">
-                          <input type="text" class="form-control" id="TitleFormControlInput" placeholder="Title">
-                        </div>
-                        <div>
-                          <textarea class="form-control form-control" rows="4" placeholder="Body text" name="text" required=""></textarea>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="d-flex align-items-center justify-content-end">
-                      <div class="d-flex align-items-center mr-4">
-                        <div class="text-nowrap mr-2">Post In:</div>
-                        <select class="form-control form-control-sm">
-                          <option>General</option>
-                          <option>Games</option>
-                          <option>News</option>
-                          <option>Blog</option>
-                          <option>PC</option>
-                        </select>
-                      </div>
-                      <div><button class="btn btn-warning" type="submit">Post</button></div>
-                    </div>
-                  </form>
-                </div>
-                <!-- /.form -->
                 <!-- forum -->
                 <div class="border border-secondary">
                   <div class="bg-light_A-10 px-4 py-1">
@@ -200,30 +173,190 @@
                           </div>
                           <div class="col-sm-8 pl-0 pl-sm-4 pr-4">
                             <div class="ls-1 small-4 fw-400 mb-1">
-                              <a href="profile.html">Lukeg1209</a>
+                              <a href="profile.html">NicoVRNY</a>
                             </div>
                             <div class="mb-0">
                               <a href="forum-topic.php">
                                 <h6 class="lead-1 fw-600 mb-2">
-                                  Autoclicker Tool Release
+                                  Bewerbungsphase für Developer
                                 </h6>
                               </a>
                             </div>
                             <div class="position-relative small-5">
-                              <span class="mr-2"><i class="mr-1 fas fa-comment-alt text-warning"></i><span>14</span></span>
-                              <span class="mr-2"><i class="mr-1 fas fa-thumbs-up text-warning"></i><span>1,627</span></span>
-                              <span class="mr-2"><i class="mr-1 fas fa-eye text-warning"></i><span>51,258</span></span>
-                              <span><i class="mr-1 fas fa-tag text-warning"></i><span>General</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-comment-alt text-warning"></i><span>2</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-thumbs-up text-warning"></i><span>187</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-eye text-warning"></i><span>7.260</span></span>
+                              <span><i class="mr-1 fas fa-tag text-warning"></i><span>News, Bewerbungsphase</span></span>
                             </div>
                           </div>
                           <div class="d-none d-sm-block col-sm-3">
                             <div class="d-flex align-items-center justify-content-end">
                               <div class="pr-2">
-                                <img class="img img-xs rounded" src="./../assets/img/avatar/3.jpg" alt="User">
+                                <img class="img img-xs rounded" src="./../assets/img/avatar/1.jpg" alt="User">
                               </div>
                               <div class="small">
-                                <a href="profile.html" class="d-block small-1 text-lt"><i class="fas fa-user small-5 text-warning mr-1"></i>mfuad</a>
-                                <span class="small-5"><i class="fas fa-clock text-warning mr-1"></i>Sep 27, 2020</span>
+                                <a href="profile.html" class="d-block small-1 text-lt"><i class="fas fa-user small-5 text-warning mr-1"></i>6801</a>
+                                <span class="small-5"><i class="fas fa-clock text-warning mr-1"></i>Dec 19, 2020</span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.item -->
+                    <!-- item -->
+                    <div class="forum-topic-item col-md-12">
+                      <div class="forum-topic-inner item px-4">
+                        <div class="row align-items-center no-gutters">
+                          <div class="col-1 d-none d-sm-block">
+                            <img class="img" src="./../assets/img/avatar/2.jpg" alt="User">
+                          </div>
+                          <div class="col-sm-8 pl-0 pl-sm-4 pr-4">
+                            <div class="ls-1 small-4 fw-400 mb-1">
+                              <a href="profile.html">NicoVRNY</a>
+                            </div>
+                            <div class="mb-0">
+                              <a href="forum-topic.php">
+                                <h6 class="lead-1 fw-600 mb-2">
+                                  FlagWars Update
+                                </h6>
+                              </a>
+                            </div>
+                            <div class="position-relative small-5">
+                              <span class="mr-2"><i class="mr-1 fas fa-comment-alt text-warning"></i><span>9</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-thumbs-up text-warning"></i><span>187</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-eye text-warning"></i><span>7.260</span></span>
+                              <span><i class="mr-1 fas fa-tag text-warning"></i><span>News, Fusion</span></span>
+                            </div>
+                          </div>
+                          <div class="d-none d-sm-block col-sm-3">
+                            <div class="d-flex align-items-center justify-content-end">
+                              <div class="pr-2">
+                                <img class="img img-xs rounded" src="./../assets/img/avatar/1.jpg" alt="User">
+                              </div>
+                              <div class="small">
+                                <a href="profile.html" class="d-block small-1 text-lt"><i class="fas fa-user small-5 text-warning mr-1"></i>6801</a>
+                                <span class="small-5"><i class="fas fa-clock text-warning mr-1"></i>Dec 16, 2020</span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.item -->
+                    <!-- item -->
+                    <div class="forum-topic-item col-md-12">
+                      <div class="forum-topic-inner item px-4">
+                        <div class="row align-items-center no-gutters">
+                          <div class="col-1 d-none d-sm-block">
+                            <img class="img" src="./../assets/img/avatar/2.jpg" alt="User">
+                          </div>
+                          <div class="col-sm-8 pl-0 pl-sm-4 pr-4">
+                            <div class="ls-1 small-4 fw-400 mb-1">
+                              <a href="profile.html">NicoVRNY</a>
+                            </div>
+                            <div class="mb-0">
+                              <a href="forum-topic.php">
+                                <h6 class="lead-1 fw-600 mb-2">
+                                  RPG Release
+                                </h6>
+                              </a>
+                            </div>
+                            <div class="position-relative small-5">
+                              <span class="mr-2"><i class="mr-1 fas fa-comment-alt text-warning"></i><span>2</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-thumbs-up text-warning"></i><span>187</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-eye text-warning"></i><span>7.260</span></span>
+                              <span><i class="mr-1 fas fa-tag text-warning"></i><span>News, RPG</span></span>
+                            </div>
+                          </div>
+                          <div class="d-none d-sm-block col-sm-3">
+                            <div class="d-flex align-items-center justify-content-end">
+                              <div class="pr-2">
+                                <img class="img img-xs rounded" src="./../assets/img/avatar/1.jpg" alt="User">
+                              </div>
+                              <div class="small">
+                                <a href="profile.html" class="d-block small-1 text-lt"><i class="fas fa-user small-5 text-warning mr-1"></i>6801</a>
+                                <span class="small-5"><i class="fas fa-clock text-warning mr-1"></i>Dec 17, 2020</span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.item -->
+                    <!-- item -->
+                    <div class="forum-topic-item col-md-12">
+                      <div class="forum-topic-inner item px-4">
+                        <div class="row align-items-center no-gutters">
+                          <div class="col-1 d-none d-sm-block">
+                            <img class="img" src="./../assets/img/avatar/1.jpg" alt="User">
+                          </div>
+                          <div class="col-sm-8 pl-0 pl-sm-4 pr-4">
+                            <div class="ls-1 small-4 fw-400 mb-1">
+                              <a href="profile.html">6801</a>
+                            </div>
+                            <div class="mb-0">
+                              <a href="forum-topic.php">
+                                <h6 class="lead-1 fw-600 mb-2">
+                                  Bewerbungsphase für Helper
+                                </h6>
+                              </a>
+                            </div>
+                            <div class="position-relative small-5">
+                              <span class="mr-2"><i class="mr-1 fas fa-comment-alt text-warning"></i><span>7</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-thumbs-up text-warning"></i><span>187</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-eye text-warning"></i><span>7.260</span></span>
+                              <span><i class="mr-1 fas fa-tag text-warning"></i><span>News, Bewerbungsphase</span></span>
+                            </div>
+                          </div>
+                          <div class="d-none d-sm-block col-sm-3">
+                            <div class="d-flex align-items-center justify-content-end">
+                              <div class="pr-2">
+                                <img class="img img-xs rounded" src="./../assets/img/avatar/2.jpg" alt="User">
+                              </div>
+                              <div class="small">
+                                <a href="profile.html" class="d-block small-1 text-lt"><i class="fas fa-user small-5 text-warning mr-1"></i>NicoVRNY</a>
+                                <span class="small-5"><i class="fas fa-clock text-warning mr-1"></i>Dec 18, 2020</span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.item -->
+                    <!-- item -->
+                    <div class="forum-topic-item col-md-12">
+                      <div class="forum-topic-inner item px-4">
+                        <div class="row align-items-center no-gutters">
+                          <div class="col-1 d-none d-sm-block">
+                            <img class="img" src="./../assets/img/avatar/2.jpg" alt="User">
+                          </div>
+                          <div class="col-sm-8 pl-0 pl-sm-4 pr-4">
+                            <div class="ls-1 small-4 fw-400 mb-1">
+                              <a href="profile.html">NicoVRNY</a>
+                            </div>
+                            <div class="mb-0">
+                              <a href="forum-topic.php">
+                                <h6 class="lead-1 fw-600 mb-2">
+                                  Fusion mit Veranity
+                                </h6>
+                              </a>
+                            </div>
+                            <div class="position-relative small-5">
+                              <span class="mr-2"><i class="mr-1 fas fa-comment-alt text-warning"></i><span>3</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-thumbs-up text-warning"></i><span>187</span></span>
+                              <span class="mr-2"><i class="mr-1 fas fa-eye text-warning"></i><span>7.260</span></span>
+                              <span><i class="mr-1 fas fa-tag text-warning"></i><span>News, Fusion</span></span>
+                            </div>
+                          </div>
+                          <div class="d-none d-sm-block col-sm-3">
+                            <div class="d-flex align-items-center justify-content-end">
+                              <div class="pr-2">
+                                <img class="img img-xs rounded" src="./../assets/img/avatar/1.jpg" alt="User">
+                              </div>
+                              <div class="small">
+                                <a href="profile.html" class="d-block small-1 text-lt"><i class="fas fa-user small-5 text-warning mr-1"></i>6801</a>
+                                <span class="small-5"><i class="fas fa-clock text-warning mr-1"></i>Dec 11, 2020</span>
                               </div>
                             </div>
                           </div>
@@ -244,9 +377,8 @@
                         <span class="sr-only">Previous</span>
                       </a>
                     </li>
-                    <li class="page-item"><a class="page-link" href="#">1</a></li>
-                    <li class="page-item active"><a class="page-link" href="#">2</a></li>
-                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
                     <li class="page-item">
                       <a class="page-link" href="#" aria-label="Next">
                         <span class="ti-angle-right small-7" aria-hidden="true"></span>
@@ -258,91 +390,39 @@
                 <!-- /.pagination -->
               </div>
               <div class="col-lg-4">
-                <div class="rounded mb-4">
-                  <form class="input-group border-0 input-transparent bg-transparent">
-                    <input class="form-control border border-secondary border-right-0" type="search" placeholder="Type something.." aria-label="Search">
-                    <div class="input-group-append">
-                      <button class="btn btn-sm btn-warning text-secondary my-0 mx-0" type="submit"><i class="fas fa-search"></i></button>
-                    </div>
-                  </form>
-                </div>
                 <div class="filters border border-secondary rounded p-4 mb-4">
                   <ul class="sidebar-nav-light-hover list-unstyled mb-0 text-unset small-3 fw-600">
                     <li class="nav-item text-light transition mb-2 active">
                       <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">All</span>
+                        <span class="p-collapsing-title">NEWS</span>
                       </a>
                     </li>
                     <li class="nav-item text-light transition mb-2">
                       <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">My Feed</span>
+                        <span class="p-collapsing-title">INFORMATIONS</span>
                       </a>
                     </li>
                     <li class="nav-item text-light transition mb-2">
                       <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">General</span>
+                        <span class="p-collapsing-title">GAMES</span>
                       </a>
                     </li>
                     <li class="nav-item text-light transition mb-2">
                       <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">Games</span>
+                        <span class="p-collapsing-title">REPORTS</span>
                       </a>
                     </li>
                     <li class="nav-item text-light transition mb-2">
                       <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">Introductions</span>
+                        <span class="p-collapsing-title">COMMUNITY</span>
                       </a>
                     </li>
                     <li class="nav-item text-light transition mb-2">
                       <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">News</span>
-                      </a>
-                    </li>
-                    <li class="nav-item text-light transition mb-2">
-                      <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">Blog</span>
-                      </a>
-                    </li>
-                    <li class="nav-item text-light transition mb-2">
-                      <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">PC</span>
-                      </a>
-                    </li>
-                    <li class="nav-item text-light transition mb-2">
-                      <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">Free-to-play</span>
-                      </a>
-                    </li>
-                    <li class="nav-item text-light transition mb-2">
-                      <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">Retro</span>
-                      </a>
-                    </li>
-                    <li class="nav-item text-light transition mb-2">
-                      <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">Off-Topic</span>
-                      </a>
-                    </li>
-                    <li class="nav-item text-light transition mb-2">
-                      <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                        <span class="p-collapsing-title">Mobile Gaming</span>
+                        <span class="p-collapsing-title">SUGGESTIONS</span>
                       </a>
                     </li>
                   </ul>
-                </div>
-                <div class="archive border border-secondary rounded">
-                  <div class="bg-secondary px-4 py-1"><span class="fw-600 ls-1 text-uppercase small">Community Rules</span></div>
-                  <div class="p-4">
-                    <ul class="list-unstyled small-2 mb-0">
-                      <li><a href="#">Abusive Language</a></li>
-                      <li><a href="#">Warnings and Bans</a></li>
-                      <li><a href="#">Respect</a></li>
-                      <li><a href="#">Trolling</a></li>
-                      <li><a href="#">Reporting Other Users</a></li>
-                      <li><a href="#">Moderating Controversial Posts</a></li>
-                      <li><a href="#">Inappropriate Images</a></li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>

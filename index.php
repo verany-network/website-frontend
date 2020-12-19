@@ -416,7 +416,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">€1.87</span>
                               <span class="owl_item_genre">
                                 PVP
                               </span>
@@ -444,7 +444,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">€1.87</span>
                               <span class="owl_item_genre">
                                 PVP
                               </span>
@@ -472,7 +472,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">€1.87</span>
                               <span class="owl_item_genre">
                                 PVP
                               </span>
@@ -500,7 +500,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">€1.87</span>
                               <span class="owl_item_genre">
                                 PVP
                               </span>
@@ -535,7 +535,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">€1.87</span>
                               <span class="owl_item_genre">
                                 PVP
                               </span>
@@ -563,7 +563,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">€1.87</span>
                               <span class="owl_item_genre">
                                 PVP
                               </span>
@@ -591,7 +591,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">€1.87</span>
                               <span class="owl_item_genre">
                                 PVP
                               </span>
@@ -619,7 +619,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">€1.87</span>
                               <span class="owl_item_genre">
                                 PVP
                               </span>
@@ -647,7 +647,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€44.99</span>
+                              <span class="owl_item_price">€1.87</span>
                               <span class="owl_item_genre">
                                 PVP
                               </span>
@@ -691,7 +691,7 @@
                   <div class="mb-3 small text-info">
                     <span><i class="fas fa-tags"></i> Announcements</span> <span class="mx-1">-</span> <span>6th Decemer 2020</span>
                   </div>
-                  <p>Join our Discord Community to meet new people every day, to hear the music of our partners or to get in closer contact with our team.</p>
+                  <p>Join our Discord to get the newest informations about Verany and to meet new people and make new friends.</p>
                   <a href="news/news-article.php" class="btn btn-outline-light">Read</a>
                 </div>
               </div>
@@ -713,7 +713,7 @@
                   <div class="mb-3 small text-info">
                     <span><i class="fas fa-tags"></i> Announcements</span> <span class="mx-1">-</span> <span>5th Decemer 2020</span>
                   </div>
-                  <p>Join our TeamSpeak Community to meet new people every day, to hear the music of our partners or to get in closer contact with our team.</p>
+                  <p>Join our TeamSpeak to get support by our team and to talk with your friends or even find new people to talk with.</p>
                   <a href="news/news-article.php" class="btn btn-outline-light">Read</a>
                 </div>
               </div>

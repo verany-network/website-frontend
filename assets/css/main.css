@@ -2351,7 +2351,7 @@ input[type="button"].btn-block {
   .dropdown-item:hover, .dropdown-item:focus {
     color: #16181b;
     text-decoration: none;
-    background-color: black; }
+    background-color: white; }
   .dropdown-item.active, .dropdown-item:active {
     color: #ffffff;
     text-decoration: none;
@@ -12941,7 +12941,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
     .btn-warning:not(:disabled):not(.disabled):active:focus, .btn-warning:not(:disabled):not(.disabled).active:focus, .show > .btn-warning.dropdown-toggle:focus {
       box-shadow: 0 0 0 0 #00AAAA; }
   .btn-warning:hover {
-    box-shadow: 0 0.0625rem 0.5625rem #55FFFF); }
+    box-shadow: 0 0.0625rem 0.5625rem #55FFFF; }
   .btn-warning:focus {
     box-shadow: 0 0.0625rem 0.5625rem #00AAAA;color: #00AAAA; }
 

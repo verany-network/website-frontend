@@ -803,7 +803,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="assets/img/logo.png" alt="Logo" class="logo-dark"></a>
                 <p>The Verany.net network is a network that specializes in innovative pastimes.</p>
                 <div class="social-buttons">
                   <a class="social-mail" href="mailto:contact@verany.net"><i class="far fa-envelope"></i></a>

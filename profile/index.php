@@ -114,8 +114,8 @@
               <div class="img-xl position-relative br-n bp-c bs-c article-image ar-1_1 mx-auto rounded-circle border border-secondary mb-6" style="background-image: url(./../assets/img/avatar/2.jpg)">
                 <span class="position-absolute b-0 r-0 text-secondary lead-3 d-block bg-warning p-2 rounded-circle lh-1"><input type="file" class="custom-file-input position-absolute l-0 t-0 b-0 h-auto" id="customFile"><i class="far fa-image"></i></span>
               </div>
-              <h3>Sakuras</h3>
-              <span class="d-flex align-items-center justify-content-center fw-500 text-shadow"><i class="fas fa-circle text-warning small-6 mr-1"></i>Online</span>
+              <h3>NicoVRNY</h3>
+              <span class="d-flex align-items-center justify-content-center fw-500 text-shadow"><i class="fas fa-circle text-success small-6 mr-1"></i>Online</span>
             </div>
           </div>
         </div>
@@ -158,12 +158,6 @@
                       <span class="small-2 fw-400 ls-1">Wishlist</span>
                     </a>
                   </li>
-                  <li class="py-2 py-lg-0">
-                    <a id="mp-2-06-tab" data-toggle="tab" href="#mp-2-06-c" role="tab" aria-controls="mp-2-06-c" aria-selected="false" class="profile-nav-link text-uppercase text-center">
-                      <span class="pr-icon-nav ti-user lead-4 d-block mb-3"></span>
-                      <span class="small-2 fw-400 ls-1">Groups</span>
-                    </a>
-                  </li>
                 </ul>
               </div>
             </nav>
@@ -198,7 +192,7 @@
                       <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
                       <div class="row">
                         <div class="col-10 col-lg-11">
-                          <span class="lead-1">It looks like there's nothing here yet. Why don't you tell a little more about yourself?</span>
+                          <span class="lead-1">Moin mein Name ist Nico und ich bin Administrator auf dem Verany Netzwerk.</span>
                         </div>
                         <div class="col-2 col-lg-1 text-right"><a href="#" class="lead-1 text-warning"><i class="fas fa-pen"></i></a></div>
                       </div>
@@ -544,33 +538,6 @@
                                   <span class="fw-500">Last played <span class="text-warning">Jul 27</span></span>
                                 </div>
                               </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="card bg-dark_A-20 border border-secondary">
-                      <div class="px-4 pt-3"><span class="fw-600 ls-1 text-uppercase small-1"><span><i class="fas fa-users text-warning mr-2"></i></span>Groups</span></div>
-                      <div class="px-5 py-6">
-                        <div class="mb-6">
-                          <div class="row no-gutters">
-                            <div class="col-2 item_img d-none d-sm-flex align-items-center">
-                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
-                            </div>
-                            <div class="col-12 col-sm-10 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
-                              <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
-                              <span class="small-3 fw-500">Members: <span class="text-warning">45</span></span>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="mb-0">
-                          <div class="row no-gutters">
-                            <div class="col-2 item_img d-none d-sm-flex align-items-center">
-                              <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
-                            </div>
-                            <div class="col-12 col-sm-10 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
-                              <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
-                              <span class="small-3 fw-500">Members: <span class="text-warning">31</span></span>
                             </div>
                           </div>
                         </div>
@@ -2169,230 +2136,6 @@
                         </li>
                         <li class="nav-item text-light transition mt-4">
                           <a href="" class="btn btn-warning d-block">Reset Filter</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- /.tab item -->
-
-            <!-- tab item -->
-            <div class="tab-pane fade" id="mp-2-06-c" role="tabpanel" aria-labelledby="mp-2-06-tab">
-              <div class="position-relative">
-                
-                <div class="row">
-                  <div class="col-lg-8 mb-9 mb-lg-0">
-                    <div class="row">
-                      <div class="col-12">
-                        <h3>Your Groups</h3>
-                        <hr class="w-10 border-top-2 mt-5 mb-7 ml-0 mr-auto border-warning">
-                      </div>
-                      <!-- item -->
-                      <div class="col-md-12 mb-6 mb-lg-4">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
-                              </a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                              <a href="store-product.html" class="d-flex flex-wrap align-items-center lh-6 mb-0 mb-md-2"><span class="ls-1 lead-1 fw-500 text-uppercase">Integer sagittis semper</span> <span class="small-3 fw-600 text-warning"><span class="mx-1">-</span>Public</span></a>
-                              <div class="d-none d-md-flex align-items-center lh-1 fw-500 small-3 mb-0">
-                                <a href="#" class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-user d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">25</span>Members</a>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-gamepad d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">0</span>In-Game</span>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-circle d-none d-md-inline d-lg-none d-xl-inline text-warning small-7 mr-2"></i><span class="fw-600 mr-1">4</span>Online</span>
-                                <a href="#" class="d-flex align-items-center"><i class="fas fa-comment d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i>0 In Group Chat</a>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <a href="#" class="fw-500">Leave group</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                      <!-- item -->
-                      <div class="col-md-12 mb-6 mb-lg-4">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
-                              </a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                              <a href="store-product.html" class="d-flex flex-wrap align-items-center lh-6 mb-0 mb-md-2"><span class="ls-1 lead-1 fw-500 text-uppercase">Integer sagittis semper</span> <span class="small-3 fw-600 text-warning"><span class="mx-1">-</span>Public</span></a>
-                              <div class="d-none d-md-flex align-items-center lh-1 fw-500 small-3 mb-0">
-                                <a href="#" class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-user d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">25</span>Members</a>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-gamepad d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">0</span>In-Game</span>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-circle d-none d-md-inline d-lg-none d-xl-inline text-warning small-7 mr-2"></i><span class="fw-600 mr-1">4</span>Online</span>
-                                <a href="#" class="d-flex align-items-center"><i class="fas fa-comment d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i>0 In Group Chat</a>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <a href="#" class="fw-500">Leave group</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                      <!-- item -->
-                      <div class="col-md-12 mb-6 mb-lg-4">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
-                              </a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                              <a href="store-product.html" class="d-flex flex-wrap align-items-center lh-6 mb-0 mb-md-2"><span class="ls-1 lead-1 fw-500 text-uppercase">Integer sagittis semper</span> <span class="small-3 fw-600 text-warning"><span class="mx-1">-</span>Public</span></a>
-                              <div class="d-none d-md-flex align-items-center lh-1 fw-500 small-3 mb-0">
-                                <a href="#" class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-user d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">25</span>Members</a>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-gamepad d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">0</span>In-Game</span>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-circle d-none d-md-inline d-lg-none d-xl-inline text-warning small-7 mr-2"></i><span class="fw-600 mr-1">4</span>Online</span>
-                                <a href="#" class="d-flex align-items-center"><i class="fas fa-comment d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i>0 In Group Chat</a>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <a href="#" class="fw-500">Leave group</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                      <!-- item -->
-                      <div class="col-md-12 mb-6 mb-lg-4">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
-                              </a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                              <a href="store-product.html" class="d-flex flex-wrap align-items-center lh-6 mb-0 mb-md-2"><span class="ls-1 lead-1 fw-500 text-uppercase">Integer sagittis semper</span> <span class="small-3 fw-600 text-danger"><span class="mx-1">-</span>Private</span></a>
-                              <div class="d-none d-md-flex align-items-center lh-1 fw-500 small-3 mb-0">
-                                <a href="#" class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-user d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">25</span>Members</a>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-gamepad d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">0</span>In-Game</span>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-circle d-none d-md-inline d-lg-none d-xl-inline text-warning small-7 mr-2"></i><span class="fw-600 mr-1">4</span>Online</span>
-                                <a href="#" class="d-flex align-items-center"><i class="fas fa-comment d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i>0 In Group Chat</a>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <a href="#" class="fw-500">Leave group</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                      <!-- item -->
-                      <div class="col-md-12 mb-0">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html">
-                                <div class="gr-img aspect-ratio-1_1 bs-c bp-c br-n border border-secondary" style="background: url(./../assets/img/content/img_01.jpg);"></div>
-                              </a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                              <a href="store-product.html" class="d-flex flex-wrap align-items-center lh-6 mb-0 mb-md-2"><span class="ls-1 lead-1 fw-500 text-uppercase">Integer sagittis semper</span> <span class="small-3 fw-600 text-warning"><span class="mx-1">-</span>Public</span></a>
-                              <div class="d-none d-md-flex align-items-center lh-1 fw-500 small-3 mb-0">
-                                <a href="#" class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-user d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">25</span>Members</a>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-gamepad d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i><span class="fw-600 mr-1">0</span>In-Game</span>
-                                <span class="d-flex align-items-center border-right border-secondary mr-3 pr-3"><i class="fas fa-circle d-none d-md-inline d-lg-none d-xl-inline text-warning small-7 mr-2"></i><span class="fw-600 mr-1">4</span>Online</span>
-                                <a href="#" class="d-flex align-items-center"><i class="fas fa-comment d-none d-md-inline d-lg-none d-xl-inline text-warning mr-2"></i>0 In Group Chat</a>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <a href="#" class="fw-500">Leave group</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                    </div>
-                    <!-- pagination -->
-                    <nav class="mt-7 pt-4 border-top border-secondary" aria-label="Page navigation">
-                      <ul class="pagination justify-content-end list-unstyled">
-                        <li class="page-item">
-                          <a class="page-link" href="#" aria-label="Previous">
-                            <span class="ti-angle-left small-7" aria-hidden="true"></span>
-                            <span class="sr-only">Previous</span>
-                          </a>
-                        </li>
-                        <li class="page-item"><a class="page-link" href="#">1</a></li>
-                        <li class="page-item active"><a class="page-link" href="#">2</a></li>
-                        <li class="page-item"><a class="page-link" href="#">3</a></li>
-                        <li class="page-item">
-                          <a class="page-link" href="#" aria-label="Next">
-                            <span class="ti-angle-right small-7" aria-hidden="true"></span>
-                            <span class="sr-only">Next</span>
-                          </a>
-                        </li>
-                      </ul>
-                    </nav>
-                    <!-- /.pagination -->
-                  </div>
-                  <div class="col-lg-4">
-                    <div class="rounded mb-6">
-                      <form class="input-group border-0 input-transparent bg-transparent">
-                        <input class="form-control border border-secondary border-right-0" type="search" placeholder="Search groups by name" aria-label="Search">
-                        <div class="input-group-append">
-                          <button class="btn btn-sm btn-warning text-secondary my-0 mx-0" type="submit"><i class="fas fa-search"></i></button>
-                        </div>
-                      </form>
-                    </div>
-                    <div class="filters card border border-secondary p-4">
-                      <ul class="sidebar-nav-light-hover list-unstyled list-style-image mb-0 text-unset small-3 fw-600">
-    
-                        <li class="nav-item text-light transition mb-2 active">
-                          <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                            <span class="p-collapsing-title"><i class="fas fa-users text-warning mr-2"></i>Your Groups</span>
-                          </a>
-                        </li>
-                        <li class="nav-item text-light transition mb-2">
-                          <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                            <span class="p-collapsing-title"><i class="fas fa-search text-warning mr-2"></i>Find a Group</span>
-                          </a>
-                        </li>
-                        <li class="nav-item text-light transition mb-2">
-                          <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                            <span class="p-collapsing-title"><i class="fas fa-plus-square text-warning mr-2"></i>Create Group</span>
-                          </a>
-                        </li>
-                        <li class="nav-item text-light transition mb-2">
-                          <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                            <span class="p-collapsing-title"><i class="fas fa-envelope text-warning mr-2"></i>Pending Invites</span>
-                          </a>
-                        </li>
-                        <li class="nav-item text-light transition mb-2">
-                          <a href="#" aria-expanded="false" class="nav-link py-2 px-3 text-uppercase nav-link-border">
-                            <span class="p-collapsing-title"><i class="fas fa-ban text-warning mr-2"></i>Blocked</span>
-                          </a>
                         </li>
                       </ul>
                     </div>

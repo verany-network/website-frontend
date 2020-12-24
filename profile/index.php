@@ -774,11 +774,6 @@
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Bingo</h6>
-                            <div class="mb-0">
-                              <i class="mr-2 fab fa-windows"></i>
-                              <i class="mr-2 fab fa-steam"></i>
-                              <i class="fab fa-apple"></i>
-                            </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
                                 Open World, Adventure
@@ -788,7 +783,7 @@
                           <div>
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
-                                <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
+                                <span class="fw-500"><span class="text-warning fw-600">11</span> hrs total</span><br>
                                 <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
@@ -808,11 +803,6 @@
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Duels</h6>
-                            <div class="mb-0">
-                              <i class="mr-2 fab fa-windows"></i>
-                              <i class="mr-2 fab fa-steam"></i>
-                              <i class="fab fa-apple"></i>
-                            </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
                                 Action, PvP
@@ -822,7 +812,7 @@
                           <div>
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
-                                <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
+                                <span class="fw-500"><span class="text-warning fw-600">37</span> hrs total</span><br>
                                 <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
@@ -842,11 +832,6 @@
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">FlagWars</h6>
-                            <div class="mb-0">
-                              <i class="mr-2 fab fa-windows"></i>
-                              <i class="mr-2 fab fa-steam"></i>
-                              <i class="fab fa-apple"></i>
-                            </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
                                 Action, PvE, PvP
@@ -856,7 +841,7 @@
                           <div>
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
-                                <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
+                                <span class="fw-500"><span class="text-warning fw-600">13</span> hrs total</span><br>
                                 <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
@@ -876,11 +861,6 @@
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Level UP</h6>
-                            <div class="mb-0">
-                              <i class="mr-2 fab fa-windows"></i>
-                              <i class="mr-2 fab fa-steam"></i>
-                              <i class="fab fa-apple"></i>
-                            </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
                                 Arcade
@@ -890,7 +870,7 @@
                           <div>
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
-                                <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
+                                <span class="fw-500"><span class="text-warning fw-600">3</span> hrs total</span><br>
                                 <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
@@ -910,11 +890,6 @@
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">SnowWars</h6>
-                            <div class="mb-0">
-                              <i class="mr-2 fab fa-windows"></i>
-                              <i class="mr-2 fab fa-steam"></i>
-                              <i class="fab fa-apple"></i>
-                            </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
                                 Action, PvE, PvP
@@ -924,7 +899,7 @@
                           <div>
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
-                                <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
+                                <span class="fw-500"><span class="text-warning fw-600">47</span> hrs total</span><br>
                                 <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
@@ -944,11 +919,6 @@
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
                             <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Survival</h6>
-                            <div class="mb-0">
-                              <i class="mr-2 fab fa-windows"></i>
-                              <i class="mr-2 fab fa-steam"></i>
-                              <i class="fab fa-apple"></i>
-                            </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
                                 Adventure, Dungeons, Open World, PvE, PvP
@@ -958,7 +928,7 @@
                           <div>
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
-                                <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
+                                <span class="fw-500"><span class="text-warning fw-600">89</span> hrs total</span><br>
                                 <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
@@ -978,9 +948,7 @@
                             <span class="sr-only">Previous</span>
                           </a>
                         </li>
-                        <li class="page-item"><a class="page-link" href="#">1</a></li>
-                        <li class="page-item active"><a class="page-link" href="#">2</a></li>
-                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                        <li class="page-item active"><a class="page-link" href="#">1</a></li>
                         <li class="page-item">
                           <a class="page-link" href="#" aria-label="Next">
                             <span class="ti-angle-right small-7" aria-hidden="true"></span>
@@ -1006,7 +974,7 @@
                       <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
                       <form class="input-transparent">
                         <div class="form-group input-group">
-                          <input class="form-control" id="giftCard" type="text" name="giftCard" required="" placeholder="Gift Card">
+                          <input class="form-control" id="giftCard" type="text" name="giftCard" required="" placeholder="Your Gift Card Key">
                           <div class="input-group-append ml-3">
                             <button class="btn btn-warning" type="button">Apply</button>
                           </div>
@@ -1017,9 +985,7 @@
                       <h4>Gift Card History</h4>
                       <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
                       <div>
-                        <hr class="border-secondary mt-0 mb-4">
                         You haven't redeemed any Gift Cards yet
-                        <hr class="border-secondary mb-0 mt-4">
                       </div>
                     </div>
                   </div>
@@ -1035,7 +1001,7 @@
                             <div class="col-8">
                               <div class="row align-items-center justify-content-end h-100 no-gutters">
                                 <div class="text-right text-warning fw-600 lead-1">
-                                  517$
+                                  10,00 €
                                 </div>
                               </div>
                             </div>
@@ -1066,13 +1032,13 @@
                       <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
                       <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
                         <div class="form-group custom-control mb-1">
-                          <span>Wallet Balance: <span class="text-warning fw-500">300$</span></span>
+                          <span>Wallet Balance: <span class="text-warning fw-500">10,00 €</span></span>
                         </div>
                         <div class="form-group custom-control mb-1">
                           <a href="#" class="text-primary fw-500">View purchase history</a>
                         </div>
                         <div class="form-group custom-control mb-1">
-                          <span>Country: <span class="text-warning"><i class="fas fa-globe mx-2"></i><span class="fw-500">United States (US)</span></span></span>
+                          <span>Country: <span class="text-warning"><i class="fas fa-globe mx-2"></i><span class="fw-500">Germany (DE)</span></span></span>
                         </div>
                         <div class="form-group custom-control mb-0">
                           <a href="#" class="text-primary fw-500">View licenses and product key activations</a>
@@ -1084,7 +1050,7 @@
                       <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
                       <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
                         <div class="form-group custom-control mb-1">
-                          <span>Email address: <span class="text-warning fw-500">Logotheme@gmail.com</span></span>
+                          <span>Email address: <span class="text-warning fw-500">accounts@nicokempe.de</span></span>
                         </div>
                         <div class="form-group custom-control mb-1">
                           <span>Status: <span class="text-warning fw-500">Verified</span></span>
@@ -1093,7 +1059,7 @@
                           <a href="#" class="text-primary fw-500">Change my email address</a>
                         </div>
                         <div class="form-group custom-control mb-1">
-                          <span>Phone: <span class="text-warning"><i class="fas fa-mobile-alt mx-2"></i><span class="fw-500">***35</span></span></span>
+                          <span>Phone: <span class="text-warning"><i class="fas fa-mobile-alt mx-2"></i><span class="fw-500">+49 *** ******44</span></span></span>
                         </div>
                         <div class="form-group custom-control w-100 border-bottom border-secondary pb-4 mb-1">
                           <a href="#" class="text-primary fw-500">Manage your phone number</a>
@@ -1158,31 +1124,6 @@
                         </div>
                       </form>
                     </div>
-                    <div class="mb-8">
-                      <h4><i class="far fa-folder-open text-warning mr-2"></i>Product Types</h4>
-                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
-                      <span class="d-block mb-5">Include the following types of products in my store:</span>
-                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
-                        <div class="form-group custom-control custom-checkbox">
-                          <input class="custom-control-input" type="checkbox" value="" id="show_early_access_titles">
-                          <label class="custom-control-label" for="show_early_access_titles">
-                            Show Early Access titles  
-                          </label>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox">
-                          <input class="custom-control-input" type="checkbox" value="" id="show_software">
-                          <label class="custom-control-label" for="show_software">
-                            Show Software
-                          </label>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox mb-0">
-                          <input class="custom-control-input" type="checkbox" value="" id="show_vrc">
-                          <label class="custom-control-label" for="show_vrc">
-                            Show Virtual Reality content  
-                          </label>
-                        </div>
-                      </form>
-                    </div>
                     <div>
                       <h4><i class="ti-truck text-warning mr-2"></i>Payment Details</h4>
                       <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
@@ -1192,19 +1133,19 @@
                           <span class="lead-1 fw-500"><i class="far fa-map text-warning mr-2"></i>Billing Address</span>
                         </div>
                         <div class="form-group custom-control custom-checkbox">
-                          <span>Street: <span class="text-warning fw-600">3154 Doctors Drive</span></span>
+                          <span>Street: <span class="text-warning fw-600">Am Park 8</span></span>
                         </div>
                         <div class="form-group custom-control custom-checkbox">
-                          <span>City: <span class="fw-600">Los Angeles</span></span>
+                          <span>City: <span class="text-warning fw-600">Leinfelden-Echterdingen</span></span>
                         </div>
                         <div class="form-group custom-control custom-checkbox">
-                          <span>State Full: <span class="text-info fw-600">California</span></span>
+                          <span>State Full: <span class="text-warning fw-600">Baden-Württemberg</span></span>
                         </div>
                         <div class="form-group custom-control custom-checkbox">
-                          <span>Zip Code: <span class="text-danger fw-600">90017</span></span>
+                          <span>Zip Code: <span class="text-warning fw-600">70771</span></span>
                         </div>
                         <div class="form-group custom-control custom-checkbox mb-0">
-                          <span>Phone Number: <span class="text-warning fw-600">310-341-3767</span></span>
+                          <span>Phone Number: <span class="text-warning fw-600">+49 *** ******44</span></span>
                         </div>
                       </form>
                     </div>
@@ -1232,7 +1173,7 @@
                               </div>
                             </div>
                             <div>
-                              <span class="small-4 o-90">Your community profile includes your profile summary, friends list, badges, showcases, comments, and group membership.</span>
+                              <span class="small-4 o-90">Your community profile includes your profile summary, friends list, badges, showcases, and comments.</span>
                             </div>
                           </form>
                           <form class="input-transparent mb-5">
@@ -1251,26 +1192,7 @@
                               </div>
                             </div>
                             <div>
-                              <span class="small-4 o-90">Your community profile includes your profile summary, friends list, badges, showcases, comments, and group membership.</span>
-                            </div>
-                          </form>
-                          <form class="input-transparent">
-                            <div class="form-row">
-                              <div class="form-group col d-flex align-items-center">
-                                <div class="form-group mb-0">
-                                  <label class="small-2 text-warning fw-600 mb-0" for="inventory">Inventory:</label>
-                                </div>
-                              </div>
-                              <div class="form-group col-md-5">
-                                <select class="form-control form-control-sm" id="inventory">
-                                  <option>Public</option>
-                                  <option>Friends Only</option>
-                                  <option>Private</option>
-                                </select>
-                              </div>
-                            </div>
-                            <div>
-                              <span class="small-4 o-90">Your community profile includes your profile summary, friends list, badges, showcases, comments, and group membership.</span>
+                              <span class="small-4 o-90">Your game details include your game activity (played time and last played).</span>
                             </div>
                           </form>
                         </div>
@@ -1285,8 +1207,8 @@
                             <div class="row mb-5">
                               <div class="col">
                                 <div class="d-flex align-items-center">
-                                  <i class="fab fa-steam lead-4 text-warning mr-2"></i>
-                                  <span class="fw-600">Steam<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Steam and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
+                                  <i class="fab fa-google lead-4 text-warning mr-2"></i>
+                                  <span class="fw-600">Google<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Steam and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
                                 </div>
                               </div>
                               <div class="col-md-5 text-right">
@@ -1375,8 +1297,8 @@
                             <div class="row mb-5">
                               <div class="col">
                                 <div class="d-flex align-items-center">
-                                  <i class="fab fa-facebook lead-4 text-warning mr-2"></i>
-                                  <span class="fw-600">Facebook<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Facebook and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
+                                  <i class="fab fa-twitter lead-4 text-warning mr-2"></i>
+                                  <span class="fw-600">Twitter<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Facebook and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
                                 </div>
                               </div>
                               <div class="col-md-5 text-right">
@@ -1442,25 +1364,20 @@
                               <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
-                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
-                              <div class="mb-0">
-                                <i class="mr-2 fab fa-windows"></i>
-                                <i class="mr-2 fab fa-steam"></i>
-                                <i class="fab fa-apple"></i>
-                              </div>
+                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Premium (Lifetime)</h6></a>
                               <div class="position-relative">
                                 <span class="item_genre small fw-600">
-                                  Action, Adventure
+                                  Rank, Lifetime
                                 </span>
                               </div>
                             </div>
                             <div class="item_price">
                               <div class="row align-items-center h-100 no-gutters">
                                 <div class="text-right">
-                                  <span class="fw-600 small-3 td-lt">€144.99</span><br>
-                                  <span class="fw-600 lead-1 text-warning">€44.99</span>
+                                  <span class="fw-600 small-3 td-lt">40,00 €</span><br>
+                                  <span class="fw-600 lead-1 text-warning">30,00 €</span>
                                   <span class="small d-none d-sm-block fw-600">
-                                      Added on 8/25/<span class="d-none d-lg-inline">20</span>19 ( <a href="#" class="text-dotted-warning">remove</a> )
+                                      Added on 12/01/<span class="d-none d-lg-inline">20</span>20 (<a href="#" class="text-dotted-warning">remove</a>)
                                   </span>
                                 </div>
                               </div>
@@ -1477,25 +1394,20 @@
                               <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
-                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
-                              <div class="mb-0">
-                                <i class="mr-2 fab fa-windows"></i>
-                                <i class="mr-2 fab fa-steam"></i>
-                                <i class="fab fa-apple"></i>
-                              </div>
+                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">JoinMe Tokens (10)</h6></a>
                               <div class="position-relative">
                                 <span class="item_genre small fw-600">
-                                  Action, Adventure
+                                  Tokens
                                 </span>
                               </div>
                             </div>
                             <div class="item_price">
                               <div class="row align-items-center h-100 no-gutters">
                                 <div class="text-right">
-                                  <span class="fw-600 small-3 td-lt">€144.99</span><br>
-                                  <span class="fw-600 lead-1 text-warning">€44.99</span>
+                                  <span class="fw-600 small-3 td-lt">5,00 €</span><br>
+                                  <span class="fw-600 lead-1 text-warning">3,75 €</span>
                                   <span class="small d-none d-sm-block fw-600">
-                                    Added on 8/25/<span class="d-none d-lg-inline">20</span>19 ( <a href="#" class="text-dotted-warning">remove</a> )
+                                    Added on 11/28/<span class="d-none d-lg-inline">20</span>20 (<a href="#" class="text-dotted-warning">remove</a>)
                                   </span>
                                 </div>
                               </div>
@@ -1512,200 +1424,20 @@
                               <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
-                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
-                              <div class="mb-0">
-                                <i class="mr-2 fab fa-windows"></i>
-                                <i class="mr-2 fab fa-steam"></i>
-                                <i class="fab fa-apple"></i>
-                              </div>
+                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">FlagWars Booster (60 minutes)</h6></a>
                               <div class="position-relative">
                                 <span class="item_genre small fw-600">
-                                  Action, Adventure
+                                  Booster, FlagWars
                                 </span>
                               </div>
                             </div>
                             <div class="item_price">
                               <div class="row align-items-center h-100 no-gutters">
                                 <div class="text-right">
-                                  <span class="fw-600 small-3 td-lt">€144.99</span><br>
-                                  <span class="fw-600 lead-1 text-warning">€44.99</span>
+                                  <span class="fw-600 small-3 td-lt">5,00 €</span><br>
+                                  <span class="fw-600 lead-1 text-warning">3,75 €</span>
                                   <span class="small d-none d-sm-block fw-600">
-                                    Added on 8/25/<span class="d-none d-lg-inline">20</span>19 ( <a href="#" class="text-dotted-warning">remove</a> )
-                                  </span>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                      <!-- item -->
-                      <div class="col-md-12 mb-4">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
-                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
-                              <div class="mb-0">
-                                <i class="mr-2 fab fa-windows"></i>
-                                <i class="mr-2 fab fa-steam"></i>
-                                <i class="fab fa-apple"></i>
-                              </div>
-                              <div class="position-relative">
-                                <span class="item_genre small fw-600">
-                                  Action, Adventure
-                                </span>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <span class="fw-600 small-3 td-lt">€144.99</span><br>
-                                  <span class="fw-600 lead-1 text-warning">€44.99</span>
-                                  <span class="small d-none d-sm-block fw-600">
-                                    Added on 8/25/<span class="d-none d-lg-inline">20</span>19 ( <a href="#" class="text-dotted-warning">remove</a> )
-                                  </span>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                      <!-- item -->
-                      <div class="col-md-12 mb-4">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
-                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
-                              <div class="mb-0">
-                                <i class="mr-2 fab fa-windows"></i>
-                                <i class="mr-2 fab fa-steam"></i>
-                                <i class="fab fa-apple"></i>
-                              </div>
-                              <div class="position-relative">
-                                <span class="item_genre small fw-600">
-                                  Action, Adventure
-                                </span>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <span class="fw-600 small-3 td-lt">€144.99</span><br>
-                                  <span class="fw-600 lead-1 text-warning">€44.99</span>
-                                  <span class="small d-none d-sm-block fw-600">
-                                    Added on 8/25/<span class="d-none d-lg-inline">20</span>19 ( <a href="#" class="text-dotted-warning">remove</a> )
-                                  </span>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                      <!-- item -->
-                      <div class="col-md-12 mb-4">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
-                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
-                              <div class="mb-0">
-                                <i class="mr-2 fab fa-windows"></i>
-                                <i class="mr-2 fab fa-steam"></i>
-                                <i class="fab fa-apple"></i>
-                              </div>
-                              <div class="position-relative">
-                                <span class="item_genre small fw-600">
-                                  Action, Adventure
-                                </span>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <span class="fw-600 small-3 td-lt">€144.99</span><br>
-                                  <span class="fw-600 lead-1 text-warning">€44.99</span>
-                                  <span class="small d-none d-sm-block fw-600">
-                                    Added on 8/25/<span class="d-none d-lg-inline">20</span>19 ( <a href="#" class="text-dotted-warning">remove</a> )
-                                  </span>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                      <!-- item -->
-                      <div class="col-md-12 mb-4">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
-                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
-                              <div class="mb-0">
-                                <i class="mr-2 fab fa-windows"></i>
-                                <i class="mr-2 fab fa-steam"></i>
-                                <i class="fab fa-apple"></i>
-                              </div>
-                              <div class="position-relative">
-                                <span class="item_genre small fw-600">
-                                  Action, Adventure
-                                </span>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <span class="fw-600 small-3 td-lt">€144.99</span><br>
-                                  <span class="fw-600 lead-1 text-warning">€44.99</span>
-                                  <span class="small d-none d-sm-block fw-600">
-                                    Added on 8/25/<span class="d-none d-lg-inline">20</span>19 ( <a href="#" class="text-dotted-warning">remove</a> )
-                                  </span>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- /.item -->
-                      <!-- item -->
-                      <div class="col-md-12 mb-0">
-                        <div class="product-item">
-                          <div class="row align-items-center no-gutters">
-                            <div class="item_img d-none d-sm-block">
-                              <a href="store-product.html"><img class="img img-xl bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
-                            </div>
-                            <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
-                              <a href="store-product.html"><h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Integer sagittis semper</h6></a>
-                              <div class="mb-0">
-                                <i class="mr-2 fab fa-windows"></i>
-                                <i class="mr-2 fab fa-steam"></i>
-                                <i class="fab fa-apple"></i>
-                              </div>
-                              <div class="position-relative">
-                                <span class="item_genre small fw-600">
-                                  Action, Adventure
-                                </span>
-                              </div>
-                            </div>
-                            <div class="item_price">
-                              <div class="row align-items-center h-100 no-gutters">
-                                <div class="text-right">
-                                  <span class="fw-600 small-3 td-lt">€144.99</span><br>
-                                  <span class="fw-600 lead-1 text-warning">€44.99</span>
-                                  <span class="small d-none d-sm-block fw-600">
-                                    Added on 8/25/<span class="d-none d-lg-inline">20</span>19 ( <a href="#" class="text-dotted-warning">remove</a> )
+                                    Added on 11/25/<span class="d-none d-lg-inline">20</span>20 (<a href="#" class="text-dotted-warning">remove</a>)
                                   </span>
                                 </div>
                               </div>
@@ -1724,9 +1456,7 @@
                             <span class="sr-only">Previous</span>
                           </a>
                         </li>
-                        <li class="page-item"><a class="page-link" href="#">1</a></li>
-                        <li class="page-item active"><a class="page-link" href="#">2</a></li>
-                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                        <li class="page-item active"><a class="page-link" href="#">1</a></li>
                         <li class="page-item">
                           <a class="page-link" href="#" aria-label="Next">
                             <span class="ti-angle-right small-7" aria-hidden="true"></span>
@@ -1743,7 +1473,7 @@
     
                         <li class="nav-item text-light transition mb-2 active">
                           <a href="" aria-expanded="false" data-toggle="collapse" class="nav-link py-2 px-3 text-uppercase  collapsed collapser collapser-active nav-link-border">
-                              <span class="p-collapsing-title">Platform</span>
+                              <span class="p-collapsing-title">Area</span>
                           </a>
                           <div class="collapse nav-collapse show">
                               <ul class="list-unstyled py-2">
@@ -1753,7 +1483,7 @@
                                         <div class="custom-control custom-checkbox">
                                           <input class="custom-control-input" type="checkbox" value="" id="PC_check" checked>
                                           <label class="custom-control-label" for="PC_check">
-                                            PC
+                                            All
                                           </label>
                                         </div>
                                       </form>
@@ -1765,7 +1495,31 @@
                                         <div class="custom-control custom-checkbox">
                                           <input class="custom-control-input" type="checkbox" value="" id="MAC_check">
                                           <label class="custom-control-label" for="MAC_check">
-                                            MAC
+                                            Booster
+                                          </label>
+                                        </div>
+                                      </form>
+                                  </div>
+                                </li>
+                                <li class="nav-item">
+                                  <div class="nav-link py-1 px-3">
+                                      <form>
+                                        <div class="custom-control custom-checkbox">
+                                          <input class="custom-control-input" type="checkbox" value="" id="MAC_check">
+                                          <label class="custom-control-label" for="MAC_check">
+                                            Rank
+                                          </label>
+                                        </div>
+                                      </form>
+                                  </div>
+                                </li>
+                                <li class="nav-item">
+                                  <div class="nav-link py-1 px-3">
+                                      <form>
+                                        <div class="custom-control custom-checkbox">
+                                          <input class="custom-control-input" type="checkbox" value="" id="MAC_check">
+                                          <label class="custom-control-label" for="MAC_check">
+                                            Tokens
                                           </label>
                                         </div>
                                       </form>
@@ -1776,7 +1530,7 @@
                         </li>
                         <li class="nav-item text-light transition mb-2">
                           <a href="" aria-expanded="false" data-toggle="collapse" class="nav-link py-2 px-3 text-uppercase  collapsed collapser nav-link-border">
-                              <span class="p-collapsing-title">Genre</span>
+                              <span class="p-collapsing-title">Game</span>
                           </a>
                           <div class="collapse nav-collapse">
                               <ul class="list-unstyled py-2">
@@ -1786,7 +1540,7 @@
                                       <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" value="" id="Action_check">
                                         <label class="custom-control-label" for="Action_check">
-                                          Action
+                                          Bingo
                                         </label>
                                       </div>
                                     </form>
@@ -1798,7 +1552,7 @@
                                       <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" value="" id="Adventure_check">
                                         <label class="custom-control-label" for="Adventure_check">
-                                          Adventure
+                                          Duels
                                         </label>
                                       </div>
                                     </form>
@@ -1810,7 +1564,7 @@
                                       <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" value="" id="Casual_check">
                                         <label class="custom-control-label" for="Casual_check">
-                                          Casual
+                                          FlagWars
                                         </label>
                                       </div>
                                     </form>
@@ -1822,7 +1576,7 @@
                                       <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" value="" id="Early_access_check">
                                         <label class="custom-control-label" for="Early_access_check">
-                                          Early Access
+                                          Level Up
                                         </label>
                                       </div>
                                     </form>
@@ -1834,7 +1588,7 @@
                                       <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" value="" id="Free_to_play_check">
                                         <label class="custom-control-label" for="Free_to_play_check">
-                                          Free to Play
+                                          SnowWars
                                         </label>
                                       </div>
                                     </form>
@@ -1846,241 +1600,7 @@
                                       <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" value="" id="Indie_check">
                                         <label class="custom-control-label" for="Indie_check">
-                                          Indie
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Massively_multiplayer_check">
-                                        <label class="custom-control-label" for="Massively_multiplayer_check">
-                                          Massively Multiplayer
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Racing_check">
-                                        <label class="custom-control-label" for="Racing_check">
-                                          Racing
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="RPG_check">
-                                        <label class="custom-control-label" for="RPG_check">
-                                          RPG
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Simulation_check">
-                                        <label class="custom-control-label" for="Simulation_check">
-                                          Simulation
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Sports_check">
-                                        <label class="custom-control-label" for="Sports_check">
-                                          Sports
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Strategy_check">
-                                        <label class="custom-control-label" for="Strategy_check">
-                                          Strategy
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                              </ul>
-                          </div>
-                        </li>
-                        <li class="nav-item text-light transition mb-2">
-                          <a href="" aria-expanded="false" data-toggle="collapse" class="nav-link py-2 px-3 text-uppercase  collapsed collapser nav-link-border">
-                              <span class="p-collapsing-title">Software</span>
-                          </a>
-                          <div class="collapse nav-collapse">
-                              <ul class="list-unstyled py-2">
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Animation_modeling_check">
-                                        <label class="custom-control-label" for="Animation_modeling_check">
-                                          Animation & Modeling
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Audio_production_check">
-                                        <label class="custom-control-label" for="Audio_production_check">
-                                          Audio Production
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Design_check">
-                                        <label class="custom-control-label" for="Design_check">
-                                          Design
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Education_check">
-                                        <label class="custom-control-label" for="Education_check">
-                                          Education
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Game_development_check">
-                                        <label class="custom-control-label" for="Game_development_check">
-                                          Game Development
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Photo_editing_check">
-                                        <label class="custom-control-label" for="Photo_editing_check">
-                                          Photo Editing
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Utilities_check">
-                                        <label class="custom-control-label" for="Utilities_check">
-                                          Utilities
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Video_production_check">
-                                        <label class="custom-control-label" for="Video_production_check">
-                                          Video Production
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="Web_publishing_check">
-                                        <label class="custom-control-label" for="Web_publishing_check">
-                                          Web Publishing
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                              </ul>
-                          </div>
-                        </li>
-                        <li class="nav-item text-light transition mb-2">
-                          <a href="" aria-expanded="false" data-toggle="collapse" class="nav-link py-2 px-3 text-uppercase  collapsed collapser nav-link-border">
-                              <span class="p-collapsing-title">Supported VR</span>
-                          </a>
-                          <div class="collapse nav-collapse">
-                              <ul class="list-unstyled py-2">
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="VR_check">
-                                        <label class="custom-control-label" for="VR_check">
-                                          Euismod VR
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="VR_check_2">
-                                        <label class="custom-control-label" for="VR_check_2">
-                                          Euismod VR
-                                        </label>
-                                      </div>
-                                    </form>
-                                  </div>
-                                </li>
-                                <li class="nav-item">
-                                  <div class="nav-link py-2 px-3">
-                                    <form>
-                                      <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" value="" id="VR_check_3">
-                                        <label class="custom-control-label" for="VR_check_3">
-                                          Euismod VR
+                                          Survival
                                         </label>
                                       </div>
                                     </form>

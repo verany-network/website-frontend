@@ -98,7 +98,7 @@
         <div class="carousel-inner a-cont">
           <!-- carousel-item -->
           <div class="carousel-item active">
-            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/slide_01.jpg);">
+            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/home-slide_01.png);">
               <div class="w-100 d-flex jc-c overlay">
                 <!-- sm-overlay -->
                 <div class="overlay bg-light_A-20 d-lg-none"></div>
@@ -131,7 +131,7 @@
 
           <!-- carousel-item -->
           <div class="carousel-item">
-            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/slide02.jpg);">
+            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/home-slide_02.png);">
               <div class="w-100 d-flex jc-c overlay">
                 <!-- sm-overlay -->
                 <div class="overlay bg-light_A-20 d-lg-none"></div>
@@ -163,7 +163,7 @@
 
           <!-- carousel-item -->
           <div class="carousel-item">
-            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/slide03.jpg);">
+            <div class="h-fullscreen__page bs-c br-n ow-h" style="background-image: url(assets/img/content/carousel/home-slide_03.png);">
               <div class="w-100 d-flex jc-c overlay">
                 <!-- sm-overlay -->
                 <div class="overlay bg-light_A-20 d-lg-none"></div>

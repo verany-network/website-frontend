@@ -132,7 +132,7 @@
                 </header>
                 <div class="help_m row gutters-y text-center">
                   <div class="col-md-6 col-lg-3">
-                    <a href="help-center-article.html">
+                    <a href="./builder/requirements.php">
                       <div class="card help_card">
                         <div class="card-body py-7">
                           <span class="fas fa-globe-americas lead-7 d-block mb-3"></span>
@@ -142,7 +142,7 @@
                     </a>
                   </div>
                   <div class="col-md-6 col-lg-3">
-                    <a href="help-center-article.html">
+                    <a href="./content/requirements.php">
                       <div class="card help_card">
                         <div class="card-body py-7">
                           <span class="fas fa-book lead-7 d-block mb-3"></span>
@@ -152,7 +152,7 @@
                     </a>
                   </div>
                   <div class="col-md-6 col-lg-3">
-                    <a href="help-center-article.html">
+                    <a href="./designer/requirements.php">
                       <div class="card help_card">
                         <div class="card-body py-7">
                           <span class="fas fa-palette lead-7 d-block mb-3"></span>
@@ -162,7 +162,7 @@
                     </a>
                   </div>
                   <div class="col-md-6 col-lg-3">
-                    <a href="help-center-article.html">
+                    <a href="./developer/requirements.php">
                       <div class="card help_card">
                         <div class="card-body py-7">
                           <span class="fas fa-code lead-7 d-block mb-3"></span>
@@ -173,7 +173,7 @@
                   </div>
 
                   <div class="col-md-6 col-lg-3">
-                    <a href="help-center-article.html">
+                    <a href="./helper/requirements.php">
                       <div class="card help_card">
                         <div class="card-body py-7">
                           <span class="fas fa-headset lead-7 d-block mb-3"></span>
@@ -183,7 +183,7 @@
                     </a>
                   </div>
                   <div class="col-md-6 col-lg-3">
-                    <a href="help-center-article.html">
+                    <a href="./partner/requirements.php">
                       <div class="card help_card">
                         <div class="card-body py-7">
                           <span class="fas fa-handshake lead-7 d-block mb-3"></span>
@@ -193,7 +193,7 @@
                     </a>
                   </div>
                   <div class="col-md-6 col-lg-3">
-                    <a href="help-center-article.html">
+                    <a href="./promoter/requirements.php">
                       <div class="card help_card">
                         <div class="card-body py-7">
                           <span class="fas fa-chart-line lead-7 d-block mb-3"></span>
@@ -203,7 +203,7 @@
                     </a>
                   </div>
                   <div class="col-md-6 col-lg-3">
-                    <a href="help-center-article.html">
+                    <a href="./vip-plus/requirements.php">
                       <div class="card help_card">
                         <div class="card-body py-7">
                           <span class="fas fa-star lead-7 d-block mb-3"></span>

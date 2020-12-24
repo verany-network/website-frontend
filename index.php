@@ -39,7 +39,7 @@
         <div class="row">
           <div class="col-4 col-sm-3 col-md-1 mr-auto">
             <a class="navbar-brand logo" href="#">
-              <img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-light mx-auto">
+              <img src="assets/img/logo.png" alt="Logo" class="logo-light mx-auto">
             </a>
           </div>
           <div class="nav-items mr-auto col">

@@ -862,10 +862,10 @@
           <div class="modal-body">
             <form class="input-transparent">
               <div class="form-group">
-                <input type="text" class="form-control border-secondary" name="username" placeholder="Minecraft Username">
+                <input type="text" class="form-control border-secondary" name="username" autocomplete="off" placeholder="Minecraft Username">
               </div>
               <div class="form-group">
-                <input type="password" class="form-control border-secondary" name="password" placeholder="Password">
+                <input type="password" class="form-control border-secondary" name="password" autocomplete="off" placeholder="Password">
               </div>
               <div class="form-group d-flex justify-content-between">
                 <div class="custom-control custom-checkbox">

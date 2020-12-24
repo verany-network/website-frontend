@@ -123,23 +123,23 @@
       <!-- content area -->
       <div class="content-section text-light">
         <div class="container">
-          <header class="header text-center mb-6">
+        <header class="header text-center mb-6">
             <div class="row gutters-y">
               <div class="col-12 pt-8">
                 <div class="timeline-horizontal">
-                  <div class="timeline-item flex-1 p-0" data-step="&#xe60d;">
+                  <div class="timeline-item flex-1 p-0" data-step="">
                     <div class="pt-8 pb-7 px-2 px-sm-4 border-left border-bottom border-secondary">
-                      <span class="text-uppercase small-3 fw-600">Your Cart</span>
+                      <span class="text-uppercase small-3 fw-600">Requirements</span>
                     </div>
                   </div>
-                  <div class="timeline-item flex-1 p-0" data-step="&#xe69b;">
+                  <div class="timeline-item flex-1 border-secondary p-0" data-step="">
                     <div class="pt-8 pb-7 px-2 px-sm-4 border-bottom border-secondary">
-                      <span class="text-uppercase small-3 fw-600">Address</span>
+                      <span class="text-uppercase small-3 fw-600">Application</span>
                     </div>
                   </div>
-                  <div class="timeline-item flex-1 p-0" data-step="&#xe721;">
+                  <div class="timeline-item flex-1 border-secondary p-0" data-step="">
                     <div class="pt-8 pb-7 px-2 px-sm-4 border-bottom border-secondary border-right">
-                      <span class="text-uppercase small-3 fw-600">Payment</span>
+                      <span class="text-uppercase small-3 fw-600">Contact options</span>
                     </div>
                   </div>
                 </div>
@@ -160,22 +160,14 @@
                           <div class="card-header" id="Paypal">
                             <h5 class="mb-0">
                               <a data-toggle="collapse" href="#collapse-5-1" class="collapsed d-flex align-items-center">
-                                <span class="icon"><i class="fab fa-paypal text-warning lead-5"></i></span>
-                                Paypal
+                                <span class="icon"><i class="fas fa-book text-warning lead-5"></i></span>
+                                Informations
                               </a>
                             </h5>
                           </div>
-                          <div id="collapse-5-1" class="collapse" aria-labelledby="Paypal" data-parent="#accordion-5">
+                          <div id="collapse-5-1" class="collapse show" aria-labelledby="Paypal" data-parent="#accordion-5">
                             <div class="card-body">
-                              <span class="d-block mb-3">After clicking on 'Place order', you will be redirected to the PayPal page to finish your transaction.</span>
-                              <form class="input-transparent">
-                                <div class="form-group custom-control custom-checkbox">
-                                  <input class="custom-control-input" type="checkbox" value="" id="paypal_ref">
-                                  <label class="custom-control-label" for="paypal_ref">
-                                    Save payment details for faster checkout next time
-                                  </label>
-                                </div>
-                              </form>            
+                              <span class="d-block mb-3">As a builder, you actively build new maps for our game modes as well as maps for internal projects and work with the other builders to improve and optimize the existing maps.</span>          
                             </div>
                           </div>
                         </div>
@@ -183,12 +175,12 @@
                           <div class="card-header" id="Card">
                             <h5 class="mb-0">
                               <a data-toggle="collapse" href="#collapse-5-2" class="d-flex align-items-center">
-                                <span class="icon"><i class="fab fa-cc-visa text-warning lead-5"></i></span>
-                                Card
+                                <span class="icon"><i class="fas fa-paste text-warning lead-5"></i></span>
+                                Requirements
                               </a>
                             </h5>
                           </div>
-                          <div id="collapse-5-2" class="collapse show" aria-labelledby="Card" data-parent="#accordion-5">
+                          <div id="collapse-5-2" class="collapse" aria-labelledby="Card" data-parent="#accordion-5">
                             <div class="card-body">
                               <form class="input-transparent">
                                 <div class="form-row">
@@ -304,8 +296,8 @@
                           <div class="card-header" id="ApplePay">
                             <h5 class="mb-0">
                               <a data-toggle="collapse" href="#collapse-5-3" class="collapsed d-flex align-items-center">
-                                <span class="icon"><i class="fab fa-apple-pay text-warning lead-5"></i></span>
-                                Apple Pay
+                                <span class="icon"><i class="fas fa-plus text-warning lead-5"></i></span>
+                                Benefits
                               </a>
                             </h5>
                           </div>
@@ -330,54 +322,51 @@
               </div>
               <div class="col-lg-4">
                 <div class="archive border border-secondary rounded">
-                  <div class="bg-secondary px-4 py-1"><span class="fw-600 ls-1 text-uppercase lead-1">Cart Summary</span></div>
+                  <div class="bg-secondary px-4 py-1"><span class="fw-600 ls-1 text-uppercase lead-1">Summary</span></div>
                   <div class="p-4">
                     <ul class="list-unstyled small mb-0">
-                      <li class="small-2">Price Details</li>
-                      <li><hr class="my-3 border-secondary"></li>
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div>Full Price</div>
-                          <div class="ml-auto">1 434,32$</div>
-                        </div>
-                      </li>
-                      <li class="my-1">
-                        <div class="d-flex text-info small-2 fw-600">
-                          <div>Your Discount</div>
-                          <div class="ml-auto">-10%</div>
-                        </div>
-                      </li>
-                      <li class="my-1">
-                        <div class="d-flex text-warning small-2 fw-600">
-                          <div>You Save</div>
-                          <div class="ml-auto">-56,79$</div>
+                          <div><i class="fas fa-plus text-warning"></i></div>
+                          <div class="ml-auto">Professional building server</div>
                         </div>
                       </li>
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div>Estimated Tax</div>
-                          <div class="ml-auto text-danger">7.3$</div>
+                          <div><i class="fas fa-plus text-warning"></i></div>
+                          <div class="ml-auto">Training by your personal mentor</div>
                         </div>
                       </li>
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div>Delivery Charges</div>
-                          <div class="ml-auto text-warning">Free</div>
+                          <div><i class="fas fa-plus text-warning"></i></div>
+                          <div class="ml-auto">The builder rank with many advantages</div>
                         </div>
                       </li>
-                      <li><hr class="my-3 border-secondary"></li>
-                      <li>
-                        <div class="d-flex small-1 fw-600">
-                          <div>Total</div>
-                          <div class="ml-auto text-warning">-919,79$</div>
+                      <li class="my-1">
+                        <div class="d-flex small-2 fw-600">
+                          <div><i class="fas fa-plus text-warning"></i></div>
+                          <div class="ml-auto">A hobby pastime in a competent team</div>
+                        </div>
+                      </li>
+                      <li class="my-1">
+                        <div class="d-flex small-2 fw-600">
+                          <div><i class="fas fa-minus text-warning"></i></div>
+                          <div class="ml-auto">Considerable amount of time to build</div>
+                        </div>
+                      </li>
+                      <li class="my-1">
+                        <div class="d-flex small-2 fw-600">
+                          <div><i class="fas fa-minus text-warning"></i></div>
+                          <div class="ml-auto">No payment</div>
                         </div>
                       </li>
                       <li><hr class="my-3 border-secondary"></li>
                       <li>
-                        <a href="#" class="btn btn-lg btn-block btn-warning mt-4">Place Order</a>
+                        <a href="#" class="btn btn-lg btn-block btn-warning mt-4">Apply</a>
                       </li>
                       <li class="lh-1">
-                        <span class="small-4 text-lt w-100 mt-4 pb-1 d-inline-block">By clicking Place Order, you accept our <a href="#" target="_blank" class="text-rp text-primary text-underline">refund policy</a>.</span>
+                        <span class="small-4 text-lt w-100 mt-4 pb-1 d-inline-block">By clicking Apply, you accept our <a href="#" target="_blank" class="text-rp text-primary text-underline">refund policy</a>.</span>
                       </li>
                     </ul>
                   </div>

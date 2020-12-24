@@ -434,14 +434,14 @@
                                   <div class="comment-main border border-secondary"> 
                                     <div class="d-md-flex comment-header border-bottom border-secondary px-4 py-3">
                                       <div class="d-flex align-items-center flex-1">
-                                        <h6 class="comment-username fw-500 mb-0"><a href="#">Dewei Tsou</a></h6>
+                                        <h6 class="comment-username fw-500 mb-0"><a href="#">6801</a></h6>
                                       </div>
                                       <div>
-                                        <a href="#" class="comment-metadata text-warning small">Aug 12, 2020 at 09:12 AM</a>
+                                        <a href="#" class="comment-metadata text-warning small">Dec 20, 2020 at 11:27 AM</a>
                                       </div>
                                     </div>
                                     <div class="p-4">
-                                      <p class="small-2 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam maximus lacus non tincidunt volutpat. Nullam volutpat mi nec nulla finibus tincidunt.</p>
+                                      <p class="small-2 mb-0">Ich liebe dich also no joke ich bin so ein fan wenn du wüsstest wie geil ich deine tweets eigentlich finde alter lachflash pur</p>
                                     </div>
                                   </div>
                                 </div>  
@@ -460,14 +460,14 @@
                                   <div class="comment-main border border-secondary"> 
                                     <div class="d-md-flex comment-header border-bottom border-secondary px-4 py-3">
                                       <div class="d-flex align-items-center flex-1">
-                                        <h6 class="comment-username fw-500 mb-0"><a href="#">Sying Wei</a></h6>
+                                        <h6 class="comment-username fw-500 mb-0"><a href="#">tylix</a></h6>
                                       </div>
                                       <div>
-                                        <a href="#" class="comment-metadata text-warning small">Aug 18, 2020 at 09:12 AM</a>
+                                        <a href="#" class="comment-metadata text-warning small">Nov 18, 2020 at 09:12 PM</a>
                                       </div>
                                     </div>
                                     <div class="p-4">
-                                      <p class="small-2 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam maximus lacus non tincidunt volutpat. Nullam volutpat mi nec nulla finibus tincidunt.</p>
+                                      <p class="small-2 mb-0">Ich liebe es einfach Minecraft Plugins für dich zu machen und mein halbes Leben in den Server zu investieren, ich bereue nichts.</p>
                                     </div>
                                   </div>
                                 </div>  
@@ -490,14 +490,14 @@
                               <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="col-6 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
-                              <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
-                              <span class="small-3"><span class="text-warning"><i class="far fa-clock mr-1"></i></span>21:41</span>
+                              <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Survival</h6></a>
+                              <span class="small-3"><span class="text-warning"><i class="far fa-clock mr-1"></i></span>23:19</span>
                             </div>
                             <div class="col-6 col-sm-4">
                               <div class="row align-items-center justify-content-end h-100 no-gutters">
                                 <div class="text-right small-3">
-                                  <span class="fw-500"><span class="text-warning">25</span> hrs total</span><br>
-                                  <span class="fw-500">Last played <span class="text-warning">Jul 27</span></span>
+                                  <span class="fw-500"><span class="text-warning">89</span> total hours</span><br>
+                                  <span class="fw-500">Last played <span class="text-warning">Dec 24</span></span>
                                 </div>
                               </div>
                             </div>
@@ -509,14 +509,14 @@
                               <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="col-6 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
-                              <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
+                              <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">FlagWars</h6></a>
                               <span class="small-3"><span class="text-warning"><i class="far fa-clock mr-1"></i></span>21:41</span>
                             </div>
                             <div class="col-6 col-sm-4">
                               <div class="row align-items-center justify-content-end h-100 no-gutters">
                                 <div class="text-right small-3">
-                                  <span class="fw-500"><span class="text-warning">25</span> hrs total</span><br>
-                                  <span class="fw-500">Last played <span class="text-warning">Jul 27</span></span>
+                                  <span class="fw-500"><span class="text-warning">13</span> total hours</span><br>
+                                  <span class="fw-500">Last played <span class="text-warning">Dec 21</span></span>
                                 </div>
                               </div>
                             </div>
@@ -528,14 +528,14 @@
                               <a href="store-product.html" class="product-item"><img class="img img-lg bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store"></a>
                             </div>
                             <div class="col-6 item_content flex-1 flex-grow pl-0 pl-sm-3 pr-3">
-                              <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">Integer sagittis semper</h6></a>
-                              <span class="small-3"><span class="text-warning"><i class="far fa-clock mr-1"></i></span>21:41</span>
+                              <a href="store-product.html" class="product-item"><h6 class="item_title text-lt ls-1 small-1 fw-600 text-uppercase mb-0">SnowWars</h6></a>
+                              <span class="small-3"><span class="text-warning"><i class="far fa-clock mr-1"></i></span>19:20</span>
                             </div>
                             <div class="col-6 col-sm-4">
                               <div class="row align-items-center justify-content-end h-100 no-gutters">
                                 <div class="text-right small-3">
-                                  <span class="fw-500"><span class="text-warning">25</span> hrs total</span><br>
-                                  <span class="fw-500">Last played <span class="text-warning">Jul 27</span></span>
+                                  <span class="fw-500"><span class="text-warning">47</span> total hours</span><br>
+                                  <span class="fw-500">Last played <span class="text-warning">Dec 21</span></span>
                                 </div>
                               </div>
                             </div>
@@ -755,7 +755,7 @@
                 <header class="header mb-4">
                   <div class="row">
                     <div class="col-10 col-lg-11">
-                      <h3>Library</h3>
+                      <h3>Game Library</h3>
                       <hr class="w-5 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
                     </div>
                     <div class="col-2 col-lg-1 text-right">
@@ -773,7 +773,7 @@
                             <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
-                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
+                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Bingo</h6>
                             <div class="mb-0">
                               <i class="mr-2 fab fa-windows"></i>
                               <i class="mr-2 fab fa-steam"></i>
@@ -781,7 +781,7 @@
                             </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
-                                Action, Adventure
+                                Open World, Adventure
                               </span>
                             </div>
                           </div>
@@ -789,7 +789,7 @@
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
                                 <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
-                                <span class="fw-500">Last played <span class="text-warning fw-600">July 27</span></span>
+                                <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
                           </div>
@@ -807,7 +807,7 @@
                             <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
-                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
+                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Duels</h6>
                             <div class="mb-0">
                               <i class="mr-2 fab fa-windows"></i>
                               <i class="mr-2 fab fa-steam"></i>
@@ -815,7 +815,7 @@
                             </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
-                                Action, Adventure
+                                Action, PvP
                               </span>
                             </div>
                           </div>
@@ -823,7 +823,7 @@
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
                                 <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
-                                <span class="fw-500">Last played <span class="text-warning fw-600">July 27</span></span>
+                                <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
                           </div>
@@ -841,7 +841,7 @@
                             <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
-                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
+                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">FlagWars</h6>
                             <div class="mb-0">
                               <i class="mr-2 fab fa-windows"></i>
                               <i class="mr-2 fab fa-steam"></i>
@@ -849,7 +849,7 @@
                             </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
-                                Action, Adventure
+                                Action, PvE, PvP
                               </span>
                             </div>
                           </div>
@@ -857,7 +857,7 @@
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
                                 <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
-                                <span class="fw-500">Last played <span class="text-warning fw-600">July 27</span></span>
+                                <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
                           </div>
@@ -875,7 +875,7 @@
                             <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
-                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
+                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Level UP</h6>
                             <div class="mb-0">
                               <i class="mr-2 fab fa-windows"></i>
                               <i class="mr-2 fab fa-steam"></i>
@@ -883,7 +883,7 @@
                             </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
-                                Action, Adventure
+                                Arcade
                               </span>
                             </div>
                           </div>
@@ -891,7 +891,7 @@
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
                                 <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
-                                <span class="fw-500">Last played <span class="text-warning fw-600">July 27</span></span>
+                                <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
                           </div>
@@ -909,7 +909,7 @@
                             <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
-                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
+                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">SnowWars</h6>
                             <div class="mb-0">
                               <i class="mr-2 fab fa-windows"></i>
                               <i class="mr-2 fab fa-steam"></i>
@@ -917,7 +917,7 @@
                             </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
-                                Action, Adventure
+                                Action, PvE, PvP
                               </span>
                             </div>
                           </div>
@@ -925,7 +925,7 @@
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
                                 <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
-                                <span class="fw-500">Last played <span class="text-warning fw-600">July 27</span></span>
+                                <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
                           </div>
@@ -943,7 +943,7 @@
                             <img class="profile-glib img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
                           </div>
                           <div class="item_content flex-1 flex-grow pl-4 pl-sm-6 pr-6 py-4">
-                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</h6>
+                            <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-2">Survival</h6>
                             <div class="mb-0">
                               <i class="mr-2 fab fa-windows"></i>
                               <i class="mr-2 fab fa-steam"></i>
@@ -951,7 +951,7 @@
                             </div>
                             <div class="position-relative">
                               <span class="item_genre text-warning small fw-600">
-                                Action, Adventure
+                                Adventure, Dungeons, Open World, PvE, PvP
                               </span>
                             </div>
                           </div>
@@ -959,7 +959,7 @@
                             <div class="row align-items-center h-100 no-gutters">
                               <div class="text-right text-light small-2 pr-4 pr-sm-6">
                                 <span class="fw-500"><span class="text-warning fw-600">25</span> hrs total</span><br>
-                                <span class="fw-500">Last played <span class="text-warning fw-600">July 27</span></span>
+                                <span class="fw-500">Last played <span class="text-warning fw-600">December 21</span></span>
                               </div>
                             </div>
                           </div>

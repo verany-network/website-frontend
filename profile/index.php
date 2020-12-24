@@ -147,15 +147,15 @@
                     </a>
                   </li>
                   <li class="py-2 py-lg-0">
-                    <a id="mp-2-04-tab" data-toggle="tab" href="#mp-2-04-c" role="tab" aria-controls="mp-2-04-c" aria-selected="false" class="profile-nav-link text-uppercase text-center">
-                      <span class="pr-icon-nav ti-settings lead-4 d-block mb-3"></span>
-                      <span class="small-2 fw-400 ls-1">Settings</span>
-                    </a>
-                  </li>
-                  <li class="py-2 py-lg-0">
                     <a id="mp-2-05-tab" data-toggle="tab" href="#mp-2-05-c" role="tab" aria-controls="mp-2-05-c" aria-selected="false" class="profile-nav-link text-uppercase text-center">
                       <span class="pr-icon-nav ti-heart lead-4 d-block mb-3"></span>
                       <span class="small-2 fw-400 ls-1">Wishlist</span>
+                    </a>
+                  </li>
+                  <li class="py-2 py-lg-0">
+                    <a id="mp-2-04-tab" data-toggle="tab" href="#mp-2-04-c" role="tab" aria-controls="mp-2-04-c" aria-selected="false" class="profile-nav-link text-uppercase text-center">
+                      <span class="pr-icon-nav ti-settings lead-4 d-block mb-3"></span>
+                      <span class="small-2 fw-400 ls-1">Settings</span>
                     </a>
                   </li>
                 </ul>
@@ -1022,329 +1022,7 @@
             </div>
             <!-- /.tab item -->
 
-            <!-- tab item -->
-            <div class="tab-pane fade" id="mp-2-04-c" role="tabpanel" aria-labelledby="mp-2-04-tab">
-              <div class="position-relative">
-                <div class="row">
-                  <div class="col-lg-7 mb-9 mb-lg-0">
-                    <div class="mb-8">
-                      <h4><i class="ti-shopping-cart text-warning mr-2"></i>Store</h4>
-                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
-                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
-                        <div class="form-group custom-control mb-1">
-                          <span>Wallet Balance: <span class="text-warning fw-500">10,00 €</span></span>
-                        </div>
-                        <div class="form-group custom-control mb-1">
-                          <a href="#" class="text-primary fw-500">View purchase history</a>
-                        </div>
-                        <div class="form-group custom-control mb-1">
-                          <span>Country: <span class="text-warning"><i class="fas fa-globe mx-2"></i><span class="fw-500">Germany (DE)</span></span></span>
-                        </div>
-                        <div class="form-group custom-control mb-0">
-                          <a href="#" class="text-primary fw-500">View licenses and product key activations</a>
-                        </div>
-                      </form>
-                    </div>
-                    <div class="mb-8">
-                      <h4><i class="far fa-envelope text-warning mr-2"></i>Email Preferences</h4>
-                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
-                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
-                        <div class="form-group custom-control mb-1">
-                          <span>Email address: <span class="text-warning fw-500">accounts@nicokempe.de</span></span>
-                        </div>
-                        <div class="form-group custom-control mb-1">
-                          <span>Status: <span class="text-warning fw-500">Verified</span></span>
-                        </div>
-                        <div class="form-group custom-control mb-1">
-                          <a href="#" class="text-primary fw-500">Change my email address</a>
-                        </div>
-                        <div class="form-group custom-control mb-1">
-                          <span>Phone: <span class="text-warning"><i class="fas fa-mobile-alt mx-2"></i><span class="fw-500">+49 *** ******44</span></span></span>
-                        </div>
-                        <div class="form-group custom-control w-100 border-bottom border-secondary pb-4 mb-1">
-                          <a href="#" class="text-primary fw-500">Manage your phone number</a>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox pt-4">
-                          <input class="custom-control-input" type="checkbox" value="" id="dw_mailp" checked="">
-                          <label class="custom-control-label" for="dw_mailp">
-                            Send me an email when a discount applies to an item on my wish list.
-                          </label>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox">
-                          <input class="custom-control-input" type="checkbox" value="" id="spb_mailp" checked="">
-                          <label class="custom-control-label" for="spb_mailp">
-                            Send to email when the a seasonal promotion is beginning.
-                          </label>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox mb-0">
-                          <input class="custom-control-input" type="checkbox" value="" id="gse_mailp">
-                          <label class="custom-control-label" for="gse_mailp">
-                            Game-specific event notifications
-                          </label>
-                          <span class="d-block small o-80 pt-2 ml-6 pl-1">You can opt out of notifications from individual games by marking 'ignore' on their <a class="text-warning text-underline" href="store.html">store page.</a></span>
-                        </div>
-                      </form>
-                    </div>
-                    <div class="mb-8">
-                      <h4><i class="far fa-bell text-warning mr-2"></i>Email Notifications</h4>
-                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
-                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
-                        <div class="form-group custom-control custom-checkbox">
-                          <input class="custom-control-input" type="checkbox" value="" id="sDnotif">
-                          <label class="custom-control-label" for="sDnotif">
-                            Send me daily notifications
-                          </label>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox form-group custom-control w-100 border-bottom border-secondary pb-4 mb-0">
-                          <input class="custom-control-input" type="checkbox" value="" id="sNUp">
-                          <label class="custom-control-label" for="sNUp">
-                            Send me the latest updates, competitions and news
-                          </label>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox pt-3 mb-0">
-                          <span class="fw-500 o-70 small">You can specify a personal notification settings. Check the checkboxes in the required parameters.</span>
-                        </div>
-                      </form>
-                    </div>
-                    <div class="mb-8">
-                      <h4><i class="fas fa-shield-alt text-warning mr-2"></i>Account Security</h4>
-                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
-                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
-                        <div class="form-group custom-control mb-1">
-                          <span>Status: <span class="text-warning fw-500"><i class="fas fa-shield-alt text-warning mx-2"></i>Protected by Guard email</span></span>
-                        </div>
-                        <div class="form-group custom-control mb-1">
-                          <a href="#" class="text-primary fw-500">Change my password</a>
-                        </div>
-                        <div class="form-group custom-control w-100 border-bottom border-secondary pb-4 mb-0">
-                          <a href="#" class="text-primary fw-500">Learn more about Guard</a>
-                        </div>
-                        <div class="form-group custom-control pt-3 mb-0">
-                          <span class="small o-70 fw-500">This is to protect your account from unauthorized access.</span>
-                        </div>
-                      </form>
-                    </div>
-                    <div>
-                      <h4><i class="ti-truck text-warning mr-2"></i>Payment Details</h4>
-                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
-                      <span class="d-block mb-5">Include the following types of products in my store:</span>
-                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
-                        <div class="form-group custom-control custom-checkbox">
-                          <span class="lead-1 fw-500"><i class="far fa-map text-warning mr-2"></i>Billing Address</span>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox">
-                          <span>Street: <span class="text-warning fw-600">Am Park 8</span></span>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox">
-                          <span>City: <span class="text-warning fw-600">Leinfelden-Echterdingen</span></span>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox">
-                          <span>State Full: <span class="text-warning fw-600">Baden-Württemberg</span></span>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox">
-                          <span>Zip Code: <span class="text-warning fw-600">70771</span></span>
-                        </div>
-                        <div class="form-group custom-control custom-checkbox mb-0">
-                          <span>Phone Number: <span class="text-warning fw-600">+49 *** ******44</span></span>
-                        </div>
-                      </form>
-                    </div>
-                  </div>
-                  <div class="col-lg-5">
-                    <div class="card bg-dark_A-20 border border-secondary">
-                      <div class="px-5 pt-3"><span class="fw-600 ls-1 text-uppercase small-1"><i class="fas fa-user text-warning mr-2"></i>Profile Setting</span></div>
-                      <div class="px-5 pt-3 pb-6">
-                        <div class="mb-6">
-                          <hr class="border-secondary mt-2 mb-4">
-                          <span class="d-block fw-600 mb-5"><i class="fas fa-user-secret text-warning mr-2"></i>Privacy Settings</span>
-                          <form class="input-transparent mb-5">
-                            <div class="form-row">
-                              <div class="form-group col d-flex align-items-center">
-                                <div class="form-group mb-0">
-                                  <label class="small-2 text-warning fw-600 mb-0" for="country">My profile:</label>
-                                </div>
-                              </div>
-                              <div class="form-group col-md-5">
-                                <select class="form-control form-control-sm" id="country">
-                                  <option>Public</option>
-                                  <option>Friends Only</option>
-                                  <option>Private</option>
-                                </select>
-                              </div>
-                            </div>
-                            <div>
-                              <span class="small-4 o-90">Your community profile includes your profile summary, friends list, badges, showcases, and comments.</span>
-                            </div>
-                          </form>
-                          <form class="input-transparent mb-5">
-                            <div class="form-row">
-                              <div class="form-group col d-flex align-items-center">
-                                <div class="form-group mb-0">
-                                  <label class="small-2 text-warning fw-600 mb-0" for="gameDetails">Game details:</label>
-                                </div>
-                              </div>
-                              <div class="form-group col-md-5">
-                                <select class="form-control form-control-sm" id="gameDetails">
-                                  <option>Public</option>
-                                  <option>Friends Only</option>
-                                  <option>Private</option>
-                                </select>
-                              </div>
-                            </div>
-                            <div>
-                              <span class="small-4 o-90">Your game details include your game activity (played time and last played).</span>
-                            </div>
-                          </form>
-                        </div>
-                        <div>
-                          <div>
-                            <hr class="border-secondary mt-2 mb-5">
-                            <span class="d-block fw-600 mb-5"><i class="fas fa-link text-warning mr-2"></i>Connections</span>
-                            <hr class="border-secondary mt-2 mb-5">
-                          </div>
-                          <!-- Connect Steam -->
-                          <div class="mb-5 border-bottom border-secondary">
-                            <div class="row mb-5">
-                              <div class="col">
-                                <div class="d-flex align-items-center">
-                                  <i class="fab fa-google lead-4 text-warning mr-2"></i>
-                                  <span class="fw-600">Google<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Steam and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
-                                </div>
-                              </div>
-                              <div class="col-md-5 text-right">
-                                <a href="#" class="btn btn-sm btn-warning">Connect</a>
-                              </div>
-                            </div>
-                            <div class="mb-5">
-                              <div class="row">
-                                <div class="col">
-                                  <div class="d-flex align-items-center">
-                                    <span class="small-2">Show Account Information</span>
-                                  </div>
-                                </div>
-                                <div class="col-2 d-flex align-items-center">
-                                  <div class="custom-switch ml-auto">
-                                    <input type="checkbox" class="custom-switch-input" id="SwitchAccountInfo" checked="">
-                                    <label class="custom-switch-label mb-0" for="SwitchAccountInfo"></label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div class="mb-5">
-                              <div class="row">
-                                <div class="col">
-                                  <div class="d-flex align-items-center">
-                                    <span class="small-2">Show Notifications</span>
-                                  </div>
-                                </div>
-                                <div class="col-2 d-flex align-items-center">
-                                  <div class="custom-switch ml-auto">
-                                    <input type="checkbox" class="custom-switch-input" id="SwitchNotifications">
-                                    <label class="custom-switch-label mb-0" for="SwitchNotifications"></label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <!-- /.Connect Steam -->
-                          <!-- Connect Twitch -->
-                          <div class="mb-5 border-bottom border-secondary">
-                            <div class="row mb-5">
-                              <div class="col">
-                                <div class="d-flex align-items-center">
-                                  <i class="fab fa-twitch lead-4 text-warning mr-2"></i>
-                                  <span class="fw-600">Twitch<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Twitch and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
-                                </div>
-                              </div>
-                              <div class="col-md-5 text-right">
-                                <a href="#" class="btn btn-sm btn-warning">Connect</a>
-                              </div>
-                            </div>
-                            <div class="mb-5">
-                              <div class="row">
-                                <div class="col">
-                                  <div class="d-flex align-items-center">
-                                    <span class="small-2">Show Account Information</span>
-                                  </div>
-                                </div>
-                                <div class="col-2 d-flex align-items-center">
-                                  <div class="custom-switch ml-auto">
-                                    <input type="checkbox" class="custom-switch-input" id="SwitchAccountInfo_t" checked="">
-                                    <label class="custom-switch-label mb-0" for="SwitchAccountInfo_t"></label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div class="mb-5">
-                              <div class="row">
-                                <div class="col">
-                                  <div class="d-flex align-items-center">
-                                    <span class="small-2">Show Notifications</span>
-                                  </div>
-                                </div>
-                                <div class="col-2 d-flex align-items-center">
-                                  <div class="custom-switch ml-auto">
-                                    <input type="checkbox" class="custom-switch-input" id="SwitchNotifications_t" checked="">
-                                    <label class="custom-switch-label mb-0" for="SwitchNotifications_t"></label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <!-- /.Connect Twitch -->
-                          <!-- Connect Facebook -->
-                          <div>
-                            <div class="row mb-5">
-                              <div class="col">
-                                <div class="d-flex align-items-center">
-                                  <i class="fab fa-twitter lead-4 text-warning mr-2"></i>
-                                  <span class="fw-600">Twitter<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Facebook and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
-                                </div>
-                              </div>
-                              <div class="col-md-5 text-right">
-                                <a href="#" class="btn btn-sm btn-warning">Connect</a>
-                              </div>
-                            </div>
-                            <div class="mb-5">
-                              <div class="row">
-                                <div class="col">
-                                  <div class="d-flex align-items-center">
-                                    <span class="small-2">Show Account Information</span>
-                                  </div>
-                                </div>
-                                <div class="col-2 d-flex align-items-center">
-                                  <div class="custom-switch ml-auto">
-                                    <input type="checkbox" class="custom-switch-input" id="SwitchAccountInfo_f">
-                                    <label class="custom-switch-label mb-0" for="SwitchAccountInfo_f"></label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div>
-                              <div class="row">
-                                <div class="col">
-                                  <div class="d-flex align-items-center">
-                                    <span class="small-2">Show Notifications</span>
-                                  </div>
-                                </div>
-                                <div class="col-2 d-flex align-items-center">
-                                  <div class="custom-switch ml-auto">
-                                    <input type="checkbox" class="custom-switch-input" id="SwitchNotifications_f" checked="">
-                                    <label class="custom-switch-label mb-0" for="SwitchNotifications_f"></label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <!-- /.Connect Facebook -->
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- /.tab item -->
+            
 
             <!-- tab item -->
             <div class="tab-pane fade" id="mp-2-05-c" role="tabpanel" aria-labelledby="mp-2-05-tab">
@@ -1664,6 +1342,331 @@
               </div>
             </div>
             <!-- /.tab item -->
+
+            <!-- tab item -->
+            <div class="tab-pane fade" id="mp-2-04-c" role="tabpanel" aria-labelledby="mp-2-04-tab">
+              <div class="position-relative">
+                <div class="row">
+                  <div class="col-lg-7 mb-9 mb-lg-0">
+                    <div class="mb-8">
+                      <h4><i class="ti-shopping-cart text-warning mr-2"></i>Store</h4>
+                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
+                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
+                        <div class="form-group custom-control mb-1">
+                          <span>Wallet Balance: <span class="text-warning fw-500">10,00 €</span></span>
+                        </div>
+                        <div class="form-group custom-control mb-1">
+                          <a href="#" class="text-primary fw-500">View purchase history</a>
+                        </div>
+                        <div class="form-group custom-control mb-1">
+                          <span>Country: <span class="text-warning"><i class="fas fa-globe mx-2"></i><span class="fw-500">Germany (DE)</span></span></span>
+                        </div>
+                        <div class="form-group custom-control mb-0">
+                          <a href="#" class="text-primary fw-500">View licenses and product key activations</a>
+                        </div>
+                      </form>
+                    </div>
+                    <div class="mb-8">
+                      <h4><i class="far fa-envelope text-warning mr-2"></i>Email Preferences</h4>
+                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
+                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
+                        <div class="form-group custom-control mb-1">
+                          <span>Email address: <span class="text-warning fw-500">accounts@nicokempe.de</span></span>
+                        </div>
+                        <div class="form-group custom-control mb-1">
+                          <span>Status: <span class="text-warning fw-500">Verified</span></span>
+                        </div>
+                        <div class="form-group custom-control mb-1">
+                          <a href="#" class="text-primary fw-500">Change my email address</a>
+                        </div>
+                        <div class="form-group custom-control mb-1">
+                          <span>Phone: <span class="text-warning"><i class="fas fa-mobile-alt mx-2"></i><span class="fw-500">+49 *** ******44</span></span></span>
+                        </div>
+                        <div class="form-group custom-control w-100 border-bottom border-secondary pb-4 mb-1">
+                          <a href="#" class="text-primary fw-500">Manage your phone number</a>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox pt-4">
+                          <input class="custom-control-input" type="checkbox" value="" id="dw_mailp" checked="">
+                          <label class="custom-control-label" for="dw_mailp">
+                            Send me an email when a discount applies to an item on my wish list.
+                          </label>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox">
+                          <input class="custom-control-input" type="checkbox" value="" id="spb_mailp" checked="">
+                          <label class="custom-control-label" for="spb_mailp">
+                            Send to email when the a seasonal promotion is beginning.
+                          </label>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox mb-0">
+                          <input class="custom-control-input" type="checkbox" value="" id="gse_mailp">
+                          <label class="custom-control-label" for="gse_mailp">
+                            Game-specific event notifications
+                          </label>
+                          <span class="d-block small o-80 pt-2 ml-6 pl-1">You can opt out of notifications from individual games by marking 'ignore' on their <a class="text-warning text-underline" href="store.html">store page.</a></span>
+                        </div>
+                      </form>
+                    </div>
+                    <div class="mb-8">
+                      <h4><i class="far fa-bell text-warning mr-2"></i>Email Notifications</h4>
+                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
+                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
+                        <div class="form-group custom-control custom-checkbox">
+                          <input class="custom-control-input" type="checkbox" value="" id="sDnotif">
+                          <label class="custom-control-label" for="sDnotif">
+                            Send me daily notifications
+                          </label>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox form-group custom-control w-100 border-bottom border-secondary pb-4 mb-0">
+                          <input class="custom-control-input" type="checkbox" value="" id="sNUp">
+                          <label class="custom-control-label" for="sNUp">
+                            Send me the latest updates, competitions and news
+                          </label>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox pt-3 mb-0">
+                          <span class="fw-500 o-70 small">You can specify a personal notification settings. Check the checkboxes in the required parameters.</span>
+                        </div>
+                      </form>
+                    </div>
+                    <div class="mb-8">
+                      <h4><i class="fas fa-shield-alt text-warning mr-2"></i>Account Security</h4>
+                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
+                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
+                        <div class="form-group custom-control mb-1">
+                          <span>Status: <span class="text-warning fw-500"><i class="fas fa-shield-alt text-warning mx-2"></i>Protected by Guard email</span></span>
+                        </div>
+                        <div class="form-group custom-control mb-1">
+                          <a href="#" class="text-primary fw-500">Change my password</a>
+                        </div>
+                        <div class="form-group custom-control w-100 border-bottom border-secondary pb-4 mb-0">
+                          <a href="#" class="text-primary fw-500">Learn more about Guard</a>
+                        </div>
+                        <div class="form-group custom-control pt-3 mb-0">
+                          <span class="small o-70 fw-500">This is to protect your account from unauthorized access.</span>
+                        </div>
+                      </form>
+                    </div>
+                    <div>
+                      <h4><i class="ti-truck text-warning mr-2"></i>Payment Details</h4>
+                      <hr class="w-10 border-top-2 mt-5 mb-5 ml-0 mr-auto border-warning">
+                      <span class="d-block mb-5">Include the following types of products in my store:</span>
+                      <form class="input-transparent d-flex align-items-start flex-column bg-dark_A-20 border border-secondary px-5 py-4">
+                        <div class="form-group custom-control custom-checkbox">
+                          <span class="lead-1 fw-500"><i class="far fa-map text-warning mr-2"></i>Billing Address</span>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox">
+                          <span>Street: <span class="text-warning fw-600">Am Park 8</span></span>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox">
+                          <span>City: <span class="text-warning fw-600">Leinfelden-Echterdingen</span></span>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox">
+                          <span>State Full: <span class="text-warning fw-600">Baden-Württemberg</span></span>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox">
+                          <span>Zip Code: <span class="text-warning fw-600">70771</span></span>
+                        </div>
+                        <div class="form-group custom-control custom-checkbox mb-0">
+                          <span>Phone Number: <span class="text-warning fw-600">+49 *** ******44</span></span>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                  <div class="col-lg-5">
+                    <div class="card bg-dark_A-20 border border-secondary">
+                      <div class="px-5 pt-3"><span class="fw-600 ls-1 text-uppercase small-1"><i class="fas fa-user text-warning mr-2"></i>Profile Setting</span></div>
+                      <div class="px-5 pt-3 pb-6">
+                        <div class="mb-6">
+                          <hr class="border-secondary mt-2 mb-4">
+                          <span class="d-block fw-600 mb-5"><i class="fas fa-user-secret text-warning mr-2"></i>Privacy Settings</span>
+                          <form class="input-transparent mb-5">
+                            <div class="form-row">
+                              <div class="form-group col d-flex align-items-center">
+                                <div class="form-group mb-0">
+                                  <label class="small-2 text-warning fw-600 mb-0" for="country">My profile:</label>
+                                </div>
+                              </div>
+                              <div class="form-group col-md-5">
+                                <select class="form-control form-control-sm" id="country">
+                                  <option>Public</option>
+                                  <option>Friends Only</option>
+                                  <option>Private</option>
+                                </select>
+                              </div>
+                            </div>
+                            <div>
+                              <span class="small-4 o-90">Your community profile includes your profile summary, friends list, badges, showcases, and comments.</span>
+                            </div>
+                          </form>
+                          <form class="input-transparent mb-5">
+                            <div class="form-row">
+                              <div class="form-group col d-flex align-items-center">
+                                <div class="form-group mb-0">
+                                  <label class="small-2 text-warning fw-600 mb-0" for="gameDetails">Game details:</label>
+                                </div>
+                              </div>
+                              <div class="form-group col-md-5">
+                                <select class="form-control form-control-sm" id="gameDetails">
+                                  <option>Public</option>
+                                  <option>Friends Only</option>
+                                  <option>Private</option>
+                                </select>
+                              </div>
+                            </div>
+                            <div>
+                              <span class="small-4 o-90">Your game details include your game activity (played time and last played).</span>
+                            </div>
+                          </form>
+                        </div>
+                        <div>
+                          <div>
+                            <hr class="border-secondary mt-2 mb-5">
+                            <span class="d-block fw-600 mb-5"><i class="fas fa-link text-warning mr-2"></i>Connections</span>
+                            <hr class="border-secondary mt-2 mb-5">
+                          </div>
+                          <!-- Connect Google -->
+                          <div class="mb-5 border-bottom border-secondary">
+                            <div class="row mb-5">
+                              <div class="col">
+                                <div class="d-flex align-items-center">
+                                  <i class="fab fa-google lead-4 text-warning mr-2"></i>
+                                  <span class="fw-600">Google<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Steam and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
+                                </div>
+                              </div>
+                              <div class="col-md-5 text-right">
+                                <a href="#" class="btn btn-sm btn-warning">Connect</a>
+                              </div>
+                            </div>
+                            <div class="mb-5">
+                              <div class="row">
+                                <div class="col">
+                                  <div class="d-flex align-items-center">
+                                    <span class="small-2">Show Account Information</span>
+                                  </div>
+                                </div>
+                                <div class="col-2 d-flex align-items-center">
+                                  <div class="custom-switch ml-auto">
+                                    <input type="checkbox" class="custom-switch-input" id="SwitchAccountInfo" checked="">
+                                    <label class="custom-switch-label mb-0" for="SwitchAccountInfo"></label>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="mb-5">
+                              <div class="row">
+                                <div class="col">
+                                  <div class="d-flex align-items-center">
+                                    <span class="small-2">Show Notifications</span>
+                                  </div>
+                                </div>
+                                <div class="col-2 d-flex align-items-center">
+                                  <div class="custom-switch ml-auto">
+                                    <input type="checkbox" class="custom-switch-input" id="SwitchNotifications">
+                                    <label class="custom-switch-label mb-0" for="SwitchNotifications"></label>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <!-- /.Connect Google -->
+                          <!-- Connect Twitch -->
+                          <div class="mb-5 border-bottom border-secondary">
+                            <div class="row mb-5">
+                              <div class="col">
+                                <div class="d-flex align-items-center">
+                                  <i class="fab fa-twitch lead-4 text-warning mr-2"></i>
+                                  <span class="fw-600">Twitch<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Twitch and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
+                                </div>
+                              </div>
+                              <div class="col-md-5 text-right">
+                                <a href="#" class="btn btn-sm btn-warning">Connect</a>
+                              </div>
+                            </div>
+                            <div class="mb-5">
+                              <div class="row">
+                                <div class="col">
+                                  <div class="d-flex align-items-center">
+                                    <span class="small-2">Show Account Information</span>
+                                  </div>
+                                </div>
+                                <div class="col-2 d-flex align-items-center">
+                                  <div class="custom-switch ml-auto">
+                                    <input type="checkbox" class="custom-switch-input" id="SwitchAccountInfo_t" checked="">
+                                    <label class="custom-switch-label mb-0" for="SwitchAccountInfo_t"></label>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="mb-5">
+                              <div class="row">
+                                <div class="col">
+                                  <div class="d-flex align-items-center">
+                                    <span class="small-2">Show Notifications</span>
+                                  </div>
+                                </div>
+                                <div class="col-2 d-flex align-items-center">
+                                  <div class="custom-switch ml-auto">
+                                    <input type="checkbox" class="custom-switch-input" id="SwitchNotifications_t" checked="">
+                                    <label class="custom-switch-label mb-0" for="SwitchNotifications_t"></label>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <!-- /.Connect Twitch -->
+                          <!-- Connect Twitter -->
+                          <div>
+                            <div class="row mb-5">
+                              <div class="col">
+                                <div class="d-flex align-items-center">
+                                  <i class="fab fa-twitter lead-4 text-warning mr-2"></i>
+                                  <span class="fw-600">Twitter<span class="profile-ttip small-8 ml-1" data-toggle="tooltip" data-placement="bottom" title="Connect the Facebook and you can see your gameplay data."><i class="fas fa-question-circle"></i></span></span>
+                                </div>
+                              </div>
+                              <div class="col-md-5 text-right">
+                                <a href="#" class="btn btn-sm btn-warning">Connect</a>
+                              </div>
+                            </div>
+                            <div class="mb-5">
+                              <div class="row">
+                                <div class="col">
+                                  <div class="d-flex align-items-center">
+                                    <span class="small-2">Show Account Information</span>
+                                  </div>
+                                </div>
+                                <div class="col-2 d-flex align-items-center">
+                                  <div class="custom-switch ml-auto">
+                                    <input type="checkbox" class="custom-switch-input" id="SwitchAccountInfo_f">
+                                    <label class="custom-switch-label mb-0" for="SwitchAccountInfo_f"></label>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <div class="row">
+                                <div class="col">
+                                  <div class="d-flex align-items-center">
+                                    <span class="small-2">Show Notifications</span>
+                                  </div>
+                                </div>
+                                <div class="col-2 d-flex align-items-center">
+                                  <div class="custom-switch ml-auto">
+                                    <input type="checkbox" class="custom-switch-input" id="SwitchNotifications_f" checked="">
+                                    <label class="custom-switch-label mb-0" for="SwitchNotifications_f"></label>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <!-- /.Connect Twitter -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- /.tab item -->
+
           </div>
         </div>  
       </div>

@@ -75,7 +75,7 @@
             </div>
           </div>
           <div class="col-4 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
-            <a class="btn btn-sm btn-warning text-secondary mr-2" href="#" data-toggle="modal" data-target="#userLogin">Sign in</a>
+            <a class="btn btn-sm btn-light text-secondary mr-2" href="#" data-toggle="modal" data-target="#userLogin">Sign in</a>
             <a class="btn btn-sm text-light d-none d-sm-inline-block" href="#" data-toggle="modal" data-target="#userSignUp">Sign up</a>
           </div>
         </div>
@@ -875,7 +875,7 @@
                 <a class="small-3" href="#">Forgot password?</a>
               </div>
               <div class="form-group mt-6">
-                <button class="btn btn-block btn-warning" type="submit">Login</button>
+                <button class="btn btn-block btn-light" type="submit">Sign in</button>
               </div>
             </form>
             <span class="small">Don't have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#userSignUp" >Create an account</a></span>
@@ -907,11 +907,10 @@
               <div class="form-group input-group mb-0">
                 <input type="text" class="form-control" placeholder="Enter Your Code">
                   <div class="input-group-append ml-3">
-                  <button class="btn btn-warning" type="button">CHECK</button>
                 </div>
               </div>
               <div class="form-group mt-6">
-                <button class="btn btn-block btn-warning" type="submit">Sign up</button>
+                <button class="btn btn-block btn-light" type="submit">Sign up</button>
               </div>
             </form>
             <span class="small">Already have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#userSignIn" >Log in</a></span>

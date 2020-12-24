@@ -333,12 +333,61 @@
         <hr class="border-light o-20 mt-8 mb-4">
       </div>
       <div class="offcanvas-cart-body flex-1">
-        <div class="empty">
-          <span class="fw-500">The cart is empty.</span>
+        <div class="offcanvas-cart-list row align-items-center no-gutters">
+          <div class="ocs-cart-item col-12">
+            <div class="row align-items-center no-gutters">
+              <div class="col-3 item_img d-none d-sm-block">
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+              </div>
+              <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
+                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">VIP (Lifetime)</span></a>
+                <div class="position-relative lh-1">
+                  <div class="number-input">
+                    <button onclick="this.parentNode.querySelector('input[type=number]').stepDown()" ><i class="ti-minus"></i></button>
+                    <input class="quantity" min="0" name="quantity" value="1" type="number">
+                    <button onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i class="ti-plus"></i></button>
+                  </div>
+                </div>
+              </div>
+              <div class="col-2">
+                <div class="row align-items-center h-100 no-gutters">
+                  <div class="ml-auto text-center">
+                    <a href="#"><i class="far fa-trash-alt"></i></a><br>
+                    <span class="fw-500 text-warning">30,00 €</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="ocs-cart-item col-12">
+            <div class="row align-items-center no-gutters">
+              <div class="col-3 item_img d-none d-sm-block">
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+              </div>
+              <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
+                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">JoinMe Tokens</span></a>
+                <div class="position-relative lh-1">
+                  <div class="number-input">
+                    <button onclick="this.parentNode.querySelector('input[type=number]').stepDown()" ><i class="ti-minus"></i></button>
+                    <input class="quantity" min="0" name="quantity" value="10" type="number">
+                    <button onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i class="ti-plus"></i></button>
+                  </div>
+                </div>
+              </div>
+              <div class="col-2">
+                <div class="row align-items-center h-100 no-gutters">
+                  <div class="ml-auto text-center">
+                    <a href="#"><i class="far fa-trash-alt"></i></a><br>
+                    <span class="fw-500 text-warning">3,75 €</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div>
-        <a data-toggle="offcanvas-close" data-dismiss="offcanvas" aria-label="Close" class="btn btn-lg btn-block btn-outline-light">Continue shopping</a>
+        <a href="checkout-order.html" class="btn btn-lg btn-block btn-outline-light">View cart</a>
       </div>
     </div>
     <!-- /.offcanvas-cart -->

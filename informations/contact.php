@@ -300,7 +300,7 @@
                 <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
+                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">VIP (Lifetime)</span></a>
                 <div class="position-relative lh-1">
                   <div class="number-input">
                     <button onclick="this.parentNode.querySelector('input[type=number]').stepDown()" ><i class="ti-minus"></i></button>
@@ -313,7 +313,7 @@
                 <div class="row align-items-center h-100 no-gutters">
                   <div class="ml-auto text-center">
                     <a href="#"><i class="far fa-trash-alt"></i></a><br>
-                    <span class="fw-500 text-warning">€44.99</span>
+                    <span class="fw-500 text-warning">30,00 €</span>
                   </div>
                 </div>
               </div>
@@ -325,11 +325,11 @@
                 <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">Integer sagittis semper</span></a>
+                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">JoinMe Tokens</span></a>
                 <div class="position-relative lh-1">
                   <div class="number-input">
                     <button onclick="this.parentNode.querySelector('input[type=number]').stepDown()" ><i class="ti-minus"></i></button>
-                    <input class="quantity" min="0" name="quantity" value="1" type="number">
+                    <input class="quantity" min="0" name="quantity" value="10" type="number">
                     <button onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i class="ti-plus"></i></button>
                   </div>
                 </div>
@@ -338,7 +338,7 @@
                 <div class="row align-items-center h-100 no-gutters">
                   <div class="ml-auto text-center">
                     <a href="#"><i class="far fa-trash-alt"></i></a><br>
-                    <span class="fw-500 text-warning">€27.59</span>
+                    <span class="fw-500 text-warning">3,75 €</span>
                   </div>
                 </div>
               </div>

@@ -54,7 +54,7 @@
                     </div>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link" href=".././store/store.php">Store</a>
+                  <a class="nav-link" href=".././store/index.php">Store</a>
                     <div class="-" aria-labelledby="dropdownGaming_community">
                     </div>
                   </li>
@@ -77,11 +77,9 @@
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="../assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">NicoVRNY </a>
                   <div class="dropdown-menu position-absolute" aria-labelledby="dropdownUser">
-                    <a class="dropdown-item" href="../profile/profile.php"><span class="mr-2"><i class="fas fa-user"></i></span>Profile</a>
-                    <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-cog"></i></span>Settings</a>
-                    <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-wallet"></i></span>Wallet</a>
-                    <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-sign-out-alt"></i></span>Logout</a>
-                  </div>
+                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-user"></i></span>Profile</a>
+                  <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-sign-out-alt"></i></span>Logout</a>
+                </div>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle small" href="#" id="dropdownGaming" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="mr-2 fas fa-globe"></i>EN </a>

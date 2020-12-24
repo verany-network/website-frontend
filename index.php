@@ -56,7 +56,7 @@
                     </div>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link" href="./store/store.php">Store</a>
+                  <a class="nav-link" href="./store/index.php">Store</a>
                     <div class="-" aria-labelledby="dropdownGaming_community">
                     </div>
                   </li>

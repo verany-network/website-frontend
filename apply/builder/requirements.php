@@ -73,7 +73,7 @@
                     </div>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link" href="../support/support.php">Support</a>
+                  <a class="nav-link" href="../support/help-center.php">Support</a>
                     <div class="-" aria-labelledby="dropdownGaming_community">
                     </div>
                   </li>

@@ -151,9 +151,8 @@
               <div class="col-lg-8 mb-8 mb-lg-0">
                 <div>
                   <div>
-                    <h4>Payment Options</h4>
+                    <h4>Builder Application</h4>
                     <hr class="border-secondary my-4">
-                    <span class="d-block small-1 o-90 mb-4">Select Payment Method</span>
                     <div>
                       <div id="accordion-5" class="accordion accordion-connected accordion-no-header">
                         <div class="card">
@@ -182,113 +181,7 @@
                           </div>
                           <div id="collapse-5-2" class="collapse" aria-labelledby="Card" data-parent="#accordion-5">
                             <div class="card-body">
-                              <form class="input-transparent">
-                                <div class="form-row">
-                                  <div class="form-group col-md-5">
-                                    <label class="small-1" for="cardNumber">Card Number *</label>
-                                    <input class="form-control" id="cardNumber" type="text" name="cardNumber" required="">
-                                  </div>
-                                  <div class="form-group col-md-3">
-                                    <label class="small-1" for="securityCode">Security Code *</label>
-                                    <input class="form-control" id="securityCode" type="text" name="securityCode" required="">
-                                  </div>
-                                  <div class="form-group col-md-4">
-                                    <div class="d-flex align-items-center pt-md-7">
-                                      <div class="lead-3 pl-1 pr-3"><i class="fas fa-credit-card text-warning"></i></div>
-                                      <div class="small lh-5">The 3 digit security code on the back of your card.</div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="form-row">
-                                  <div class="form-group col-md-5">
-                                    <label class="small-1" for="nameOnCard">Name on Card *</label>
-                                    <input class="form-control" id="nameOnCard" type="text" name="nameOnCard" required="">
-                                  </div>
-                                  <div class="form-group col-md-3">
-                                    <label class="small-1" for="expiryDate">Expiry Date *</label>
-                                    <div class="form-row">
-                                      <div class="form-group mb-md-0 col-md-6">
-                                        <select class="form-control pl-2" id="expiryDate">
-                                          <option>MM</option>
-                                          <option>1</option>
-                                          <option>2</option>
-                                          <option>3</option>
-                                          <option>4</option>
-                                          <option>5</option>
-                                          <option>6</option>
-                                          <option>7</option>
-                                          <option>8</option>
-                                          <option>9</option>
-                                          <option>10</option>
-                                          <option>11</option>
-                                          <option>12</option>
-                                        </select>
-                                      </div>
-                                      <div class="form-group mb-md-0 col-md-6">
-                                        <select class="form-control pl-2" id="expiryDateYYYY">
-                                          <option>YYYY</option>
-                                          <option>2019</option>
-                                          <option>2020</option>
-                                          <option>2021</option>
-                                          <option>2022</option>
-                                          <option>2023</option>
-                                          <option>2024</option>
-                                          <option>2025</option>
-                                        </select>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div class="form-group col-md-4">
-                                    <label class="small-1" for="expiryDate">Start Date <span class="small">(if applicable)</span></label>
-                                    <div class="form-row">
-                                      <div class="form-group mb-md-0 col-md-6">
-                                        <select class="form-control pl-2" id="startDate">
-                                          <option>MM</option>
-                                          <option>1</option>
-                                          <option>2</option>
-                                          <option>3</option>
-                                          <option>4</option>
-                                          <option>5</option>
-                                          <option>6</option>
-                                          <option>7</option>
-                                          <option>8</option>
-                                          <option>9</option>
-                                          <option>10</option>
-                                          <option>11</option>
-                                          <option>12</option>
-                                        </select>
-                                      </div>
-                                      <div class="form-group mb-md-0 col-md-6">
-                                        <select class="form-control pl-2" id="startDateYYYY">
-                                          <option>YYYY</option>
-                                          <option>2020</option>
-                                          <option>2019</option>
-                                          <option>2018</option>
-                                          <option>2017</option>
-                                          <option>2016</option>
-                                          <option>2015</option>
-                                          <option>2014</option>
-                                        </select>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div class="form-group mb-md-0 col-md-6">
-                                    <label class="small-1" for="issueNumber">Issue Number <span class="small">(if applicable)</span></label>
-                                    <input class="form-control" id="issueNumber" type="text" name="issueNumber" required="">
-                                  </div>
-                                  <div class="form-group mb-md-0 col-md-6">
-                                    <div>
-                                      <label class="o-0 d-none d-md-inline-block" for="issueNumber">Remember my payment details</label>
-                                      <div class="form-group custom-control custom-checkbox mb-0 pt-2 pl-2">
-                                        <input class="custom-control-input" type="checkbox" value="" id="rMyPD">
-                                        <label class="custom-control-label" for="rMyPD">
-                                          Remember my payment details
-                                        </label>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </form>
+                              <span class="d-block mb-3">Wir verlangen echt viel.</span>    
                             </div>
                           </div>
                         </div>
@@ -303,15 +196,14 @@
                           </div>
                           <div id="collapse-5-3" class="collapse" aria-labelledby="ApplePay" data-parent="#accordion-5">
                             <div class="card-body">
-                              <span class="d-block mb-3">After clicking on 'Place order', you will be redirected to the Apple Pay page to finish your transaction.</span>
-                              <form class="input-transparent">
-                                <div class="form-group custom-control custom-checkbox">
-                                  <input class="custom-control-input" type="checkbox" value="" id="applePay_ref">
-                                  <label class="custom-control-label" for="applePay_ref">
-                                    Save payment details for faster checkout next time
-                                  </label>
-                                </div>
-                              </form>            
+                              <span class="d-block mb-3">We offer you:</span>
+                              <ul>
+                                <li>A wide range of popular (and premium) plugins to make your work easier</li>
+                                <li>Exciting work assignments</li>
+                                <li>The opportunity to grow through our team and through our orders</li>
+                                <li>A working (1.16.4) build server</li>
+                                <li>More possibilities than other servers because we are running on the latest versions of Minecraft</li>
+                              </ul>
                             </div>
                           </div>
                         </div>

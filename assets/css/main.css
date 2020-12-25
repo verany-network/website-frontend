@@ -15356,8 +15356,7 @@ a.social-youtube:hover {
   .section-header {
     max-width: 70%; } }
 .header {
-  position: relative;
-  overflow: hidden; }
+  position: relative; }
 
 [data-animation="search"] {
   position: relative;

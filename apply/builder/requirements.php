@@ -123,7 +123,7 @@
       <!-- content area -->
       <div class="content-section text-light">
         <div class="container">
-        <header class="header text-center mb-6">
+          <header class="header text-center mb-6">
             <div class="row gutters-y">
               <div class="col-12 pt-8">
                 <div class="timeline-horizontal">

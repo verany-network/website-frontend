@@ -118,19 +118,19 @@
             <div class="row gutters-y">
               <div class="col-12 pt-8">
                 <div class="timeline-horizontal">
-                  <div class="timeline-item flex-1 p-0" data-step="&#xe60d;">
+                  <div class="timeline-item flex-1 p-0" data-step="">
                     <div class="pt-8 pb-7 px-2 px-sm-4 border-left border-bottom border-secondary">
-                      <span class="text-uppercase small-3 fw-600">Your Cart</span>
+                      <span class="text-uppercase small-3 fw-600">Requirements</span>
                     </div>
                   </div>
-                  <div class="timeline-item flex-1 p-0" data-step="&#xe69b;">
+                  <div class="timeline-item flex-1 border-secondary p-0" data-step="">
                     <div class="pt-8 pb-7 px-2 px-sm-4 border-bottom border-secondary">
-                      <span class="text-uppercase small-3 fw-600">Address</span>
+                      <span class="text-uppercase small-3 fw-600">Application</span>
                     </div>
                   </div>
-                  <div class="timeline-item flex-1 border-secondary p-0" data-step="&#xe721;">
+                  <div class="timeline-item flex-1 border-secondary p-0" data-step="">
                     <div class="pt-8 pb-7 px-2 px-sm-4 border-bottom border-secondary border-right">
-                      <span class="text-uppercase small-3 fw-600">Payment</span>
+                      <span class="text-uppercase small-3 fw-600">Contact options</span>
                     </div>
                   </div>
                 </div>

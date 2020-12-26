@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Verany • Forum | Topic</title>
+    <title>Verany • Forum | Builder Bewerbungsphase</title>
 
     <!-- CSS -->
     <link href="./../assets/css/fonts/etline-font.min.css" rel="stylesheet">
@@ -118,13 +118,13 @@
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb-product breadcrumb breadcrumb-nowrap breadcrumb-angle bg-transparent pl-0 pr-0 mb-0">
                 <li class="breadcrumb-item"><a href="forum.html">Forum</a></li>
-                <li class="breadcrumb-item"><a href="forum.html">General</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Can someone create a mod for me</li>
+                <li class="breadcrumb-item"><a href="forum.html">Posts</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Bewerbungsphase für Builder</li>
               </ol>
             </nav>
             <div class="d-flex align-items-center mb-6">
-              <a class="d-none d-sm-inline-block badge badge-warning text-secondary fw-600 mr-3" href="#">General</a>
-              <h2 class="mb-0">Can someone create a mod for me</h2>
+              <a class="d-none d-sm-inline-block badge badge-warning text-secondary fw-600 mr-3" href="#">Announcement</a>
+              <h2 class="mb-0">Bewerbungsphase für Builder</h2>
             </div>
           </header>
           <div class="position-relative">
@@ -133,14 +133,14 @@
               <div class="col-12 mb-6">
                 <div class="border border-secondary rounded">
                   <div class="d-flex align-items-center bg-secondary px-4 py-2">
-                    <span class="fw-600 ls-1 text-uppercase small">Sep 22, 2020</span>
+                    <span class="fw-600 ls-1 text-uppercase small">Dec 27, 2020</span>
                     <span class="fw-600 ls-1 text-uppercase small ml-auto">#1</span>
                   </div>
                   <div class="row no-gutters">
                     <div class="col-md-2">
                       <div class="bg-dark_A-20 border-md-right border-secondary h-100 p-3">
                         <div class="mb-2">
-                          <a class="dropdown-toggle fw-600" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fas fa-user text-warning mr-1"></i>Lukeg1209</a>
+                          <a class="dropdown-toggle fw-600" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fas fa-user text-warning mr-1"></i>NicoVRNY</a>
                           <div class="dropdown-menu dropdown-menu-share small-2">
                             <a class="dropdown-item" href="#">View User Profile</a>
                             <a class="dropdown-item" href="#">View Posts</a>
@@ -148,11 +148,11 @@
                           </div>
                         </div>
                         <div class="mb-2">
-                          <img class="forum-topic-img img" src="./../assets/img/avatar/3.jpg" alt="User">
+                          <img class="forum-topic-img img" src="./../assets/img/avatar/2.jpg" alt="User">
                         </div>
                         <div class="small">
-                          <span class="d-block mb-1"><i class="fas fa-clock text-warning mr-1"></i><span class="fw-600">Join Date</span>: 9/22/2019</span>
-                          <span class="d-block"><i class="fas fa-comment-alt text-warning mr-1"></i><span class="fw-600">Posts</span>: 2</span>
+                          <span class="d-block mb-1"><i class="fas fa-clock text-warning mr-1"></i><span class="fw-600">Join Date</span>: 12/24/2020</span>
+                          <span class="d-block"><i class="fas fa-comment-alt text-warning mr-1"></i><span class="fw-600">Posts</span>: 1</span>
                         </div>
                       </div>
                     </div>
@@ -160,23 +160,19 @@
                       <div class="d-flex flex-column h-100 p-4">
                         <div class="flex-1">
                           <p>
-                            <strong>Cras sagittis blandit sollicitudin</strong>. Vestibulum hendrerit nisl at congue blandit. 
-                            Vivamus vitae libero a lacus bibendum aliquam egestas at tellus. 
-                            Proin viverra, ex non sodales imperdiet, eros ante sollicitudin lacus, a luctus dolor sem et est. Proin ac nisl neque. 
-                            Nam dignissim metus a felis tincidunt, vitae vestibulum felis viverra. Maecenas iaculis sollicitudin urna, a sodales eros sodales sollicitudin. 
-                            Nam feugiat, orci at interdum finibus, quam nunc sagittis urna, in venenatis nisl tellus eget sem.
+                            <strong>Hey liebe Community</strong>,
+                            <br>
+                            um die finalen Schritte für unsere große Eröffnung machen zu können benötigen wir jetzt eure tatkräftige Unterstützung beim bauen und verbessern unserer Karten. Genauere Informationen zu euren Bewerbungen findet ihr im Bewerbungsformular. Anforderungen, Fragen und mehr werdet ihr beim bearbeiten eurer Bewerbung auf unserer Seite vorfinden. Dort sollten inder Regel auch all eure Fragen geklärt werden.
                           </p>
                           <p>
-                            Duis non velit blandit, fermentum arcu vitae, consequat nunc.
+                            Mit freundlichen Grüßen,
+                            <br>
+                            <i>die Bauleitung des Verany Netzwerkes</i>
                           </p>
-                          <img src="./../assets/img/content/product/01.jpg" alt="Game" class="mb-4">
-                          <p>
-                            Aenean quam sem, consequat et felis in, consectetur auctor lectus. Praesent diam lectus, efficitur vitae porta eu, malesuada vitae enim. 
-                            Aliquam id commodo nunc, in lobortis leo. Donec rutrum orci eu odio tincidunt tempor vitae nec leo.
-                          </p>
+                          <img src="./../assets/img/content/product/maps-bauen.png" alt="Game" class="mb-4">
                         </div>
                         <div class="mt-6">
-                          <span class="small-3 font-italic">Last edited by <a href="#" class="text-primary">Lukeg1209</a>: Sep 23, 2020</span>
+                          <span class="small-3 font-italic">Last edited by <a href="#" class="text-primary">NicoVRNY</a>: Dec 25, 2020</span>
                         </div>
                       </div>
                     </div>
@@ -195,7 +191,7 @@
                     <div class="col-md-2">
                       <div class="bg-dark_A-20 border-right border-secondary h-100 p-3">
                         <div class="mb-2">
-                          <a class="dropdown-toggle fw-600" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fas fa-user text-warning mr-1"></i>Trhod177</a>
+                          <a class="dropdown-toggle fw-600" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fas fa-user text-warning mr-1"></i>tylix</a>
                           <div class="dropdown-menu dropdown-menu-share small-2">
                             <a class="dropdown-item" href="#">View User Profile</a>
                             <a class="dropdown-item" href="#">View Posts</a>
@@ -203,7 +199,7 @@
                           </div>
                         </div>
                         <div class="mb-2">
-                          <img class="forum-topic-img img" src="./../assets/img/avatar/2.jpg" alt="User">
+                          <img class="forum-topic-img img" src="./../assets/img/avatar/3.jpg" alt="User">
                         </div>
                         <div class="small">
                           <span class="d-block mb-1"><i class="fas fa-clock text-warning mr-1"></i><span class="fw-600">Join Date</span>: 7/23/2013</span>
@@ -215,11 +211,11 @@
                       <div class="d-flex flex-column h-100 p-4">
                         <div class="flex-1">
                           <p>
-                            Vestibulum et nisl vel massa interdum pretium suscipit et lacus. Cras accumsan sit amet orci non aliquet. 
+                            Viel Glück an alle Bewerber!
                           </p>
                         </div>
                         <div class="mt-6">
-                          <span class="small-3 font-italic">Last edited by <a href="#" class="text-primary">Trhod177</a>: 1 day ago</span>
+                          <span class="small-3 font-italic">Last edited by <a href="#" class="text-primary">tylix</a>: 1 day ago</span>
                         </div>
                       </div>
                     </div>
@@ -292,7 +288,7 @@
       <div class="container">
           <div class="row gutters-y">
               <div class="col-6 col-lg-3">
-                <a href="#" class="logo d-block mb-4"><img src="assets/img/logo.png" alt="Logo" class="logo-dark"></a>
+                <a href="#" class="logo d-block mb-4"><img src="../assets/img/logo.png" alt="Logo" class="logo-dark"></a>
                 <p>The Verany.net network is a network that specializes in innovative pastimes.</p>
                 <div class="social-buttons">
                   <a class="social-mail" href="mailto:contact@verany.net"><i class="far fa-envelope"></i></a>
@@ -337,50 +333,6 @@
       </div>
     </footer>
     <!-- /.footer -->
-
-    <!-- sign Up -->
-    <div class="modal fade" id="userLogin" tabindex="-1" role="dialog" aria-labelledby="userLoginTitle" aria-hidden="true">
-      <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
-        <div class="modal-content bg-dark text-light">
-          <div class="modal-header border-secondary">
-            <h5 class="modal-title" id="userLoginTitle">Log in</h5>
-            <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <div class="modal-body">
-            <div>
-              <div class="text-center my-6"> 
-                <a class="btn btn-circle btn-sm btn-google mr-2" href=""><i class="fab fa-google"></i></a>
-                <a class="btn btn-circle btn-sm btn-facebook mr-2" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-circle btn-sm btn-twitter" href=""><i class="fab fa-twitter"></i></a>
-              </div>
-              <span class="hr-text small my-6">Or</span>
-            </div>
-            <form class="input-transparent">
-              <div class="form-group">
-                <input type="text" class="form-control border-secondary" name="username" placeholder="Username">
-              </div>
-              <div class="form-group">
-                <input type="password" class="form-control border-secondary" name="password" placeholder="Password">
-              </div>
-              <div class="form-group d-flex justify-content-between">
-                <div class="custom-control custom-checkbox">
-                  <input type="checkbox" class="custom-control-input" checked="" id="rememberMeCheck">
-                  <label class="custom-control-label" for="rememberMeCheck">Remember me</label> 
-                </div>
-                <a class="small-3" href="#">Forgot password?</a>
-              </div>
-              <div class="form-group mt-6">
-                <button class="btn btn-block btn-warning" type="submit">Login</button>
-              </div>
-            </form>
-            <span class="small">Don't have an account? <a href="#">Create an account</a></span>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- /.sign Up -->
 
     <!-- offcanvas-cart -->
     <div id="offcanvas-cart" class="offcanvas-cart offcanvas text-light h-100 r-0 l-auto d-flex flex-column" data-animation="slideRight">

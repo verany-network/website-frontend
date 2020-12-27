@@ -142,7 +142,7 @@
               <div class="col-lg-8 mb-8 mb-lg-0">
                 <div>
                   <div>
-                    <h4>Contact Options</h4>
+                    <h4>Contact Details</h4>
                     <hr class="border-secondary my-4">
                     <div class="mb-9">
                       <form class="input-transparent" autocomplete="off">
@@ -220,6 +220,9 @@
                       <li><hr class="my-3 border-secondary"></li>
                       <li>
                         <a href="checkout-payment.php" class="btn btn-lg btn-block btn-light mt-4 px-3">SEND APPLICATION</a>
+                      </li>
+                      <li class="lh-1">
+                        <span class="small-4 text-lt w-100 mt-4 pb-1 d-inline-block">By clicking Apply, you accept our <a href="#" target="_blank" class="text-rp text-primary text-underline">refund policy</a>.</span>
                       </li>
                     </ul>
                   </div>

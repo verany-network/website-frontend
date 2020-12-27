@@ -151,7 +151,7 @@
               <div class="col-lg-8 mb-8 mb-lg-0">
                 <div>
                   <div>
-                    <h4>Builder Application</h4>
+                    <h4>Requirements</h4>
                     <hr class="border-secondary my-4">
                     <div>
                       <div id="accordion-5" class="accordion accordion-connected accordion-no-header">
@@ -181,7 +181,19 @@
                           </div>
                           <div id="collapse-5-2" class="collapse" aria-labelledby="Card" data-parent="#accordion-5">
                             <div class="card-body">
-                              <span class="d-block mb-3">Wir verlangen echt viel.</span>    
+                              <span class="d-block mb-3">In order to be able to meet our experience, here is a list of the requirements we have set:</span>
+                              <ul>
+                                <li>You should be able to work on projects independently but also in large teams</li>
+                                <li>You are able to take the time you need for our project</li>
+                                <li>You already have experience with known plugins for building and are interested in getting to know others that we have written</li>
+                                <li>Not only should you enjoy building, you should also have an interest in developing yourself. </li>
+                              </ul>
+                              <br>
+                              <span class="d-block mb-3">Additionally adventageous:</span>
+                              <ul>
+                                <li>Experience with the latest Minecraft versions (especially the newest blocks and their ids)</li>
+                                <li>Experience with plugins like <a href="https://github.com/Brennian/Arceon/wiki">Arceon</a>, and <a href="https://www.spigotmc.org/resources/head-database.14280/">HeadDatabase</a></li>
+                              </ul>
                             </div>
                           </div>
                         </div>
@@ -214,48 +226,48 @@
               </div>
               <div class="col-lg-4">
                 <div class="archive border border-secondary rounded">
-                  <div class="bg-secondary px-4 py-1"><span class="fw-600 ls-1 text-uppercase lead-1">Summary</span></div>
+                  <div class="bg-secondary px-4 py-1"><span class="fw-600 ls-1 text-uppercase lead-1">Application Overview</span></div>
                   <div class="p-4">
                     <ul class="list-unstyled small mb-0">
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div><i class="fas fa-plus text-warning"></i></div>
+                          <div><i class="fas fa-plus text-light"></i></div>
                           <div class="ml-auto">Professional building server</div>
                         </div>
                       </li>
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div><i class="fas fa-plus text-warning"></i></div>
+                          <div><i class="fas fa-plus text-light"></i></div>
                           <div class="ml-auto">Training by your personal mentor</div>
                         </div>
                       </li>
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div><i class="fas fa-plus text-warning"></i></div>
+                          <div><i class="fas fa-plus text-light"></i></div>
                           <div class="ml-auto">The builder rank with many advantages</div>
                         </div>
                       </li>
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div><i class="fas fa-plus text-warning"></i></div>
+                          <div><i class="fas fa-plus text-light"></i></div>
                           <div class="ml-auto">A hobby pastime in a competent team</div>
                         </div>
                       </li>
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div><i class="fas fa-minus text-warning"></i></div>
+                          <div><i class="fas fa-minus text-light"></i></div>
                           <div class="ml-auto">Considerable amount of time to build</div>
                         </div>
                       </li>
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div><i class="fas fa-minus text-warning"></i></div>
+                          <div><i class="fas fa-minus text-light"></i></div>
                           <div class="ml-auto">No payment</div>
                         </div>
                       </li>
                       <li><hr class="my-3 border-secondary"></li>
                       <li>
-                        <a href="#" class="btn btn-lg btn-block btn-warning mt-4">Apply</a>
+                        <a href="#" class="btn btn-lg btn-block btn-light mt-4">NEXT</a>
                       </li>
                       <li class="lh-1">
                         <span class="small-4 text-lt w-100 mt-4 pb-1 d-inline-block">By clicking Apply, you accept our <a href="#" target="_blank" class="text-rp text-primary text-underline">refund policy</a>.</span>

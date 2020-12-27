@@ -75,7 +75,7 @@
           <div class="col-4 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
             <ul class="nav navbar-nav d-none d-sm-inline-flex flex-row">
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="../assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">NicoVRNY </a>
+                <a class="nav-link dropdown-toggle small text-capitalize" href="#" id="dropdownUser" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="../../assets/img/avatar/2.jpg" class="img-xs rounded-circle mr-2" alt="Avatar">NicoVRNY </a>
                 <div class="dropdown-menu position-absolute" aria-labelledby="dropdownUser">
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-user"></i></span>Profile</a>
                   <a class="dropdown-item" href="#"><span class="mr-2"><i class="fas fa-sign-out-alt"></i></span>Logout</a>
@@ -142,7 +142,7 @@
               <div class="col-lg-8 mb-8 mb-lg-0">
                 <div>
                   <div>
-                    <h4>Billing details</h4>
+                    <h4>Application</h4>
                     <hr class="border-secondary my-4">
                     <div class="mb-9">
                       <form class="input-transparent">
@@ -157,64 +157,38 @@
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="small-1" for="country">Country *</label>
+                          <label class="small-1" for="country">Desired area(s) *</label>
                           <select class="form-control" id="country">
-                            <option>Argentina</option>
-                            <option>Germany</option>
-                            <option>Japan</option>
-                            <option>South Korea</option>
-                            <option>United Kingdom (UK)</option>
-                            <option>United States (US)</option>
+                            <option>Terrain</option>
+                            <option>Details</option>
+                            <option>Structures</option>
+                            <option>Coloring</option>
+                            <option>Armor Stand Editing</option>
+                            <option>Something else</option>
                           </select>
                         </div>
                         <div class="form-group">
-                          <label class="small-1" for="billing_address_1">Street address *</label>
-                          <input name="billing_address_1" type="text" class="form-control" required="" placeholder="House number and street name" id="billing_address_1">
+                          <label class="small-1" for="order_comments">Informations about you</label>
+                          <textarea class="form-control" placeholder="What hobbies do you have besides swimming and cycling? Are you in any club or something like that?" id="order_comments" rows="3"></textarea>
                         </div>
                         <div class="form-group">
-                          <input name="billing_address_2" type="text" class="form-control" required="" placeholder="Apartment, suite, unit etc. (optional)" id="billing_address_2">
+                          <label class="small-1" for="order_comments">Your experiences</label>
+                          <textarea class="form-control" placeholder="Have you already had experience in other server or construction teams? How long have you been building? Are there any projects that are particularly well known or that you are particularly proud of? (In the best case with related links)" id="order_comments" rows="3"></textarea>
                         </div>
                         <div class="form-group">
-                          <label class="small-1" for="billing_city">Town / City *</label>
-                          <input name="billing_city" type="text" class="form-control" required="" id="billing_city">
-                        </div>
-                        <div class="form-group">
-                          <label class="small-1" for="state">State *</label>
-                          <select class="form-control" id="state">
-                            <option>Alabama</option>
-                            <option>Colorado</option>
-                            <option>Louisiana</option>
-                            <option>New York</option>
-                            <option>Ohio</option>
-                            <option>Wyoming</option>
-                          </select>
-                        </div>
-                        <div class="form-group">
-                          <label class="small-1" for="billing_postcode">ZIP *</label>
-                          <input name="billing_postcode" type="text" class="form-control" required="" id="billing_postcode">
-                        </div>
-                        <div class="form-group">
-                          <label class="small-1" for="billing_phone">Phone *</label>
-                          <input name="billing_phone" type="text" class="form-control" required="" id="billing_phone">
-                        </div>
-                        <div class="form-group">
-                          <label class="small-1" for="billing_email">Email address *</label>
-                          <input name="billing_email" type="email" class="form-control" required="" id="billing_email">
+                          <label class="small-1" for="order_comments">Visibility of your maps</label>
+                          <textarea class="form-control" placeholder="Can you find your projects anywhere? (For example plots built on servers like PixelBiester and Cytooxien)" id="order_comments" rows="3"></textarea>
                         </div>
                       </form>
                     </div>
                     <hr class="border-secondary my-7">
-                    <h4 class="mb-6">Shipping details</h4>
+                    <h4 class="mb-6">Attachments</h4>
                     <div>
                       <form class="input-transparent">
                         <div class="form-group custom-control custom-checkbox">
-                          <input class="custom-control-input" type="checkbox" value="" id="ship_to_different_address">
-                          <label class="custom-control-label" for="ship_to_different_address">
-                            Ship to a different address?
-                          </label>
                         </div>
                         <div class="form-group">
-                          <label class="small-1" for="order_comments">Order notes (optional)</label>
+                          <label class="small-1" for="order_comments">Links and Screenshots (optional)</label>
                           <textarea class="form-control" placeholder="Notes about your order, e.g. special notes for delivery." id="order_comments" rows="3"></textarea>
                         </div>
                       </form>
@@ -224,42 +198,27 @@
               </div>
               <div class="col-lg-4">
                 <div class="archive border border-secondary rounded">
-                  <div class="bg-secondary px-4 py-1"><span class="fw-600 ls-1 text-uppercase lead-1">Billing Details</span></div>
+                  <div class="bg-secondary px-4 py-1"><span class="fw-600 ls-1 text-uppercase lead-1">Application Overview</span></div>
                   <div class="p-4">
                     <ul class="list-unstyled small mb-0">
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div>Street</div>
-                          <div class="ml-auto text-warning">3154  Doctors Drive</div>
+                          <div>Advertised as a:</div>
+                          <div class="ml-auto text-success">Builder</div>
                         </div>
                       </li>
                       <li class="my-1">
                         <div class="d-flex small-2 fw-600">
-                          <div>City</div>
-                          <div class="ml-auto">Los Angeles</div>
-                        </div>
-                      </li>
-                      <li class="my-1">
-                        <div class="d-flex text-info small-2 fw-600">
-                          <div>State Full</div>
-                          <div class="ml-auto">California</div>
-                        </div>
-                      </li>
-                      <li class="my-1">
-                        <div class="d-flex small-2 fw-600">
-                          <div>Zip Code</div>
-                          <div class="ml-auto text-danger">90017</div>
-                        </div>
-                      </li>
-                      <li class="my-1">
-                        <div class="d-flex small-2 fw-600">
-                          <div>Phone Number</div>
-                          <div class="ml-auto text-warning">310-341-3767</div>
+                          <div>Desired area(s):</div>
+                          <div class="ml-auto">Terrain</div>
                         </div>
                       </li>
                       <li><hr class="my-3 border-secondary"></li>
                       <li>
-                        <a href="checkout-payment.php" class="btn btn-lg btn-block btn-warning mt-4 px-3">Deliver To This Address</a>
+                        <a href="checkout-payment.php" class="btn btn-lg btn-block btn-light mt-4 px-3">NEXT</a>
+                      </li>
+                      <li class="lh-1">
+                        <span class="small-4 text-lt w-100 mt-4 pb-1 d-inline-block">By clicking Apply, you accept our <a href="#" target="_blank" class="text-rp text-primary text-underline">refund policy</a>.</span>
                       </li>
                     </ul>
                   </div>

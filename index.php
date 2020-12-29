@@ -795,7 +795,7 @@
     <!-- /.footer -->
 
     <!-- sign in -->
-    <div style="overflox-y: hidden" class="modal fade" id="userLogin" tabindex="-1" role="dialog" aria-labelledby="userLoginTitle" aria-hidden="true">
+    <div style="overflox-y: hidden" class="modal fade" id="userSignIn" tabindex="-1" role="dialog" aria-labelledby="userLoginTitle" aria-hidden="true">
       <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
         <div class="modal-content bg-dark text-light">
           <div class="modal-header border-secondary">

@@ -230,7 +230,7 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/games/flagwars.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
@@ -241,10 +241,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">FLAGWARS</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">97k ALLTIME PLAYERS</span>
-                              <span class="owl_item_genre">
-                                PVP
-                              </span>
+                              <span>If you enjoy games like BedWars and Tower Defense, you will love FlagWars.</span>
                             </div>
                           </div>
                         </div>
@@ -258,7 +255,7 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/games/snowwars.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
@@ -269,10 +266,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">SNOWWARS</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">87k ALLTIME PLAYERS</span>
-                              <span class="owl_item_genre">
-                                PVP
-                              </span>
+                              <span>A snowball fight with up to 12 players: alone or in a team, fun is guaranteed.</span>
                             </div>
                           </div>
                         </div>
@@ -286,7 +280,7 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/games/duels.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
@@ -297,10 +291,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">DUELS</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">81k ALLTIME PLAYERS</span>
-                              <span class="owl_item_genre">
-                                PVP
-                              </span>
+                              <span>From classic kit fights to sumo, oneline and SkyWars to personalized tournaments, everyone will find their luck in duels.</span>
                             </div>
                           </div>
                         </div>
@@ -314,7 +305,7 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/games/survival.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
@@ -325,10 +316,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">SURVIVAL</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">72k ALLTIME PLAYERS</span>
-                              <span class="owl_item_genre">
-                                PVP
-                              </span>
+                              <span>Your own shop, a huge mall, an infinitely large beautiful map and your own minions.</span>
                             </div>
                           </div>
                         </div>
@@ -342,7 +330,7 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/games/rpg.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i></i>
@@ -353,10 +341,7 @@
                           <div>
                             <h5 class="owl_item_title text-lt"><a href="">RPG</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">27k ALLTIME PLAYERS</span>
-                              <span class="owl_item_genre">
-                                PVP
-                              </span>
+                              <span>New quests every day, a breathtaking, living map with a comprehensive infrastructure.</span>
                             </div>
                           </div>
                         </div>
@@ -377,7 +362,7 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/store/rank-vip_lifetime.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
@@ -386,12 +371,9 @@
                             </div>
                           </div>
                           <div>
-                            <h5 class="owl_item_title text-lt"><a href="">VIP 3 MONTHS</a></h5>
+                            <h5 class="owl_item_title text-lt"><a href="">VIP (LIFETIME)</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">50.000 CREDITS</span>
-                              <span class="owl_item_genre">
-                                3 Months
-                              </span>
+                              <span class="owl_item_price">40,00 €</span>
                             </div>
                           </div>
                         </div>
@@ -405,7 +387,7 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/store/rank-vipplus_1year.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
@@ -414,12 +396,9 @@
                             </div>
                           </div>
                           <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
+                            <h5 class="owl_item_title text-lt"><a href="">VIP+ (12 Months)</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€1.87</span>
-                              <span class="owl_item_genre">
-                                PVP
-                              </span>
+                              <span class="owl_item_price">50,00 €</span>
                             </div>
                           </div>
                         </div>
@@ -433,7 +412,7 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/store/rank-vip_1month.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
@@ -442,12 +421,9 @@
                             </div>
                           </div>
                           <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
+                            <h5 class="owl_item_title text-lt"><a href="">VIP (30 Days)</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€1.87</span>
-                              <span class="owl_item_genre">
-                                PVP
-                              </span>
+                              <span class="owl_item_price">10,00 €</span>
                             </div>
                           </div>
                         </div>
@@ -461,7 +437,7 @@
                       <figure class="owl_item_review">
                         <div>
                           <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                            <img class="m-0-auto" src="assets/img/content/cont/store/rank-vip_3months.png" alt="Games Store">
                             <div class="review_h text-light">
                               <a href="#">
                                 <i class="item_icon_cart fas fa-shopping-cart"></i>
@@ -470,40 +446,9 @@
                             </div>
                           </div>
                           <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
+                            <h5 class="owl_item_title text-lt"><a href="">VIP (3 Months)</a></h5>
                             <div class="relative small-1">
-                              <span class="owl_item_price">€1.87</span>
-                              <span class="owl_item_genre">
-                                PVP
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </figure>
-                    </div>
-                  </div>
-                  <!-- /.item -->
-                  <!-- item -->
-                  <div class="item">
-                    <div class="item-cont">
-                      <figure class="owl_item_review">
-                        <div>
-                          <div class="position-relative overflow-hidden">
-                            <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
-                            <div class="review_h text-light">
-                              <a href="#">
-                                <i class="item_icon_cart fas fa-shopping-cart"></i>
-                                <span class="item_atc_text">MORE</span>
-                              </a>
-                            </div>
-                          </div>
-                          <div>
-                            <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
-                            <div class="relative small-1">
-                              <span class="owl_item_price">€1.87</span>
-                              <span class="owl_item_genre">
-                                PVP
-                              </span>
+                              <span class="owl_item_price">25,00 €</span>
                             </div>
                           </div>
                         </div>

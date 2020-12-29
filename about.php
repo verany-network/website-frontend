@@ -484,10 +484,10 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./assets/img/content/cont/store/vip_30days.png" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
-                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">VIP (Lifetime)</span></a>
+                <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">VIP (24 hours)</span></a>
                 <div class="position-relative lh-1">
                   <div class="number-input">
                     <button onclick="this.parentNode.querySelector('input[type=number]').stepDown()" ><i class="ti-minus"></i></button>
@@ -500,7 +500,7 @@
                 <div class="row align-items-center h-100 no-gutters">
                   <div class="ml-auto text-center">
                     <a href="#"><i class="far fa-trash-alt"></i></a><br>
-                    <span class="fw-500 text-warning">30,00 €</span>
+                    <span class="fw-500 text-warning">00,00 €</span>
                   </div>
                 </div>
               </div>
@@ -509,7 +509,7 @@
           <div class="ocs-cart-item col-12">
             <div class="row align-items-center no-gutters">
               <div class="col-3 item_img d-none d-sm-block">
-                <a href="store-product.html"><img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Product"></a>
+                <a href="store-product.html"><img class="img bl-3 text-primary" src="./assets/img/content/cont/store/token-joinme.png" alt="Product"></a>
               </div>
               <div class="col-7 flex-1 flex-grow pl-0 pl-sm-4 pr-4">
                 <a href="store-product.html"><span class="d-block item_title text-lt ls-1 lh-1 small-1 fw-600 text-uppercase mb-2">JoinMe Tokens</span></a>

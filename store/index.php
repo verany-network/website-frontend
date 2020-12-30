@@ -300,7 +300,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/vip-plus_12months.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">VIP+ (12 Months)</h6>
@@ -334,7 +334,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/vip_lifetime.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">VIP (Lifetime)</h6>
@@ -368,7 +368,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/vip_3months.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">VIP (3 Months)</h6>
@@ -402,7 +402,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/vip_30days.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">VIP (30 Days)</h6>
@@ -436,7 +436,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/vip_24hours.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">VIP (24 hours)</h6>
@@ -469,7 +469,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/booster-global.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Global Booster (60 Minutes)</h6>
@@ -503,7 +503,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/booster-duels.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Duels Booster (60 Minutes)</h6>
@@ -537,7 +537,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/booster-flagwars.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">FlagWars Booster (60 Minutes)</h6>
@@ -571,7 +571,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/booster-snowwars.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">SnowWars Booster (60 Minutes)</h6>
@@ -605,7 +605,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/booster-survival.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Survival Booster (60 Minutes)</h6>
@@ -646,7 +646,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/token-nick.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">Nick Token</h6>
@@ -680,7 +680,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/token-forcemap.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">ForceMap Token</h6>
@@ -714,7 +714,7 @@
                         <a href="store-product.php" class="product-item">
                           <div class="row align-items-center no-gutters">
                             <div class="item_img d-none d-sm-block">
-                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/cg-h_01.jpg" alt="Games Store">
+                              <img class="img bl-3 text-primary" src="./../assets/img/content/cont/store/token-joinme.png" alt="Games Store">
                             </div>
                             <div class="item_content flex-1 flex-grow pl-0 pl-sm-6 pr-6">
                               <h6 class="item_title ls-1 small-1 fw-600 text-uppercase mb-1">JoinMe Token</h6>

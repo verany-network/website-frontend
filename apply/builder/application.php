@@ -155,6 +155,21 @@
                             <label class="small-1" for="lastName">Last name *</label>
                             <input class="form-control" id="lastName" type="text" name="lastName" required="">
                           </div>
+                          <div class="form-group col-md-6">
+                            <label class="small-1" for="portfolioLink">Imgur / Portfolio link *</label>
+                            <input class="form-control" id="portfolioLink" type="text" name="portfolioLink" required="">
+                          </div>
+                          <div class="form-group col-md-6">
+                            <label class="small-1" for="desiredAreas">Desired area *</label>
+                              <select class="form-control" id="country">
+                                <option>Terrain</option>
+                                <option>Details</option>
+                                <option>Structures</option>
+                                <option>Coloring</option>
+                                <option>Armor Stand Editing</option>
+                                <option>Something else</option>
+                              </select>
+                          </div>
                         </div>
                         <div class="form-group">
                           <label class="small-1" for="country">Desired area(s) *</label>
@@ -178,18 +193,6 @@
                         <div class="form-group">
                           <label class="small-1" for="order_comments">Visibility of your maps</label>
                           <textarea class="form-control" placeholder="Can you find your projects anywhere? (For example plots built on servers like PixelBiester and Cytooxien)" id="order_comments" rows="3"></textarea>
-                        </div>
-                      </form>
-                    </div>
-                    <hr class="border-secondary my-7">
-                    <h4 class="mb-6">Attachments</h4>
-                    <div>
-                      <form class="input-transparent">
-                        <div class="form-group custom-control custom-checkbox">
-                        </div>
-                        <div class="form-group">
-                          <label class="small-1" for="order_comments">Links and Screenshots (optional)</label>
-                          <textarea class="form-control" placeholder="Notes about your order, e.g. special notes for delivery." id="order_comments" rows="3"></textarea>
                         </div>
                       </form>
                     </div>

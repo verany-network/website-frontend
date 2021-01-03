@@ -21,6 +21,8 @@
     <link rel="apple-touch-icon" href="./../../assets/img/apple-touch-icon.png">
     <link rel="icon" href="./../../assets/img/favicon.png">
 
+
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" crossorigin="anonymous" />
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
@@ -118,19 +120,19 @@
             <div class="row gutters-y">
               <div class="col-12 pt-8">
                 <div class="timeline-horizontal">
-                  <div class="timeline-item flex-1 p-0" data-step="">
-                    <div class="pt-8 pb-7 px-2 px-sm-4 border-left border-bottom border-secondary">
-                      <span class="text-uppercase small-3 fw-600">Requirements</span>
+                    <div class="timeline-item flex-1 p-0" data-step="✔">
+                        <div class="pt-8 pb-7 px-2 px-sm-4 border-left border-bottom border-secondary">
+                            <span class="text-uppercase small-3 fw-600">Requirements</span>
+                        </div>
                     </div>
-                  </div>
-                  <div class="timeline-item flex-1 border-secondary p-0" data-step="">
-                    <div class="pt-8 pb-7 px-2 px-sm-4 border-bottom border-secondary">
-                      <span class="text-uppercase small-3 fw-600">Application</span>
+                    <div class="timeline-item flex-1 border-secondary p-0" data-step="✉">
+                        <div class="pt-8 pb-7 px-2 px-sm-4 border-bottom border-secondary">
+                            <span class="text-uppercase small-3 fw-600">Application</span>
+                        </div>
                     </div>
-                  </div>
-                  <div class="timeline-item flex-1 border-secondary p-0" data-step="">
-                    <div class="pt-8 pb-7 px-2 px-sm-4 border-bottom border-secondary border-right">
-                      <span class="text-uppercase small-3 fw-600">Contact options</span>
+                    <div class="timeline-item flex-1 border-secondary p-0" data-step="✎">
+                        <div class="pt-8 pb-7 px-2 px-sm-4 border-bottom border-secondary border-right">
+                            <span class="text-uppercase small-3 fw-600">Contact options</span>
                     </div>
                   </div>
                 </div>
@@ -354,6 +356,8 @@
     </div>
     <!-- /.offcanvas-cart -->
 
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js" crossorigin="anonymous"></script>
     <!-- jQuery -->
     <script src="./../../assets/js/jquery.min.js"></script>
 

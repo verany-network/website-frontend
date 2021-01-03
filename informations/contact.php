@@ -105,7 +105,7 @@
     </nav>
     <!-- /.navbar -->
 
-    <main class="main-content">
+    <main class="main-content" style="height: 100vh">
 
       <!-- content area -->
       <section class="content-section">
@@ -180,13 +180,6 @@
         </div>
       </section>
       <!-- /.content area -->
-
-      <!-- content area -->
-      <div class="map_box">
-        <div class="py-13" data-map="true" data-map-style="custom" data-lat="35.61030245" data-lng="140.11365268" data-marker-lat="35.61030245" data-marker-lng="140.11365268" data-marker-animation="drop" data-marker-title="Office" data-zoom="12"></div>
-      </div>
-      <!-- /.content area -->
-
     </main>
 
     <!-- footer -->

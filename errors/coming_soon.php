@@ -43,18 +43,6 @@
                 <div class="row d-none d-md-flex">
                     <div class="col-lg-8 mx-auto">
                         <p>Currently our website is under construction.</p>
-                        <br>
-                        <h3>Subscribe to our Newsletter</h3>
-                        <hr class="w-10 border-top-2 my-6 my-xl-7 border-warning">
-                        <p>Be among the first to know when our website goes online!</p>
-                        <form class="input-transparent">
-                            <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Email">
-                                <div class="input-group-append">
-                                  <a href="#" class="input-group-text btn btn-light btn-sub">Subscribe</a>
-                                </div>
-                              </div>
-                        </form>
                     </div>
                 </div>
             </div>

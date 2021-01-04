@@ -30,12 +30,14 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body class="page-body">
+  <body class="page-body" data-overlay="7" style="background-image: url(../assets/img/content/carousel/home-slide_01.png);">
 
     <main class="main-content h-fullscreen d-flex align-items-center text-center text-light">
 
       <!-- content area -->
       <div class="container">
+        <img src="../assets/img/logo.png">
+        <hr class="w-10 border-top-2 my-6 my-xl-7 border-warning">
         <h2 class="display-md-4">404 - Nothing to see here</h2>
         <p class="lead">You may have mistyped the address or the page may have moved.</p>
         <br>

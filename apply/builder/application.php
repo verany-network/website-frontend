@@ -48,25 +48,25 @@
               <div class="collapse navbar-collapse" id="collapsingNavbar">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link" href="../">Home</a>
+                    <a class="nav-link" href="../../">Home</a>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link" href="../forum/forum.php">Forums</a>
+                  <a class="nav-link" href="../../forum/forum.php">Forums</a>
                     <div class="-" aria-labelledby="dropdownGaming_software">
                     </div>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link" href="../store/index.php">Store</a>
+                  <a class="nav-link" href="../../store/index.php">Store</a>
                     <div class="-" aria-labelledby="dropdownGaming_community">
                     </div>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link" href="../apply/apply.php">Apply</a>
+                  <a class="nav-link" href="../">Apply</a>
                     <div class="-" aria-labelledby="dropdownGaming_community">
                     </div>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link" href="../support/help-center.php">Support</a>
+                  <a class="nav-link" href="../../support/help-center.php">Support</a>
                     <div class="-" aria-labelledby="dropdownGaming_community">
                     </div>
                   </li>

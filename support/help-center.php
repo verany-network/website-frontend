@@ -107,7 +107,7 @@
     <!-- /.navbar -->
 
     <!-- main content -->
-    <main class="main-content gradient-lg position-relative">
+    <main class="main-content gradient-lg position-relative" style="height: 100vh">
 
       <!-- overlay -->
       <div class="overlay pe-n br-n bp-c bs-c o-30" style="background-image: url(./../assets/img/bg/bg_shape.png);"></div>

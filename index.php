@@ -75,7 +75,7 @@
             </div>
           </div>
           <div class="col-4 col-sm-8 col-md-8 col-lg-6 col-xl-4 ml-auto text-right">
-            <a class="btn btn-sm btn-light text-secondary mr-2" href="#" data-toggle="modal" data-target="#userLogin">Sign in</a>
+            <a class="btn btn-sm btn-light text-secondary mr-2" href="#" data-toggle="modal" data-target="#userSignIn">Sign in</a>
             <a class="btn btn-sm text-light d-none d-sm-inline-block" href="#" data-toggle="modal" data-target="#userSignUp">Sign up</a>
           </div>
         </div>
@@ -795,7 +795,7 @@
     <!-- /.footer -->
 
     <!-- sign in -->
-    <div style="overflox-y: hidden" class="modal fade" id="userSignIn" tabindex="-1" role="dialog" aria-labelledby="userLoginTitle" aria-hidden="true">
+    <div style="overflox-y: hidden" class="modal fade" id="userSignIn" tabindex="-1" role="dialog" aria-labelledby="userSignInTitle" aria-hidden="true">
       <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
         <div class="modal-content bg-dark text-light">
           <div class="modal-header border-secondary">

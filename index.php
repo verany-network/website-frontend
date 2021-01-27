@@ -704,7 +704,7 @@
               </div>
               <div class="col-md-8 order-md-1 text-light text-md-right">
                 <h2 class="mb-4">LabyMod</h2>
-                <p class="mb-7">Thanks to our closer collaboration with ReyFM, we are able to offer a customized gaming experience for everyone.</p>
+                <p class="mb-7">Thanks to our closer collaboration with LabyMod, we are able to offer a customized gaming experience for everyone.</p>
               </div>
             </div>
           </div>
@@ -713,13 +713,13 @@
             <div class="row align-items-center h-100">
               <div class="col-sm-6 col-md-4 order-md-2 mb-6 mb-md-0">
                 <figure class="position-relative my-0">
-                  <div style="background-image: url('assets/img/content/cont/partnerReyFM.png'); width: 280px;" class="main-fb-product bp-c br-n">
+                  <div style="background-image: url('assets/img/content/cont/partnerCloudNet.png'); width: 280px;" class="main-fb-product bp-c br-n">
                   </div>
                 </figure>
               </div>
               <div class="col-md-8 order-md-1 text-light text-md-right">
-                <h2 class="mb-4">ReyFM</h2>
-                <p class="mb-7">Thanks to our closer collaboration with ReyFM, we are able to offer you a high-performance music experience around the clock.</p>
+                <h2 class="mb-4">CloudNet</h2>
+                <p class="mb-7">Thanks to our closer collaboration with CloudNet, we are able to offer you a high-performance music experience around the clock.</p>
               </div>
             </div>
           </div>

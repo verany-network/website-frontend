@@ -7,11 +7,10 @@ From this repository you can build the Website for editing, bug fixing and learn
 
 We have a heap of documentation available for the code on the web. If you're looking for the answer to something, you may want to start here: 
 
-* [Core](https://dotspace.team/docs)
-* [Verany Webpages](https://docs.verany.net/web)
-* [Verany Client](https://docs.verany.net/client-addon)
+* [Core](https://github.com/verany-network/core/discussions/12)
+* [Verany Webpages](https://github.com/verany-network/website-frontend-light/discussions)
 
-If you need more, just ask! A lot of Verany developers hang out on the [forums](https://forums.verany.net/) or on our [TeamSpeak](https://ts3server://ts.verany.net/), 
+If you need more, just ask! A lot of Verany developers hang out on the [forums](https://forum.verany.net/) or on our [TeamSpeak](https://ts3server://ts.verany.net/), 
 and we're proud to be part of a well-meaning, friendly and welcoming team of developers and concept writers. 
 
 

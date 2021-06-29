@@ -21,8 +21,8 @@ The steps below will take you through cloning your own private fork, then compil
 
 ### Installation
 
-1. Install **[GitHub for Windows](https://windows.github.com/)** then **[fork and clone our repository](https://guides.github.com/activities/forking/)**. 
-   To use Git from the command line, see the [Setting up Git](https://help.github.com/articles/set-up-git/) and [Fork a Repo](https://help.github.com/articles/fork-a-repo/) articles.
+1. Install **[GitHub for Windows](https://windows.github.com/)** then **[download](x-github-client://openRepo/https://github.com/verany-network/website-frontend-light/)**. 
+   To use Git from the command line, see the [Setting up Git](https://help.github.com/articles/set-up-git/) article.
 
    If you'd prefer not to use Git, you can get the source with the 'Download ZIP' button on the right. The built-in Windows zip utility will mark the contents of zip files 
    downloaded from the Internet as unsafe to execute, so right-click the zip file and select 'Properties...' and 'Unblock' before decompressing it. Third-party zip utilities don't normally do this.

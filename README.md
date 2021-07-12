@@ -1,48 +1,20 @@
-Verany Website
+Verany Website FrontEnd Light
 =============
 
-Welcome to the Verany Website source code! 
+Willkommen zur Website FrontEnd-Einrichtung,
+hier lernt ihr wie ihr das FrontEnd Light in euer Projekt einbezieht und wie ihr dieses anschließend baut.
 
-From this repository you can build the Website for editing, bug fixing and learning. Modify them in any way you can imagine, and share your changes with others! 
-
-We have a heap of documentation available for the code on the web. If you're looking for the answer to something, you may want to start here: 
-
-* [Core](https://github.com/verany-network/core/discussions/12)
-* [Verany Webpages](https://github.com/verany-network/website-frontend-light/discussions)
-
-If you need more, just ask! A lot of Verany developers hang out on the [forums](https://forum.verany.net/) or on our [TeamSpeak](https://ts3server://ts.verany.net/), 
-and we're proud to be part of a well-meaning, friendly and welcoming team of developers and concept writers. 
-
-
-Getting up and running
+Das FrontEnd einbeziehen
 ----------------------
 
-The steps below will take you through cloning your own private fork, then compiling and running the editor yourself:
+Gegeben sein muss natürlich das allgemeine Verständnis zur Website Strukturierung in HTML 5 mit der aktuellsten Visual Studio Code Version.
 
 ### Installation
 
-1. Install **[GitHub for Windows](https://windows.github.com/)** then **[download](x-github-client://openRepo/https://github.com/verany-network/website-frontend-light/)**. 
-   To use Git from the command line, see the [Setting up Git](https://help.github.com/articles/set-up-git/) article.
-
-   If you'd prefer not to use Git, you can get the source with the 'Download ZIP' button on the right. The built-in Windows zip utility will mark the contents of zip files 
-   downloaded from the Internet as unsafe to execute, so right-click the zip file and select 'Properties...' and 'Unblock' before decompressing it. Third-party zip utilities don't normally do this.
-
-2. Install **Visual Studio Code**. 
-   All desktop editions of Visual Studio Code can run our website, including [Visual Studio Code 1.49](https://code.visualstudio.com/updates/v1_49), which is free for small teams and individual developers.
-
-Have fun!
+Installiere den aktuellsten Stand des FrontEnds mithilfe unserer **[GitHub Releases](https://github.com/verany-network/website-frontend-light/releases)**. Klicke auf dieser Seite einfach auf den farblich hervorgehobenen Button "Download". Die weiteren Schritte werden dir von hier an von GitHub selbst verständlich näher gebracht.
 
 
-Licensing and Contributions
+Lizensierung
 ---------------------------
 
-Of course we are grateful for the work on our project, but it has to be mentioned that all files that can be found here serve the Verany project.
-All contributions are governed by the terms of the EULA.
-
-
-Additional Notes
-----------------
-
-Your private forks of the Verany code are associated with your GitHub account permissions.
-If you unsubscribe or switch GitHub user names, you'll need to re-fork and upload your changes from a local copy. 
-
+Natürlich sind wir für die Arbeit an unserem Projekt dankbar, aber es muss erwähnt werden dass alle Dateien die hier zu finden sind dem Verany-Projekt dienen und auch nicht zu privaten Zwecken genutzt werden dürfen. Alle Beiträge unterliegen den Bestimmungen der EULA.

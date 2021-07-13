@@ -2,8 +2,8 @@
 name: Feature Anfrage
 about: Schlage uns deine Wunsch-Änderung vor
 title: ''
-labels: Enhancement
-assignees: ''
+labels: Feature
+assignees: nicokempe
 
 ---
 
@@ -18,3 +18,8 @@ assignees: ''
 
 **Zusätzliche Hinweise**
 - Füge weitere Hinweise, Screenshots oder Dokumente hinzu wenn dise benötigt werden
+
+**Checkliste**:
+- [ ] Ich habe alle oben angeforderten Informationen korrekt eingetragen
+- [ ] Ich habe sicher gestellt, dass dieser Bug nicht bereits eingesendet wurde [(Nutze die Suchleiste)](https://github.com/verany-network/website-frontend/issues?q=is%3Aissue)
+- [ ] Ich habe sicher gestellt, dass dieser Bug auch wirklich durch dieses Projekt ausgelöst wird

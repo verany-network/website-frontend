@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: Erstelle einen Bug Report um uns beim beheben von Fehlern zu unterstützen.
-title: ''
+title: "[BUG]"
 labels: Bug
-assignees: ''
+assignees: nicokempe
 
 ---
 
@@ -21,6 +21,6 @@ assignees: ''
 4. Sieh den Fehler
 
 **Checkliste**:
-- [] Ich habe alle oben angeforderten Informationen korrekt eingetragen
-- [] Ich habe sicher gestellt, dass dieser Bug nicht bereits eingesendet wurde [(Nutze die Suchleiste)](https://github.com/verany-network/*project name*/issues?q=is%3Aissue)
-- [] Ich habe sicher gestellt, dass dieser Bug auch wirklich durch dieses Projekt ausgelöst wird
+- [ ] Ich habe alle oben angeforderten Informationen korrekt eingetragen
+- [ ] Ich habe sicher gestellt, dass dieser Bug nicht bereits eingesendet wurde [(Nutze die Suchleiste)](https://github.com/verany-network/website-frontend/issues?q=is%3Aissue)
+- [ ] Ich habe sicher gestellt, dass dieser Bug auch wirklich durch dieses Projekt ausgelöst wird

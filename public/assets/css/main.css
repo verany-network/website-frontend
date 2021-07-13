@@ -119,6 +119,10 @@ body {
   text-align: left;
   background-color: #ffffff; }
 
+
+body.notFound {
+  background-image: url(/assets/img/content/carousel/home-slide_01.png);
+}
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 

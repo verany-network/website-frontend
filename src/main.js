@@ -8,11 +8,12 @@ Vue.config.productionTip = false
 Vue.use(VueRouter);
 
 const routes = [
-  {path: '*', redirect: '/index'},
+  {path: '*', redirect: '/404'},
   {path: '/', redirect: '/index'},
   {path: '/index', component: () => import('./views/Index')},
   {path: '/imprint', component: () => import('./views/Imprint')},
-  {path: '/privacy', component: () => import('./views/Privacy')}
+  {path: '/privacy', component: () => import('./views/Privacy')},
+  {path: '/404', component: () => import('./views/404')}
 ]
 
 const router = new VueRouter({

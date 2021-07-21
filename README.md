@@ -47,5 +47,14 @@ npm run serve
 * `dev/*`: Developer spezifischer Branch (z.B. `dev/nicokempe`, für kleine Änderungen und nur temporär ausgelegt)
 
 ---
+## Node.js Support
+| Node Version | Supported          |
+|--------------|--------------------|
+| Node 10.x    | :white_check_mark: |
+| Node 12.x    | :white_check_mark: |
+| Node 14.x    | :white_check_mark: |
+| Node 15.x    | :x:                |
+
+---
 ## Lizensierung:
 Niemand außer der Administration selbst und dem Nico Kempe Einzelunternehmen steht es zu den geschriebenen Code ohne Erlaubnis zu verwenden. Bei eigenem Einsatz in das Projekt gibt man automatisch alle Rechte an der aufgewendeten Arbeit ab.

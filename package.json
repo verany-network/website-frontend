@@ -10,14 +10,14 @@
   "dependencies": {
     "core-js": "^3.22.8",
     "vue": "^3.2.37",
-    "vue-router": "^4.0.15"
+    "vue-router": "^4.0.16"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.4",
     "@vue/cli-plugin-eslint": "~5.0.4",
     "@vue/cli-service": "~4.5.15",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.32.0",
+    "eslint": "^8.18.0",
     "eslint-plugin-vue": "^7.20.0",
     "vue-template-compiler": "^2.6.11"
   },

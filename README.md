@@ -50,7 +50,7 @@ npm run serve
 ## Node.js Support
 | Node Version | Supported          |
 |--------------|--------------------|
-| Node 10.x    | :white_check_mark: |
+| Node 10.x    | :x:                |
 | Node 12.x    | :white_check_mark: |
 | Node 14.x    | :white_check_mark: |
 | Node 15.x    | :x:                |
